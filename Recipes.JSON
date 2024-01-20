@@ -3,8 +3,11 @@
     {
         "Gin & Tonic":
         [
+            "02",
             "5|cl|Gin",
-            "10|cl|Tonic"
+            "10|cl|Tonic",
+            "Häll upp i ett glas med is och garnera",
+            "I glaset|Över is"
         ],
     },
 
