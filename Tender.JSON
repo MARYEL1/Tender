@@ -1,0 +1,130 @@
+{
+    "Sources":
+    {
+        "01":
+        [
+            "Unknown",
+            "",
+            ""
+        ],
+
+        "02":
+        [
+            "Regarding Cocktails",
+            "Sasha Petraske",
+            "2016"
+        ],
+
+        "03":
+        [
+            "Drinkoteket",
+            "https://drinkoteket.se",
+            ""
+        ]
+    },
+
+    "Ingredients":
+    {
+        "001":
+        [
+            "Vodka",
+            "40",
+            "A clear spirit composed of water and ethanol.",
+            "Common|Spirits"
+        ],
+
+        "002":
+        [
+            "Gin",
+            "40",
+            "A clear spirit made fron juniper berries.",
+            "Common|Spirits"
+        ],
+
+        "003":
+        [
+            "Tonic",
+            "0",
+            "A bitter soda with dissolved quinine.",
+            "Common|Sodas"
+        ],
+
+        "004":
+        [
+            "Lemon juice",
+            "0",
+            "A sour juice from lemons.",
+            "Common|Juices"
+        ],
+
+        "005":
+        [
+            "Honey syrup",
+            "0",
+            "A syrup made from 3 parts honey and 1 part water.",
+            "Syrups"
+        ],
+
+        "006":
+        [
+            "Thai basil syrup",
+            "0",
+            "A simple syrup made with thai basil.\nMix the leaves from one pot thai basil with 3 dl 1:1 simple syrup in a mixer and then strain it.",
+            "Specific"
+        ],
+
+        "007":
+        [
+            "Coconut foam",
+            "0",
+            "A foam made with 2 parts coconut cream and 1 part sugar. Use a siphon to get it to a foam",
+            "Specific"
+        ]
+    },
+
+    "Recipes":
+    {
+        "0001":
+        [
+            "Gin & Tonic",
+            "Pour the ingredients in a glass with ice and serve.",
+            "01",
+
+            "Build|On ice",
+            "Gin & Tonic|Collins",
+
+            "5|cl|002",
+            "10|cl|003"
+        ],
+
+        "0002":
+        [
+            "Bees Knees",
+            "Shake and strain in a chilled glass.",
+            "02",
+
+            "Shake|Straight",
+            "Coupe",
+
+            "5|cl|002",
+            "3|cl|004",
+            "2|cl|005"
+        ],
+
+        "0003":
+        [
+            "Thai Basil",
+            "Shake and strain in a chilled glass.",
+            "03",
+
+            "Shake|Straight",
+            "Coupe",
+
+            "5|cl|002",
+            "3|cl|004",
+            "3|cl|006",
+            "007"
+        ]
+    }
+
+}
