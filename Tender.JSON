@@ -90,7 +90,8 @@
             "Pour the ingredients in a glass with ice and serve.",
             "01",
 
-            "Build|On ice",
+            "Build",
+            "On ice",
             "Gin & Tonic|Collins",
 
             "5|cl|002",
@@ -103,7 +104,8 @@
             "Shake and strain in a chilled glass.",
             "02",
 
-            "Shake|Straight",
+            "Shake",
+            "Straight",
             "Coupe",
 
             "5|cl|002",
@@ -117,7 +119,8 @@
             "Shake and strain in a chilled glass.",
             "03",
 
-            "Shake|Straight",
+            "Shake",
+            "Straight",
             "Coupe",
 
             "5|cl|002",
