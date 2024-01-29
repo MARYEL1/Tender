@@ -10,7 +10,7 @@
 
         "02":
         [
-            "Regarding Cocktails Regarding Cocktails",
+            "Regarding Cocktails",
             "Sasha Petraske",
             "2016"
         ],
@@ -94,8 +94,8 @@
             "On ice",
             "Collins",
 
-            "5|cl|002",
-            "10|cl|003"
+            "5|cl|Gin|002",
+            "10|cl|Tonic|003"
         ],
 
         "0002":
@@ -108,9 +108,9 @@
             "Straight",
             "Coupe",
 
-            "5|cl|002",
-            "3|cl|004",
-            "2|cl|005"
+            "5|cl|Gin|002",
+            "3|cl|Lemon juice|004",
+            "2|cl|Honey syrup|005"
         ],
 
         "0003":
@@ -123,10 +123,10 @@
             "On ice",
             "Rocks",
 
-            "5|cl|002",
-            "3|cl|004",
-            "3|cl|006",
-            " | |007"
+            "5|cl|Gin|002",
+            "3|cl|Lemon juice|004",
+            "3|cl|Thai basil syrup|006",
+            " | |Coconut foam|007"
         ]
     }
 
