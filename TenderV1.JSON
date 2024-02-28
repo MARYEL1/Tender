@@ -653,6 +653,25 @@
             "4.5|cl|002|Gin",
             "6.5|cl|048|Soda water",
             "6.5|cl|049|Tonic water"
+        ], 
+        
+        "0005":
+        [
+            "Whiskey sour",
+            "",
+            "04",
+
+            "Shake",
+            "On ice",
+            "Rocks",
+
+            "https://www.cocktailia.se/images/74/kvs3vq-whiskey-sour-drink-recept-1920x1267_191x99.webp",
+
+            "6|cl|004|Bourbon",
+            "2|cl|054|Simple syrup",
+            "2|cl|044|Lemon juice",
+            "2|cl|061|Egg white",
+            "2|dash|041|Angostura bitters"
         ]
     }
 
