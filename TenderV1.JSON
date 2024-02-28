@@ -43,42 +43,535 @@
 
         "003":
         [
-            "Tonic",
-            "0",
-            "A bitter soda with dissolved quinine.",
-            "Common|Sodas"
+            "Whiskey",
+            "",
+            "",
+            ""
         ],
 
         "004":
         [
-            "Lemon juice",
-            "0",
-            "A sour juice from lemons.",
-            "Common|Juices"
+            "Bourbon",
+            "",
+            "",
+            ""
         ],
 
         "005":
         [
-            "Honey syrup",
-            "0",
-            "A syrup made from 3 parts honey and 1 part water.",
-            "Syrups"
+            "Rum",
+            "",
+            "",
+            ""
         ],
 
         "006":
         [
-            "Thai basil syrup",
-            "0",
-            "A simple syrup made with thai basil.\nMix the leaves from one pot thai basil with 3 dl 1:1 simple syrup in a mixer and then strain it.",
-            "Specific"
+            "Light rum",
+            "",
+            "",
+            ""
         ],
 
         "007":
         [
+            "Gold rum",
+            "",
+            "",
+            ""
+        ],
+
+        "008":
+        [
+            "Dark rum",
+            "",
+            "",
+            ""
+        ],
+
+        "009":
+        [
+            "Cachaça",
+            "",
+            "",
+            ""
+        ],
+
+        "010":
+        [
+            "Tequila",
+            "",
+            "",
+            ""
+        ],
+
+        "011":
+        [
+            "Mezcal",
+            "",
+            "",
+            ""
+        ],
+
+        "012":
+        [
+            "Cognac",
+            "",
+            "",
+            ""
+        ],
+
+        "013":
+        [
+            "Red wine",
+            "",
+            "",
+            ""
+        ],
+
+        "014":
+        [
+            "White wine",
+            "",
+            "",
+            ""
+        ],
+
+        "015":
+        [
+            "Rosé wine",
+            "",
+            "",
+            ""
+        ],
+
+        "016":
+        [
+            "Sparkling wine",
+            "",
+            "",
+            ""
+        ],
+
+        "017":
+        [
+            "Champagne",
+            "",
+            "",
+            ""
+        ],
+
+        "018":
+        [
+            "Prosecco",
+            "",
+            "",
+            ""
+        ],
+
+        "019":
+        [
+            "Cava",
+            "",
+            "",
+            ""
+        ],
+
+        "020":
+        [
+            "Absinthe",
+            "",
+            "",
+            ""
+        ],
+
+        "021":
+        [
+            "Crème de cacao",
+            "",
+            "",
+            ""
+        ],
+
+        "022":
+        [
+            "Coffee liqueur",
+            "",
+            "",
+            ""
+        ],
+
+        "023":
+        [
+            "Irish cream",
+            "",
+            "",
+            ""
+        ],
+
+        "024":
+        [
+            "Blue curaçao",
+            "",
+            "",
+            ""
+        ],
+
+        "025":
+        [
+            "Triple sec",
+            "",
+            "",
+            ""
+        ],
+
+        "026":
+        [
+            "Maraschino liqueur",
+            "",
+            "",
+            ""
+        ],
+
+        "027":
+        [
+            "Limoncello",
+            "",
+            "",
+            ""
+        ],
+
+        "028":
+        [
+            "Licor 43",
+            "",
+            "",
+            ""
+        ],
+
+        "029":
+        [
+            "Galliano L'autentico",
+            "",
+            "",
+            ""
+        ],
+
+        "030":
+        [
+            "Green Chartreuse",
+            "",
+            "",
+            ""
+        ],
+
+        "031":
+        [
+            "Yellow Chartreuse",
+            "",
+            "",
+            ""
+        ],
+
+        "032":
+        [
+            "Amaretto",
+            "",
+            "",
+            ""
+        ],
+
+        "033":
+        [
+            "Elderflower liqueur",
+            "",
+            "",
+            ""
+        ],
+
+        "034":
+        [
+            "Dry vermouth",
+            "",
+            "",
+            ""
+        ],
+
+        "035":
+        [
+            "Sweet vermouth",
+            "",
+            "",
+            ""
+        ],
+
+        "036":
+        [
+            "Aperol",
+            "",
+            "",
+            ""
+        ],
+
+        "037":
+        [
+            "Campari",
+            "",
+            "",
+            ""
+        ],
+
+        "038":
+        [
+            "Fernet Branca",
+            "",
+            "",
+            ""
+        ],
+
+        "039":
+        [
+            "Jägermeister",
+            "",
+            "",
+            ""
+        ],
+
+        "040":
+        [
+            "Becherovka",
+            "",
+            "",
+            ""
+        ],
+
+        "041":
+        [
+            "Angostura bitters",
+            "",
+            "",
+            ""
+        ],
+
+        "042":
+        [
+            "Orange bitters",
+            "",
+            "",
+            ""
+        ],
+
+        "043":
+        [
+            "Lemon juice",
+            "0",
+            "A sour juice from lemons.",
+            "Common|Juices",
+            ""
+        ],
+
+        "044":
+        [
+            "Lime juice",
+            "",
+            "",
+            ""
+        ],
+
+        "045":
+        [
+            "Orange juice",
+            "",
+            "",
+            ""
+        ],
+
+        "046":
+        [
+            "Pineapple juice",
+            "",
+            "",
+            ""
+        ],
+
+        "047":
+        [
+            "Tomato juice",
+            "",
+            "",
+            ""
+        ],
+
+        "048":
+        [
+            "Soda water",
+            "",
+            "",
+            ""
+        ],
+
+        "049":
+        [
+            "Tonic water",
+            "0",
+            "A bitter soda with dissolved quinine.",
+            "Common|Sodas",
+            ""
+        ],
+
+        "050":
+        [
+            "Ginger beer",
+            "",
+            "",
+            ""
+        ],
+
+        "051":
+        [
+            "Coke",
+            "",
+            "",
+            ""
+        ],
+
+        "052":
+        [
+            "Sprite",
+            "",
+            "",
+            ""
+        ],
+
+        "053":
+        [
+            "Red Bull",
+            "",
+            "",
+            ""
+        ],
+
+        "054":
+        [
+            "Simple syrup",
+            "",
+            "",
+            ""
+        ],
+
+        "055":
+        [
+            "Honey syrup",
+            "0",
+            "A syrup made from 3 parts honey and 1 part water.",
+            "Syrups",
+            ""
+        ],
+
+        "056":
+        [
+            "Agave syrup",
+            "",
+            "",
+            ""
+        ],
+
+        "057":
+        [
+            "Grenadine",
+            "",
+            "",
+            ""
+        ],
+
+        "058":
+        [
+            "Ginger syrup",
+            "",
+            "",
+            ""
+        ],
+
+        "059":
+        [
+            "Orgeat",
+            "",
+            "",
+            ""
+        ],
+
+        "060":
+        [
+            "Cinnamon syrup",
+            "",
+            "",
+            ""
+        ],
+
+        "061":
+        [
+            "Egg",
+            "",
+            "",
+            ""
+        ],
+
+        "062":
+        [
+            "Water",
+            "",
+            "",
+            ""
+        ],
+
+        "063":
+        [
+            "Milk",
+            "",
+            "",
+            ""
+        ],
+
+        "064":
+        [
+            "Cream",
+            "",
+            "",
+            ""
+        ],
+
+        "065":
+        [
+            "Coffee",
+            "",
+            "",
+            ""
+        ],
+
+        "066":
+        [
+            "Espresso",
+            "",
+            "",
+            ""
+        ],
+
+        "067":
+        [
+            "Thai basil syrup",
+            "0",
+            "A simple syrup made with thai basil.\nMix the leaves from one pot thai basil with 3 dl 1:1 simple syrup in a mixer and then strain it.",
+            "Specific",
+            ""
+        ],
+
+        "068":
+        [
             "Coconut foam",
             "0",
             "A foam made with 2 parts coconut cream and 1 part sugar. Use a siphon to get it to a foam",
-            "Specific"
+            "Specific",
+            ""
         ]
     },
 
@@ -97,7 +590,7 @@
             "Github",
 
             "5|cl|002|Gin",
-            "10|cl|003|Tonic"
+            "10|cl|049|Tonic water"
         ],
 
         "0002":
@@ -113,8 +606,8 @@
             "Github",
 
             "5|cl|002|Gin",
-            "3|cl|004|Lemon juice",
-            "2|cl|005|Honey syrup"
+            "3|cl|043|Lemon juice",
+            "2|cl|055|Honey syrup"
         ],
 
         "0003":
@@ -130,9 +623,9 @@
             "https://drinkoteket.se/wp-content/uploads/thai-basil.jpg",
 
             "5|cl|002|Gin",
-            "3|cl|004|Lemon juice",
-            "3|cl|006|Thai basil syrup",
-            "0| |007|Coconut foam"
+            "3|cl|043|Lemon juice",
+            "3|cl|067|Thai basil syrup",
+            "0| |068|Coconut foam"
         ]
     }
 
