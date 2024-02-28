@@ -582,6 +582,14 @@
             "40",
             "",
             "Spirits"
+        ],
+
+        "070":
+        [
+            "Mint",
+            "0",
+            "",
+            "Herbs/Spices"
         ]
     },
 
@@ -590,7 +598,7 @@
         "0001":
         [
             "Thai Basil",
-            "Shake and strain in a glass with ice.\nTop with coconut foam and a basil leaf.",
+            "Shake and strain in a chilled glass with ice.\nTop with coconut foam and a basil leaf.",
             "03",
 
             "Shake",
@@ -599,16 +607,16 @@
 
             "https://drinkoteket.se/wp-content/uploads/thai-basil.jpg",
 
-            "5|cl|002|Gin",
-            "3|cl|043|Lemon juice",
-            "3|cl|067|Thai basil syrup",
-            "0| |068|Coconut foam"
+            "5|cl|002| ",
+            "3|cl|043| ",
+            "3|cl|067| ",
+            "0| |068| "
         ],
 
         "0002":
         [
             "Bees Knees",
-            "Shake and strain in a chilled glass.",
+            "Shake and strain in a chilled glass with ice.",
             "04",
 
             "Shake",
@@ -617,9 +625,9 @@
 
             "https://www.cocktailia.se/images/74/iz1wbb-bees-knees-drink-en-twist-pa-en-gin-sour-recept-med-gin-honung-och-citronjuice-1920x1600_150x68.webp",
 
-            "5|cl|002|Gin",
-            "2|cl|043|Lemon juice",
-            "2|cl|055|Honey syrup"
+            "5|cl|002| ",
+            "2|cl|043| ",
+            "2|cl|055| "
         ],
 
         "0003":
@@ -634,8 +642,8 @@
 
             "https://www.cocktailia.se/images/74/flmnuh-gin-och-tonic-drink-recept-1920x1600_174x53.webp",
 
-            "6|cl|002|Gin",
-            "12|cl|049|Tonic water"
+            "6|cl|002| ",
+            "12|cl|049| "
         ], 
         
         "0004":
@@ -650,15 +658,15 @@
 
             "https://www.cocktailia.se/images/74/fbsibb-gin-sonic-en-gt-med-soda-cocktailiase-1920x1600_147x93.webp",
 
-            "4.5|cl|002|Gin",
-            "6.5|cl|048|Soda water",
-            "6.5|cl|049|Tonic water"
+            "4.5|cl|002| ",
+            "6.5|cl|048| ",
+            "6.5|cl|049| "
         ], 
         
         "0005":
         [
             "Whiskey sour",
-            "",
+            "Shake without ice and bitters for about 10 seconds.\nAdd ice and shake again.\nstrain in a chilled glass with ice and top with Angostura.",
             "04",
 
             "Shake",
@@ -667,11 +675,46 @@
 
             "https://www.cocktailia.se/images/74/kvs3vq-whiskey-sour-drink-recept-1920x1267_191x99.webp",
 
-            "6|cl|004|Bourbon",
-            "2|cl|054|Simple syrup",
-            "2|cl|044|Lemon juice",
-            "2|cl|061|Egg white",
-            "2|dash|041|Angostura bitters"
+            "6|cl|004| ",
+            "2|cl|054| ",
+            "2|cl|043| ",
+            "1| |061|Egg white",
+            "2|dash|041| "
+        ], 
+        
+        "0006":
+        [
+            "Gold rush",
+            "Shake and strain in a chilled glass with ice.",
+            "04",
+
+            "Shake",
+            "On ice",
+            "Rocks",
+
+            "https://www.cocktailia.se/images/74/5wjcln-gold-rush-drink-recept-1920x1267_132x98.webp",
+
+            "6|cl|004| ",
+            "2|cl|044| ",
+            "2|cl|055| "
+        ], 
+        
+        "0007":
+        [
+            "Hugo spritz",
+            "Pour the liqueur and mint in a mixing glass and muddle.\nFill a glass with ice and pour over the mix and prosecco.\nStir it gently and garnish with mint.",
+            "04",
+
+            "Build",
+            "On ice",
+            "Wine",
+
+            "https://www.cocktailia.se/images/74/k0oyz1-hugo-spritz-bubbeldrink-med-flader-cocktailiase-1920x1267_149x90.webp",
+
+            "1,5|cl|033| ",
+            "12|cl|018| ",
+            "3|cl|048| ",
+            "4| |070|Mint leaves"
         ]
     }
 
