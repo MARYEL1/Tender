@@ -10,15 +10,22 @@
 
         "02":
         [
-            "Regarding Cocktails",
-            "Sasha Petraske",
-            "2016"
+            "101 Cocktails",
+            "Stefan Lindström & Eliq Maranik",
+            "2022"
         ],
 
         "03":
         [
             "Drinkoteket",
             "https://drinkoteket.se",
+            ""
+        ],
+
+        "04":
+        [
+            "Cocktalia",
+            "https://www.cocktailia.se",
             ""
         ]
     },
@@ -44,321 +51,321 @@
         "003":
         [
             "Whiskey",
+            "40",
             "",
-            "",
-            ""
+            "Common|Spirits"
         ],
 
         "004":
         [
             "Bourbon",
+            "40",
             "",
-            "",
-            ""
+            "Common|Spirits"
         ],
 
         "005":
         [
             "Rum",
+            "40",
             "",
-            "",
-            ""
+            "Common|Spirits"
         ],
 
         "006":
         [
             "Light rum",
+            "40",
             "",
-            "",
-            ""
+            "Spirits"
         ],
 
         "007":
         [
             "Gold rum",
+            "40",
             "",
-            "",
-            ""
+            "Spirits"
         ],
 
         "008":
         [
             "Dark rum",
+            "40",
             "",
-            "",
-            ""
+            "Spirits"
         ],
 
         "009":
         [
             "Cachaça",
+            "45",
             "",
-            "",
-            ""
+            "Spirits"
         ],
 
         "010":
         [
             "Tequila",
+            "40",
             "",
-            "",
-            ""
+            "Common|Spirits"
         ],
 
         "011":
         [
             "Mezcal",
+            "40",
             "",
-            "",
-            ""
+            "Spirits"
         ],
 
         "012":
         [
             "Cognac",
+            "40",
             "",
-            "",
-            ""
+            "Spirits"
         ],
 
         "013":
         [
             "Red wine",
+            "12",
             "",
-            "",
-            ""
+            "Wine"
         ],
 
         "014":
         [
             "White wine",
+            "12",
             "",
-            "",
-            ""
+            "Wine"
         ],
 
         "015":
         [
             "Rosé wine",
+            "12",
             "",
-            "",
-            ""
+            "Wine"
         ],
 
         "016":
         [
             "Sparkling wine",
+            "12",
             "",
-            "",
-            ""
+            "Wine"
         ],
 
         "017":
         [
             "Champagne",
+            "12",
             "",
-            "",
-            ""
+            "Wine"
         ],
 
         "018":
         [
             "Prosecco",
+            "12",
             "",
-            "",
-            ""
+            "Wine"
         ],
 
         "019":
         [
             "Cava",
+            "12",
             "",
-            "",
-            ""
+            "Wine"
         ],
 
         "020":
         [
             "Absinthe",
+            "68",
             "",
-            "",
-            ""
+            "Spirits"
         ],
 
         "021":
         [
             "Crème de cacao",
+            "24",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "022":
         [
             "Coffee liqueur",
+            "16",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "023":
         [
             "Irish cream",
+            "17",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "024":
         [
             "Blue curaçao",
+            "21",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "025":
         [
             "Triple sec",
+            "40",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "026":
         [
             "Maraschino liqueur",
+            "32",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "027":
         [
             "Limoncello",
+            "30",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "028":
         [
             "Licor 43",
+            "31",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "029":
         [
-            "Galliano L'autentico",
+            "Galliano Vanilla",
+            "30",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "030":
         [
             "Green Chartreuse",
+            "55",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "031":
         [
             "Yellow Chartreuse",
+            "43",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "032":
         [
             "Amaretto",
+            "28",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "033":
         [
             "Elderflower liqueur",
+            "20",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "034":
         [
             "Dry vermouth",
+            "15",
             "",
-            "",
-            ""
+            "Vermouth"
         ],
 
         "035":
         [
             "Sweet vermouth",
+            "15",
             "",
-            "",
-            ""
+            "Vermouth"
         ],
 
         "036":
         [
             "Aperol",
+            "11",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "037":
         [
             "Campari",
+            "25",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "038":
         [
-            "Fernet Branca",
+            "Fernet-Branca",
+            "39",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "039":
         [
             "Jägermeister",
+            "35",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "040":
         [
             "Becherovka",
+            "38",
             "",
-            "",
-            ""
+            "Liqueurs"
         ],
 
         "041":
         [
             "Angostura bitters",
+            "44.7",
             "",
-            "",
-            ""
+            "Common|Bitters"
         ],
 
         "042":
         [
             "Orange bitters",
+            "28",
             "",
-            "",
-            ""
+            "Bitters"
         ],
 
         "043":
@@ -366,48 +373,47 @@
             "Lemon juice",
             "0",
             "A sour juice from lemons.",
-            "Common|Juices",
-            ""
+            "Common|Juices"
         ],
 
         "044":
         [
             "Lime juice",
+            "0",
             "",
-            "",
-            ""
+            "Common|Juices"
         ],
 
         "045":
         [
             "Orange juice",
+            "0",
             "",
-            "",
-            ""
+            "Juices"
         ],
 
         "046":
         [
             "Pineapple juice",
+            "0",
             "",
-            "",
-            ""
+            "Juices"
         ],
 
         "047":
         [
             "Tomato juice",
+            "0",
             "",
-            "",
-            ""
+            "Juices"
         ],
 
         "048":
         [
             "Soda water",
+            "0",
             "",
-            "",
-            ""
+            "Sodas"
         ],
 
         "049":
@@ -415,48 +421,47 @@
             "Tonic water",
             "0",
             "A bitter soda with dissolved quinine.",
-            "Common|Sodas",
-            ""
+            "Common|Sodas"
         ],
 
         "050":
         [
             "Ginger beer",
+            "0",
             "",
-            "",
-            ""
+            "Sodas"
         ],
 
         "051":
         [
             "Coke",
+            "0",
             "",
-            "",
-            ""
+            "Sodas"
         ],
 
         "052":
         [
             "Sprite",
+            "0",
             "",
-            "",
-            ""
+            "Sodas"
         ],
 
         "053":
         [
             "Red Bull",
+            "0",
             "",
-            "",
-            ""
+            "Sodas"
         ],
 
         "054":
         [
             "Simple syrup",
+            "0",
             "",
-            "",
-            ""
+            "Common|Syrups"
         ],
 
         "055":
@@ -464,96 +469,95 @@
             "Honey syrup",
             "0",
             "A syrup made from 3 parts honey and 1 part water.",
-            "Syrups",
-            ""
+            "Syrups"
         ],
 
         "056":
         [
             "Agave syrup",
+            "0",
             "",
-            "",
-            ""
+            "Syrups"
         ],
 
         "057":
         [
             "Grenadine",
+            "0",
             "",
-            "",
-            ""
+            "Syrups"
         ],
 
         "058":
         [
             "Ginger syrup",
+            "0",
             "",
-            "",
-            ""
+            "Syrups"
         ],
 
         "059":
         [
             "Orgeat",
+            "0",
             "",
-            "",
-            ""
+            "Syrups"
         ],
 
         "060":
         [
             "Cinnamon syrup",
+            "0",
             "",
-            "",
-            ""
+            "Syrups"
         ],
 
         "061":
         [
             "Egg",
+            "0",
             "",
-            "",
-            ""
+            "Pantry"
         ],
 
         "062":
         [
             "Water",
+            "0",
             "",
-            "",
-            ""
+            "Pantry"
         ],
 
         "063":
         [
             "Milk",
+            "0",
             "",
-            "",
-            ""
+            "Pantry"
         ],
 
         "064":
         [
             "Cream",
+            "0",
             "",
-            "",
-            ""
+            "Pantry"
         ],
 
         "065":
         [
             "Coffee",
+            "0",
             "",
-            "",
-            ""
+            "Pantry"
         ],
 
         "066":
         [
             "Espresso",
+            "0",
             "",
-            "",
-            ""
+            "Pantry"
         ],
 
         "067":
@@ -561,8 +565,7 @@
             "Thai basil syrup",
             "0",
             "A simple syrup made with thai basil.\nMix the leaves from one pot thai basil with 3 dl 1:1 simple syrup in a mixer and then strain it.",
-            "Specific",
-            ""
+            "Specific|Syrups"
         ],
 
         "068":
@@ -570,47 +573,21 @@
             "Coconut foam",
             "0",
             "A foam made with 2 parts coconut cream and 1 part sugar. Use a siphon to get it to a foam",
-            "Specific",
-            ""
+            "Specific"
+        ],
+
+        "069":
+        [
+            "Rye whiskey",
+            "40",
+            "",
+            "Spirits"
         ]
     },
 
     "Recipes":
     {
         "0001":
-        [
-            "Gin & Tonic",
-            "Pour the ingredients in a glass with ice and serve.",
-            "01",
-
-            "Build",
-            "On ice",
-            "Highball",
-
-            "Github",
-
-            "5|cl|002|Gin",
-            "10|cl|049|Tonic water"
-        ],
-
-        "0002":
-        [
-            "Bees Knees",
-            "Shake and strain in a chilled glass.",
-            "02",
-
-            "Shake",
-            "Straight",
-            "Coupe",
-
-            "Github",
-
-            "5|cl|002|Gin",
-            "3|cl|043|Lemon juice",
-            "2|cl|055|Honey syrup"
-        ],
-
-        "0003":
         [
             "Thai Basil",
             "Shake and strain in a glass with ice.\nTop with coconut foam and a basil leaf.",
@@ -626,6 +603,56 @@
             "3|cl|043|Lemon juice",
             "3|cl|067|Thai basil syrup",
             "0| |068|Coconut foam"
+        ],
+
+        "0002":
+        [
+            "Bees Knees",
+            "Shake and strain in a chilled glass.",
+            "04",
+
+            "Shake",
+            "Straight",
+            "Coupe",
+
+            "https://www.cocktailia.se/images/74/iz1wbb-bees-knees-drink-en-twist-pa-en-gin-sour-recept-med-gin-honung-och-citronjuice-1920x1600_150x68.webp",
+
+            "5|cl|002|Gin",
+            "2|cl|043|Lemon juice",
+            "2|cl|055|Honey syrup"
+        ],
+
+        "0003":
+        [
+            "Gin & Tonic",
+            "Pour the ingredients in a glass with ice and serve.",
+            "04",
+
+            "Build",
+            "On ice",
+            "Highball",
+
+            "https://www.cocktailia.se/images/74/flmnuh-gin-och-tonic-drink-recept-1920x1600_174x53.webp",
+
+            "6|cl|002|Gin",
+            "12|cl|049|Tonic water"
+        ], 
+        
+        "0004":
+        [
+            "Gin Sonic",
+            "Pour the ingredients in a glass with ice and serve.",
+            "04",
+
+            "Build",
+            "On ice",
+            "Highball",
+
+            "https://www.cocktailia.se/images/74/fbsibb-gin-sonic-en-gt-med-soda-cocktailiase-1920x1600_147x93.webp",
+
+            "4.5|cl|002|Gin",
+            "6.5|cl|048|Soda water",
+            "6.5|cl|049|Tonic water"
         ]
     }
 
