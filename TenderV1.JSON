@@ -27,6 +27,13 @@
             "Cocktalia",
             "https://www.cocktailia.se",
             ""
+        ],
+
+        "05":
+        [
+            "Liquor.com",
+            "https://www.liquor.com",
+            ""
         ]
     },
 
@@ -590,6 +597,54 @@
             "0",
             "",
             "Herbs/Spices"
+        ],
+
+        "071":
+        [
+            "Dark overproof rum",
+            "60",
+            "",
+            "Spirits"
+        ],
+
+        "072":
+        [
+            "Scotch",
+            "40",
+            "",
+            "Spirits"
+        ],
+
+        "073":
+        [
+            "Ginger",
+            "0",
+            "",
+            "Pantry"
+        ],
+
+        "074":
+        [
+            "Aquavit",
+            "40",
+            "",
+            "Spirits"
+        ],
+        
+        "075":
+        [
+            "Demerara syrup",
+            "0",
+            "",
+            "Syrups"
+        ],
+        
+        "076":
+        [
+            "Sugar",
+            "0",
+            "",
+            "Pantry"
         ]
     },
 
@@ -598,7 +653,7 @@
         "0001":
         [
             "Thai Basil",
-            "Shake and strain in a chilled glass with ice.\nTop with coconut foam and a basil leaf.",
+            "Shake and strain into a chilled glass with ice.\nTop with coconut foam and a basil leaf.",
             "03",
 
             "Shake",
@@ -616,7 +671,7 @@
         "0002":
         [
             "Bees Knees",
-            "Shake and strain in a chilled glass with ice.",
+            "Shake and strain into a chilled glass with ice.",
             "04",
 
             "Shake",
@@ -666,7 +721,7 @@
         "0005":
         [
             "Whiskey sour",
-            "Shake without ice and bitters for about 10 seconds.\nAdd ice and shake again.\nstrain in a chilled glass with ice and top with Angostura.",
+            "Shake without ice and bitters for about 10 seconds.\nAdd ice and shake again.\nstrain into a chilled glass with ice and top with Angostura.",
             "04",
 
             "Shake",
@@ -685,7 +740,7 @@
         "0006":
         [
             "Gold rush",
-            "Shake and strain in a chilled glass with ice.",
+            "Shake and strain into a chilled glass with ice.",
             "04",
 
             "Shake",
@@ -715,6 +770,145 @@
             "12|cl|018| ",
             "3|cl|048| ",
             "4| |070|Mint leaves"
+        ], 
+        
+        "0008":
+        [
+            "Penicillin",
+            "Muddle or grate the ginger to get the juice out.\nThen shake and strain into a chilled glass with ice.",
+            "04",
+
+            "Shake",
+            "On ice",
+            "Rocks",
+
+            "https://www.cocktailia.se/images/74/yy9edr-penicillin-drink-recept-1920x1600_136x81.webp",
+
+            "6|cl|072|Scotch, blended",
+            "2|cl|055| ",
+            "2|cl|043| ",
+            "0.75|cl|072|Scotch, single",
+            "0.5|cl|073|Ginger, juice"
+        ], 
+        
+        "0009":
+        [
+            "Negroni",
+            "Stir and strain into a chilled glass with ice.\nGarnish with an orange zest.",
+            "04",
+
+            "Stir",
+            "On ice",
+            "Rocks",
+
+            "https://www.cocktailia.se/images/74/aw1ltu-negroni-drink-recept-1920x1600_149x108.webp",
+
+            "3|cl|002| ",
+            "3|cl|035| ",
+            "3|cl|037| "
+        ], 
+        
+        "0010":
+        [
+            "Sidecar",
+            "Shake and strain into a chilled glass.",
+            "04",
+
+            "Shake",
+            "Straight",
+            "Coupe",
+
+            "https://www.cocktailia.se/images/74/w6gkd5-sidecar-drink-recept-1920x1600_125x78.webp",
+
+            "6|cl|012| ",
+            "3|cl|025| ",
+            "2|cl|043| "
+        ], 
+        
+        "0011":
+        [
+            "Scandinavian Daiquiri",
+            "Shake and strain into a chilled glass with ice.",
+            "04",
+
+            "Shake",
+            "On ice",
+            "Rocks",
+
+            "https://www.cocktailia.se/images/74/26wpz1-scandinavian-daiquiri-en-daiquiri-med-akvavit-cocktailiase-1920x1267_140x100.webp",
+
+            "6|cl|075| ",
+            "3|cl|044| ",
+            "2|cl|054| "
+        ], 
+        
+        "0012":
+        [
+            "Manhattan",
+            "Stir and strain into a chilled glass.",
+            "05",
+
+            "Stir",
+            "Straight",
+            "Coupe",
+
+            "https://www.liquor.com/thmb/IgOYvOZoSBPAzm9TjRfCtUD2wcg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/manhattan-4000x4000-primary-ig-9c3d894510284e9d8fbd9c518d00790b.jpg",
+
+            "6|cl|069| ",
+            "3|cl|035| ",
+            "2|dash|041| "
+        ], 
+        
+        "0013":
+        [
+            "Dry martini, traditional",
+            "Stir and strain into a chilled glass.",
+            "05",
+
+            "Stir",
+            "Straight",
+            "Cocktail",
+
+            "https://www.liquor.com/thmb/wOm05MD-hkCTke8Tl7rPSl5rKWo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/dry-martini-1500x1500-hero-b0e9fa9cb79440879d487bec87d72a2d.jpg",
+
+            "7.5|cl|002| ",
+            "1.5|cl|034| ",
+            "1|dash|042| "
+        ], 
+        
+        "0014":
+        [
+            "Daiquiri",
+            "Shake and strain into a chilled glass.",
+            "05",
+
+            "Shake",
+            "Straight",
+            "Coupe",
+
+            "https://www.liquor.com/thmb/60kax5NXq_tMlbL9thPTwOcG7y8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Daiquiri_3000x3000_primary-206eb2330cb04852ab7d780dcf3d55ef.jpg",
+
+            "6|cl|006| ",
+            "3|cl|044| ",
+            "2.25|cl|075| "
+        ], 
+        
+        "0015":
+        [
+            "Old Fashioned",
+            "Add the sugar, water and bitters to a mixing glass and stir until disolved.\nFill the mixing glass with ice and bourbon and stir.\nThen strain into a chilled glass with ice.",
+            "05",
+
+            "Stir",
+            "On ice",
+            "Rocks",
+
+            "https://www.liquor.com/thmb/LZnCNHOkhTbpmR6cMVZVJsJke4U=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__08113350__bourbon-old-fashioned-720x720-recipe-ade6f7780c304999be3577e565c9bcdd.jpg",
+
+            "6|cl|003| ",
+            "1|barsp|076| ",
+            "3|dash|041| ",
+            "1|barsp|062| "
         ]
     }
 
