@@ -653,6 +653,38 @@
             "35",
             "",
             "Bitters"
+        ],
+
+        "078":
+        [
+            "Grapefruit soda",
+            "0",
+            "",
+            "Sodas"
+        ],
+
+        "079":
+        [
+            "Salt",
+            "0",
+            "",
+            "Spices"
+        ],
+
+        "080":
+        [
+            "Pisco",
+            "40",
+            "",
+            "Spirits"
+        ],
+
+        "081":
+        [
+            "Brown sugar",
+            "0",
+            "",
+            "Spices"
         ]
     },
 
@@ -728,7 +760,7 @@
         
         "0005":
         [
-            "Whiskey sour",
+            "Whiskey Sour",
             "Shake without ice and bitters for about 10 seconds.\nAdd ice and shake again.\nstrain into a chilled glass with ice and top with Angostura.",
             "04",
 
@@ -747,7 +779,7 @@
         
         "0006":
         [
-            "Gold rush",
+            "Gold Rush",
             "Shake and strain into a chilled glass with ice.",
             "04",
 
@@ -764,7 +796,7 @@
         
         "0007":
         [
-            "Hugo spritz",
+            "Hugo Spritz",
             "Pour the liqueur and mint in a mixing glass and muddle.\nFill a glass with ice and pour over the mix and prosecco.\nStir it gently and garnish with mint.",
             "04",
 
@@ -869,7 +901,7 @@
         
         "0013":
         [
-            "Dry martini, traditional",
+            "Dry Martini, Traditional",
             "Stir and strain into a chilled glass.",
             "05",
 
@@ -954,6 +986,150 @@
             "1|barsp|062| ",
             "4|dash|077| ",
             "7.5|cl|069| "
+        ], 
+        
+        "0018":
+        [
+            "Paloma",
+            "Pour everything except the soda into a glass and fill with ice.\nTop with the soda and serve.",
+            "05",
+
+            "Build",
+            "On ice",
+            "Collins",
+
+            "https://www.liquor.com/thmb/v3f1n7MPu9hvLfhqkXGihY67E_E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/paloma-1500x1500-hero-46383ed066d2400a8ddd7543261f36c2.jpg",
+
+            "6|cl|010| ",
+            "3|cl|044| ",
+            "12|cl|078| ",
+            "1|pinch|079| "
+        ], 
+        
+        "0019":
+        [
+            "Moscow Mule",
+            "Pour the ingredients in a glass with ice and serve.",
+            "05",
+
+            "Build",
+            "On ice",
+            "Mug",
+
+            "https://www.liquor.com/thmb/wM1P19lVhYUZ7L4XrtTMrezh4EA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__03__07152853__moscow-mule-720x720-recipe-61ce552013b04880901b2abfb63017fd.jpg",
+
+            "6|cl|001| ",
+            "1.5|cl|044| ",
+            "9|cl|050| "
+        ], 
+        
+        "0020":
+        [
+            "Martinez",
+            "Pour everything into a mixing glass and stir until chilled.\nStrain into a chilled glass and serve.",
+            "05",
+
+            "Stir",
+            "Straight",
+            "Coupe",
+
+            "https://www.liquor.com/thmb/tcMtZdUIvuoQQbsUqGKVhJytoBs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__05__14082109__martinez-v2-720x720-recipe-7cb59a52cf8b43a89aeae26ea594d70e.jpg",
+
+            "4.5|cl|002| ",
+            "4.5|cl|035| ",
+            "0.75|cl|026| ",
+            "2|dash|041| "
+        ], 
+        
+        "0021":
+        [
+            "Pisco Sour",
+            "Shake without ice and bitters for about 10 seconds.\nAdd ice and shake again.\nstrain into a chilled glass and top with Angostura.",
+            "05",
+
+            "Shake",
+            "Straight",
+            "Coupe",
+
+            "https://www.liquor.com/thmb/QUncF9v0KA2nb6udlCQu82O5xKs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__02__08143927__pisco-sour-720x720-recipe-9c46d52151e5445fa90bcf0394493060.jpg",
+
+            "6|cl|080| ",
+            "3|cl|044| ",
+            "1.5|cl|054| ",
+            "1| |061|Egg white",
+            "2|dash|041| "
+        ], 
+        
+        "0022":
+        [
+            "French 75",
+            "Shake everything except the champagne and strain into a chilled glass.\nTop up with champagne and serve.",
+            "05",
+
+            "Shake",
+            "Straight",
+            "Flute",
+
+            "https://www.liquor.com/thmb/-bQ1_eaBQfU_E68H19QA6ohINIQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/french-75-720x720-primary-17fc1ce34c0a49e2ad60eb4a5705c6a2.jpg",
+
+            "3|cl|002| ",
+            "1.5|cl|043| ",
+            "1.5|cl|054| ",
+            "9|cl|017| "
+        ], 
+        
+        "0023":
+        [
+            "Mint Julep",
+            "Muddle the mint leaves and syrup directly in the glass.\nAdd the bourbon and crushed ice and serve.",
+            "05",
+
+            "build",
+            "On ice",
+            "Mug",
+
+            "https://www.liquor.com/thmb/WbZAcggKF2T5RcJcbdqqJ4HdqzQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/mint-julep-720x720-primary-5e2063b906384479b345687201992bd0.jpg",
+
+            
+            "6|cl|004| ",
+            "0.75|cl|054| ",
+            "8| |070|Mint leaves"
+        ], 
+        
+        "0024":
+        [
+            "Last Word",
+            "Shake and strain into a chilled glass with ice.",
+            "05",
+
+            "Shake",
+            "Straight",
+            "Coupe",
+
+            "https://www.liquor.com/thmb/H7ZpbVsXIw-F6N2DP_GT39ywK0o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__06__06222245__last-word-720x720-recipe-35fdadb31c224ebe9bf9b6c63c23e0bf.jpg",
+
+            "2.25|cl|002| ",
+            "2.25|cl|030| ",
+            "2.25|cl|026| ",
+            "2.25|cl|044| "
+        ], 
+        
+        "0025":
+        [
+            "Irish Coffee",
+            "Fill the glass with hot water and let sit for about 2 minutes.\nDiscard the water and pour the ingredients into the glass.\nStir gently and top with the cream.",
+            "05",
+
+            "Build",
+            "Hot",
+            "Coffee",
+
+            "https://www.liquor.com/thmb/B8FN0cXvcjEtBDULpoBkamnEtVI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__02__22140200__irish-coffee-720x720-recipe1-b1ddbe38da014bdb9c21cb2b6fcc629f.jpg",
+
+            "4.5|cl|003|Irish whiskey",
+            "4|barsp|081| ",
+            "10|cl|065|Hot coffee",
+            "0| |064| "
         ]
     }
 
