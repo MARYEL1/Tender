@@ -645,6 +645,14 @@
             "0",
             "",
             "Pantry"
+        ],
+
+        "077":
+        [
+            "Peychaud's bitters",
+            "35",
+            "",
+            "Bitters"
         ]
     },
 
@@ -837,7 +845,7 @@
 
             "https://www.cocktailia.se/images/74/26wpz1-scandinavian-daiquiri-en-daiquiri-med-akvavit-cocktailiase-1920x1267_140x100.webp",
 
-            "6|cl|075| ",
+            "6|cl|074| ",
             "3|cl|044| ",
             "2|cl|054| "
         ], 
@@ -906,9 +914,46 @@
             "https://www.liquor.com/thmb/LZnCNHOkhTbpmR6cMVZVJsJke4U=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__08113350__bourbon-old-fashioned-720x720-recipe-ade6f7780c304999be3577e565c9bcdd.jpg",
 
             "6|cl|003| ",
-            "1|brsp|076| ",
+            "1|barsp|076| ",
             "3|dash|041| ",
-            "1|brsp|062| "
+            "1|barsp|062| "
+        ], 
+        
+        "0016":
+        [
+            "Tom Collins",
+            "Pour the ingredients in a glass with ice and serve.",
+            "05",
+
+            "Build",
+            "On ice",
+            "Collins",
+
+            "https://www.liquor.com/thmb/F6c3vNhijmOSxqHwYOklzPv9ykQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__04__03080950__Tom-Collins-720x720-recipe-e87bf7954cdb4438b5e8d21f568cdd6f.jpg",
+
+            "6|cl|002| ",
+            "3|cl|043| ",
+            "1.5|cl|054| ",
+            "9|cl|048| "
+        ], 
+        
+        "0017":
+        [
+            "Sazerac",
+            "Rinse a glass and discard of the excess liquid.\nMuddle the sugar, water and bitters in a mixing glass.\nAdd the whiskey and stir until chilled, then strain into the glass.",
+            "05",
+
+            "Stir",
+            "Straight",
+            "Rocks",
+
+            "https://www.liquor.com/thmb/infMn6zCrQu6_DetH5R0IhxCqsg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__10145323__sazerac-720x720-recipe-2c78066a77ab453481aceb83c219d78f.jpg",
+
+            "0|rinse|020| ",
+            "1| |076|Sugar cube",
+            "1|barsp|062| ",
+            "4|dash|077| ",
+            "7.5|cl|069| "
         ]
     }
 
