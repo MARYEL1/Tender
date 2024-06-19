@@ -758,7 +758,7 @@
 
             "https://drinkoteket.se/wp-content/uploads/thai-basil.jpg",
 
-            "Thai Basil är en omåttligt populär drink från baren på Asian Post Office i Stockholm. Det är sannolikt Sveriges mest sålda signaturdrink och de flesta har nog sett den gröna skapelsen både en och två gånger på Instagram.",
+            "Thai Basil is a very famous cocktail from Asian Post Office in Stockholm.\nThis recipe is not the original secret recipe, it is a result of trial and error from Drinkoteket. The result is a cocktail where both the drink and the foam is almost identical to what you would get at Asian Post Office!",
 
             "5|cl|002| ",
             "3|cl|043| ",
@@ -820,8 +820,8 @@
             "4.5|cl|002| ",
             "6.5|cl|048| ",
             "6.5|cl|049| "
-        ],
-
+        ], 
+        
         "0005":
         [
             "Whiskey Sour",
