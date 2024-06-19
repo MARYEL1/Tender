@@ -34,6 +34,13 @@
             "Liquor.com",
             "https://www.liquor.com",
             ""
+        ],
+
+        "06":
+        [
+            "David Kringlund",
+            "https://davidkringlund.se/blogs/recept",
+            ""
         ]
     },
 
@@ -51,7 +58,7 @@
         [
             "Gin",
             "40",
-            "A clear spirit made fron juniper berries.",
+            "A clear spirit made from juniper berries.",
             "Common|Spirits"
         ],
 
@@ -59,7 +66,7 @@
         [
             "Whiskey",
             "40",
-            "",
+            "A distilled spirit made from fermented grain mash.",
             "Common|Spirits"
         ],
 
@@ -67,7 +74,7 @@
         [
             "Bourbon",
             "40",
-            "",
+            "A type of American whiskey, primarily made from corn.",
             "Common|Spirits"
         ],
 
@@ -75,7 +82,7 @@
         [
             "Rum",
             "40",
-            "",
+            "A distilled spirit made from sugarcane byproducts.",
             "Common|Spirits"
         ],
 
@@ -83,7 +90,7 @@
         [
             "Light rum",
             "40",
-            "",
+            "A milder variety of rum that is typically clear.",
             "Spirits"
         ],
 
@@ -91,7 +98,7 @@
         [
             "Gold rum",
             "40",
-            "",
+            "A medium-bodied rum that has been aged for a few years.",
             "Spirits"
         ],
 
@@ -99,7 +106,7 @@
         [
             "Dark rum",
             "40",
-            "",
+            "A rich and full-bodied rum aged longer and often with caramel added.",
             "Spirits"
         ],
 
@@ -107,7 +114,7 @@
         [
             "Cachaça",
             "45",
-            "",
+            "A Brazilian spirit made from fermented sugarcane juice.",
             "Spirits"
         ],
 
@@ -115,7 +122,7 @@
         [
             "Tequila",
             "40",
-            "",
+            "A Mexican spirit made from the blue agave plant.",
             "Common|Spirits"
         ],
 
@@ -123,7 +130,7 @@
         [
             "Mezcal",
             "40",
-            "",
+            "A Mexican spirit made from various types of agave.",
             "Spirits"
         ],
 
@@ -131,7 +138,7 @@
         [
             "Cognac",
             "40",
-            "",
+            "A type of brandy from the Cognac region of France.",
             "Spirits"
         ],
 
@@ -139,7 +146,7 @@
         [
             "Red wine",
             "12",
-            "",
+            "A wine made from dark-colored grape varieties.",
             "Wine"
         ],
 
@@ -147,7 +154,7 @@
         [
             "White wine",
             "12",
-            "",
+            "A wine made from green or yellowish grapes.",
             "Wine"
         ],
 
@@ -155,7 +162,7 @@
         [
             "Rosé wine",
             "12",
-            "",
+            "A type of wine that incorporates some of the color from the grape skins.",
             "Wine"
         ],
 
@@ -163,7 +170,7 @@
         [
             "Sparkling wine",
             "12",
-            "",
+            "A wine containing significant levels of carbon dioxide.",
             "Wine"
         ],
 
@@ -171,7 +178,7 @@
         [
             "Champagne",
             "12",
-            "",
+            "A sparkling wine made in the Champagne region of France.",
             "Wine"
         ],
 
@@ -179,7 +186,7 @@
         [
             "Prosecco",
             "12",
-            "",
+            "An Italian sparkling wine.",
             "Wine"
         ],
 
@@ -187,7 +194,7 @@
         [
             "Cava",
             "12",
-            "",
+            "A Spanish sparkling wine made using the traditional method.",
             "Wine"
         ],
 
@@ -195,7 +202,7 @@
         [
             "Absinthe",
             "68",
-            "",
+            "A high-proof spirit infused with botanicals including anise and wormwood.",
             "Spirits"
         ],
 
@@ -203,7 +210,7 @@
         [
             "Crème de cacao",
             "24",
-            "",
+            "A chocolate-flavored liqueur.",
             "Liqueurs"
         ],
 
@@ -211,7 +218,7 @@
         [
             "Coffee liqueur",
             "16",
-            "",
+            "A liqueur flavored with coffee.",
             "Liqueurs"
         ],
 
@@ -219,7 +226,7 @@
         [
             "Irish cream",
             "17",
-            "",
+            "A liqueur made from Irish whiskey, cream, and other flavorings.",
             "Liqueurs"
         ],
 
@@ -227,7 +234,7 @@
         [
             "Blue curaçao",
             "21",
-            "",
+            "A blue liqueur made from the dried peel of the Laraha citrus fruit.",
             "Liqueurs"
         ],
 
@@ -235,7 +242,7 @@
         [
             "Triple sec",
             "40",
-            "",
+            "A clear, strong, orange-flavored liqueur.",
             "Liqueurs"
         ],
 
@@ -243,7 +250,7 @@
         [
             "Maraschino liqueur",
             "32",
-            "",
+            "A clear liqueur made from Marasca cherries.",
             "Liqueurs"
         ],
 
@@ -251,7 +258,7 @@
         [
             "Limoncello",
             "30",
-            "",
+            "An Italian lemon-flavored liqueur.",
             "Liqueurs"
         ],
 
@@ -259,7 +266,7 @@
         [
             "Licor 43",
             "31",
-            "",
+            "A Spanish vanilla-flavored liqueur.",
             "Liqueurs"
         ],
 
@@ -267,7 +274,7 @@
         [
             "Galliano Vanilla",
             "30",
-            "",
+            "A sweet herbal liqueur infused with vanilla.",
             "Liqueurs"
         ],
 
@@ -275,7 +282,7 @@
         [
             "Green Chartreuse",
             "55",
-            "",
+            "A French liqueur made from 130 herbs and plants.",
             "Liqueurs"
         ],
 
@@ -283,7 +290,7 @@
         [
             "Yellow Chartreuse",
             "43",
-            "",
+            "A milder variant of the Green Chartreuse liqueur.",
             "Liqueurs"
         ],
 
@@ -291,7 +298,7 @@
         [
             "Amaretto",
             "28",
-            "",
+            "An Italian almond-flavored liqueur.",
             "Liqueurs"
         ],
 
@@ -299,7 +306,7 @@
         [
             "Elderflower liqueur",
             "20",
-            "",
+            "A liqueur made from elderflower blossoms.",
             "Liqueurs"
         ],
 
@@ -307,7 +314,7 @@
         [
             "Dry vermouth",
             "15",
-            "",
+            "An aromatized fortified wine with a dry taste.",
             "Vermouth"
         ],
 
@@ -315,7 +322,7 @@
         [
             "Sweet vermouth",
             "15",
-            "",
+            "An aromatized fortified wine with a sweet taste.",
             "Vermouth"
         ],
 
@@ -323,7 +330,7 @@
         [
             "Aperol",
             "11",
-            "",
+            "An Italian aperitif with a unique bittersweet taste.",
             "Liqueurs"
         ],
 
@@ -331,7 +338,7 @@
         [
             "Campari",
             "25",
-            "",
+            "An Italian bitter liqueur with a bright red color.",
             "Liqueurs"
         ],
 
@@ -339,7 +346,7 @@
         [
             "Fernet-Branca",
             "39",
-            "",
+            "A bitter, aromatic spirit made from a variety of herbs and spices.",
             "Liqueurs"
         ],
 
@@ -347,7 +354,7 @@
         [
             "Jägermeister",
             "35",
-            "",
+            "A German herbal liqueur made with 56 different herbs, fruits, roots, and spices.",
             "Liqueurs"
         ],
 
@@ -355,7 +362,7 @@
         [
             "Becherovka",
             "38",
-            "",
+            "A Czech herbal bitter liqueur.",
             "Liqueurs"
         ],
 
@@ -363,7 +370,7 @@
         [
             "Angostura bitters",
             "44.7",
-            "",
+            "A concentrated bitter with herbs and spices, used for flavoring.",
             "Common|Bitters"
         ],
 
@@ -371,7 +378,7 @@
         [
             "Orange bitters",
             "28",
-            "",
+            "A bitter with a distinct orange flavor.",
             "Bitters"
         ],
 
@@ -387,7 +394,7 @@
         [
             "Lime juice",
             "0",
-            "",
+            "A tangy juice from limes.",
             "Common|Juices"
         ],
 
@@ -395,7 +402,7 @@
         [
             "Orange juice",
             "0",
-            "",
+            "A sweet and tangy juice from oranges.",
             "Juices"
         ],
 
@@ -403,7 +410,7 @@
         [
             "Pineapple juice",
             "0",
-            "",
+            "A sweet and tart juice from pineapples.",
             "Juices"
         ],
 
@@ -411,7 +418,7 @@
         [
             "Tomato juice",
             "0",
-            "",
+            "A savory juice made from tomatoes.",
             "Juices"
         ],
 
@@ -419,7 +426,7 @@
         [
             "Soda water",
             "0",
-            "",
+            "Carbonated water with a neutral flavor.",
             "Sodas"
         ],
 
@@ -435,7 +442,7 @@
         [
             "Ginger beer",
             "0",
-            "",
+            "A spicy and sweet carbonated drink made from ginger.",
             "Sodas"
         ],
 
@@ -443,7 +450,7 @@
         [
             "Coke",
             "0",
-            "",
+            "A sweet and caffeinated carbonated soft drink.",
             "Sodas"
         ],
 
@@ -451,7 +458,7 @@
         [
             "Sprite",
             "0",
-            "",
+            "A lemon-lime flavored carbonated soft drink.",
             "Sodas"
         ],
 
@@ -459,7 +466,7 @@
         [
             "Red Bull",
             "0",
-            "",
+            "An energy drink with caffeine, taurine, and vitamins.",
             "Sodas"
         ],
 
@@ -467,7 +474,7 @@
         [
             "Simple syrup",
             "0",
-            "",
+            "A basic syrup made from sugar dissolved in water.",
             "Common|Syrups"
         ],
 
@@ -483,7 +490,7 @@
         [
             "Agave syrup",
             "0",
-            "",
+            "A sweetener made from the agave plant.",
             "Syrups"
         ],
 
@@ -491,7 +498,7 @@
         [
             "Grenadine",
             "0",
-            "",
+            "A sweet and tart pomegranate syrup.",
             "Syrups"
         ],
 
@@ -499,7 +506,7 @@
         [
             "Ginger syrup",
             "0",
-            "",
+            "A syrup made from ginger root, sugar, and water.",
             "Syrups"
         ],
 
@@ -507,7 +514,7 @@
         [
             "Orgeat",
             "0",
-            "",
+            "A sweet almond-flavored syrup used in cocktails.",
             "Syrups"
         ],
 
@@ -515,7 +522,7 @@
         [
             "Cinnamon syrup",
             "0",
-            "",
+            "A syrup flavored with cinnamon sticks.",
             "Syrups"
         ],
 
@@ -523,7 +530,7 @@
         [
             "Egg",
             "0",
-            "",
+            "A common ingredient used in cocktails for texture and foam.",
             "Pantry"
         ],
 
@@ -531,7 +538,7 @@
         [
             "Water",
             "0",
-            "",
+            "Essential for dilution and balance in cocktails.",
             "Pantry"
         ],
 
@@ -539,7 +546,7 @@
         [
             "Milk",
             "0",
-            "",
+            "A dairy product used in some creamy cocktails.",
             "Pantry"
         ],
 
@@ -547,7 +554,7 @@
         [
             "Cream",
             "0",
-            "",
+            "A thick dairy product used for rich, creamy cocktails.",
             "Pantry"
         ],
 
@@ -555,7 +562,7 @@
         [
             "Coffee",
             "0",
-            "",
+            "A brewed beverage made from roasted coffee beans.",
             "Pantry"
         ],
 
@@ -563,7 +570,7 @@
         [
             "Espresso",
             "0",
-            "",
+            "A concentrated form of coffee brewed by forcing hot water through finely-ground coffee beans.",
             "Pantry"
         ],
 
@@ -571,7 +578,7 @@
         [
             "Thai basil syrup",
             "0",
-            "A simple syrup made with thai basil.\nMix the leaves from one pot thai basil with 3 dl 1:1 simple syrup in a mixer and then strain it.",
+            "A simple syrup made with Thai basil. Mix the leaves from one pot Thai basil with 3 dl 1:1 simple syrup in a mixer and then strain it.",
             "Specific|Syrups"
         ],
 
@@ -579,7 +586,7 @@
         [
             "Coconut foam",
             "0",
-            "A foam made with 2 parts coconut cream and 1 part sugar. Use a siphon to get it to a foam",
+            "A foam made with 2 parts coconut cream and 1 part sugar. Use a siphon to get it to a foam.",
             "Specific"
         ],
 
@@ -587,7 +594,7 @@
         [
             "Rye whiskey",
             "40",
-            "",
+            "A type of whiskey made primarily from rye grain.",
             "Spirits"
         ],
 
@@ -595,7 +602,7 @@
         [
             "Mint",
             "0",
-            "",
+            "A refreshing herb used for flavor and garnish.",
             "Herbs/Spices"
         ],
 
@@ -603,7 +610,7 @@
         [
             "Dark overproof rum",
             "60",
-            "",
+            "A high-proof dark rum for strong cocktails.",
             "Spirits"
         ],
 
@@ -611,7 +618,7 @@
         [
             "Scotch",
             "40",
-            "",
+            "A malt or grain whisky made in Scotland.",
             "Spirits"
         ],
 
@@ -619,7 +626,7 @@
         [
             "Ginger",
             "0",
-            "",
+            "A spice used for its flavor and zing.",
             "Pantry"
         ],
 
@@ -627,7 +634,7 @@
         [
             "Aquavit",
             "40",
-            "",
+            "A Scandinavian spirit flavored with spices and herbs.",
             "Spirits"
         ],
         
@@ -635,7 +642,7 @@
         [
             "Demerara syrup",
             "0",
-            "",
+            "A rich syrup made from Demerara sugar.",
             "Syrups"
         ],
         
@@ -643,7 +650,7 @@
         [
             "Sugar",
             "0",
-            "",
+            "A sweetener used in cocktails for balance.",
             "Pantry"
         ],
 
@@ -651,7 +658,7 @@
         [
             "Peychaud's bitters",
             "35",
-            "",
+            "A type of bitters with a distinct anise flavor.",
             "Bitters"
         ],
 
@@ -659,7 +666,7 @@
         [
             "Grapefruit soda",
             "0",
-            "",
+            "A carbonated drink with grapefruit flavor.",
             "Sodas"
         ],
 
@@ -667,7 +674,7 @@
         [
             "Salt",
             "0",
-            "",
+            "A common seasoning used in cocktails and garnishes.",
             "Spices"
         ],
 
@@ -675,7 +682,7 @@
         [
             "Pisco",
             "40",
-            "",
+            "A clear brandy produced in Peru and Chile.",
             "Spirits"
         ],
 
@@ -683,7 +690,7 @@
         [
             "Brown sugar",
             "0",
-            "",
+            "A type of sugar with a rich molasses flavor.",
             "Spices"
         ],
 
@@ -691,10 +698,51 @@
         [
             "Lillet Blanc",
             "17",
-            "",
+            "A French aromatized wine-based aperitif.",
             "Apertifs"
+        ],
+
+        "083":
+        [
+            "Cherry syrup",
+            "0",
+            "A sweet and tart syrup made from cherries.",
+            "Syrups"
+        ],
+
+        "084":
+        [
+            "Apple (malic acid)",
+            "0",
+            "A tart and acidic juice made from apples.",
+            "Juices"
+        ],
+
+        "085":
+        [
+            "Beer",
+            "5",
+            "A fermented beverage made from grains.",
+            "Beer & Cider"
+        ],
+
+        "086":
+        [
+            "Apple cider",
+            "4.5",
+            "A fermented drink made from apple juice.",
+            "Beer & Cider"
+        ],
+
+        "087":
+        [
+            "Grapes",
+            "",
+            "A fruit used for its juice in winemaking and garnishes.",
+            "Pantry"
         ]
     },
+
 
     "Recipes":
     {
@@ -747,8 +795,8 @@
 
             "6|cl|002| ",
             "12|cl|049| "
-        ], 
-        
+        ],
+
         "0004":
         [
             "Gin Sonic",
@@ -1052,7 +1100,7 @@
         "0021":
         [
             "Pisco Sour",
-            "Shake without ice and bitters for about 10 seconds.\nAdd ice and shake again.\nstrain into a chilled glass and top with Angostura.",
+            "Shake without ice and bitters for about 10 seconds.\nAdd ice and shake again.\nStrain into a chilled glass and top with Angostura.",
             "05",
 
             "Shake",
@@ -1185,8 +1233,8 @@
             "05",
 
             "Shake",
-            "Straight",
-            "Rocks",
+            "On ice",
+            "Highball",
 
             "https://www.liquor.com/thmb/GkQLBdJeoj2A7jqZptdiBwFSEYk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Gin_Fizz_Credit_Tim_Nusog_2000x2000-primary-cd256f2f698a40258273468832d50a4c.jpg",
 
@@ -1204,7 +1252,7 @@
             "05",
 
             "Shake",
-            "On ice",
+            "Straight",
             "Margarita",
 
             "https://www.liquor.com/thmb/-N7feQvWwknpijq3P8Rg5cH9pOg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/margarita-720x720-primary-f4a3b044e9a746d9b88890515c3a7328.jpg",
@@ -1213,13 +1261,13 @@
             "1.5|cl|025| ",
             "3|cl|044| ",
             "1.5|cl|056| ",
-            " |rim|079| "
+            "0|rim|079| "
         ], 
         
         "0030":
         [
             "Bicicletta",
-            "Pour everything into a glas with ice and stir gently.",
+            "Pour everything into a glass with ice and stir gently.",
             "04",
 
             "Build",
@@ -1231,7 +1279,80 @@
             "6|cl|037| ",
             "6|cl|014| ",
             "3|cl|048| "
+        ], 
+        
+        "0031":
+        [
+            "David's Beer Cocktail",
+            "Shake everything except the beer and strain into a chilled glass, add the beer and serve.",
+            "06",
+
+            "Shake",
+            "Straight",
+            "Highball",
+
+            "Github",
+
+            "5|cl|004| ",
+            "3|cl|084| ",
+            "2|cl|083| ",
+            "10|cl|085| "
+        ], 
+        
+        "0032":
+        [
+            "Jungle Bird",
+            "Shake everything and strain into a chilled glass.",
+            "06",
+
+            "Shake",
+            "Straight",
+            "Rocks",
+
+            "https://davidkringlund.se/cdn/shop/articles/Junglebird_2.30.1_1080x.jpg?v=1695301302",
+
+            "4|cl|008| ",
+            "2|cl|037| ",
+            "4|cl|046| ",
+            "3|cl|044| ",
+            "2|cl|054| "
+        ], 
+        
+        "0033":
+        [
+            "Enzoni",
+            "Muddle the grapes in a shaker, add the other ingredients and shake.\nStrain into a chilled glass with ice.",
+            "06",
+
+            "Shake",
+            "On ice",
+            "Rocks",
+
+            "https://images.getrecipekit.com/20230901104722-ska-cc-88rmavbild-202023-08-31-20kl.%2008?aspect_ratio=16:9&quality=90&",
+
+            "4|cl|002| ",
+            "2|cl|037| ",
+            "3|cl|043| ",
+            "2|cl|054| ",
+            "5| |087| "
+        ], 
+        
+        "0034":
+        [
+            "Mai Tai",
+            "Shake everything and strain into a chilled glass with ice.",
+            "06",
+
+            "Shake",
+            "On ice",
+            "Rocks",
+
+            "https://davidkringlund.se/cdn/shop/articles/20230824093700-mai-20tai_1080x.jpg?v=1692871486",
+
+            "5|cl|008| ",
+            "1|cl|025| ",
+            "3|cl|044| ",
+            "2|cl|059| "
         ]
     }
-
 }
