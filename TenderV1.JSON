@@ -594,10 +594,10 @@
 
         "068":
         [
-            "Coconut foam",
+            "Coconut cream",
             "0",
-            "A foam made with 2 parts coconut cream and 1 part sugar. Use a siphon to get it to a foam.",
-            "Specific"
+            "A creamy liquid made from coconuts.",
+            "Pantry"
         ],
 
         "069":
@@ -750,6 +750,22 @@
             "",
             "A fruit used for its juice in winemaking and garnishes.",
             "Pantry"
+        ],
+
+        "088":
+        [
+            "Alcohol free gin",
+            "",
+            "A gin alternative without alcohol",
+            "Spirits"
+        ],
+
+        "089":
+        [
+            "Grapefruit",
+            "",
+            "A bitter citrus fruit.",
+            "Pantry"
         ]
     },
 
@@ -773,7 +789,9 @@
             "5|cl|002| ",
             "3|cl|043| ",
             "3|cl|067| ",
-            "0| |068| "
+            "-div-",
+            "4/12|dl|068| ",
+            "2/12|dl|076| "
         ],
 
         "0002":
