@@ -766,6 +766,22 @@
             "",
             "A bitter citrus fruit.",
             "Pantry"
+        ],
+
+        "090":
+        [
+            "Juniper berries",
+            "",
+            "",
+            "Pantry"
+        ],
+
+        "091":
+        [
+            "Rosemary",
+            "",
+            "",
+            "Pantry"
         ]
     },
 
@@ -1449,6 +1465,33 @@
             "1|cl|025| ",
             "3|cl|044| ",
             "2|cl|059| "
+        ],
+
+        "0035":
+        [
+            "Alcohol Free Grape Sour",
+            "Mix the peels from a grapefruit with water and citric acid with a mixer. Strain it and store in a bottle.\nHeat up the sugar and water with the rosemary and juniper berries. Set aside and let it cool.\nShake the gin and egg white together with 3 cl of the grape water and 2 cl of the syrup without ice for about 10 seconds. Add ice and shake again. Strain into a chilled glass and serve.",
+            "06",
+        
+            "Shake",
+            "Straight",
+            "Nick & Nora",
+        
+            "https://images.getrecipekit.com/20240204112630-grape-20sour.jpg?aspect_ratio=16:9&quality=90&",
+        
+            "",
+        
+            "5|cl|088| ",
+            "1| |061|Egg white",
+            "-div-",
+            "0| |089| ",
+            "4/10|barsp|020| ",
+            "3/10|dl|062| ",
+            "| |090| ",
+            "| |091| ",
+            "-div-",
+            "2/20|dl|076| ",
+            "2/20|dl|062| "
         ]
     }
 }
