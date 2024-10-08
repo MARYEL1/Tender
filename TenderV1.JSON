@@ -613,7 +613,7 @@
             "Mint",
             "0",
             "A refreshing herb used for flavor and garnish.",
-            "Herbs/Spices"
+            "Herbs|Spices"
         ],
 
         "071":
@@ -772,7 +772,7 @@
         [
             "Juniper berries",
             "",
-            "",
+            "A bitter berry from juniper plants.",
             "Pantry"
         ],
 
@@ -780,8 +780,32 @@
         [
             "Rosemary",
             "",
-            "",
+            "An aromatic shrub with needle-like leaves.",
             "Pantry"
+        ],
+
+        "092":
+        [
+            "Crème de violette",
+            "20",
+            "A floral liqueur with a clear character of violets.",
+            "Liqueurs"
+        ],
+
+        "093":
+        [
+            "Basil",
+            "",
+            "A herb sometimes used for flavor and garnish.",
+            "Herbs|Spices"
+        ],
+
+        "094":
+        [
+            "Citric acid",
+            "",
+            "A sour powder used in modern cocktail recipes",
+            "Specific|Spices"
         ]
     },
 
@@ -1228,7 +1252,7 @@
             "Muddle the mint leaves and syrup directly in the glass.\nAdd the bourbon and crushed ice and serve.",
             "05",
 
-            "build",
+            "stir",
             "On ice",
             "Mug",
 
@@ -1485,13 +1509,113 @@
             "1| |061|Egg white",
             "-div-",
             "1| |089| ",
-            "4/10|barsp|020| ",
+            "4/10|barsp|094| ",
             "3/10|dl|062| ",
             "0| |090| ",
             "1| |091|Rosemary sprig",
             "-div-",
             "2/20|dl|076| ",
             "2/20|dl|062| "
+        ],
+
+        "0036":
+        [
+            "Aviation",
+            "Shake everything and strain into a chilled glass. Garnish with a cherry",
+            "06",
+        
+            "Shake",
+            "Straight",
+            "Nick & Nora",
+        
+            "https://images.getrecipekit.com/20221018201233-dsc02482-redigera.jpg?aspect_ratio=16:9&quality=90&",
+        
+            "",
+        
+            "3|cl|002| ",
+            "2|cl|026| ",
+            "1|cl|092| ",
+            "2|cl|043| "
+        ],
+
+        "0037":
+        [
+            "Drink With Jägermeister",
+            "Fill a mug with crushed ice, pour in the ingredients and stir well. Top up with crushed ice and mint leaves.",
+            "06",
+        
+            "Build",
+            "On ice",
+            "Mug",
+        
+            "Github",
+        
+            "The original recipe calls for \"Incredible sourmix\". If available, exchange acid and simple syrup with the mix.",
+        
+            "4|cl|039| ",
+            "3|cl|084| ",
+            "22|cl|054| ",
+            "0.5|cl|073|Ginger juice"
+        ],
+
+        "0038":
+        [
+            "David's Espresso Martini",
+            "Shake everything and strain into a chilled glass. Garnish with coffee beans",
+            "06",
+        
+            "Shake",
+            "Straight",
+            "Nick & Nora",
+        
+            "https://images.getrecipekit.com/20220913101634-dsc03762.jpg?aspect_ratio=16:9&quality=90&",
+        
+            "",
+        
+            "3|cl|001| ",
+            "3|cl|054| ",
+            "12|cl|066| "
+        ],
+
+        "0039":
+        [
+            "Gin Basil Smash",
+            "Shake everything and strain into a glass with ice. Garnish with a basil leaf.",
+            "06",
+        
+            "Shake",
+            "On ice",
+            "Rocks",
+        
+            "https://cdn.shopify.com/s/files/1/0506/5578/9253/files/LD-Export_2_480x480.jpg?v=1628539405",
+        
+            "",
+        
+            "5|cl|002| ",
+            "3|cl|043| ",
+            "2|cl|054| ",
+            "10| |093|Basil leaves"
+        ],
+
+        "0040":
+        [
+            "Gin Fizz",
+            "Shake without ice for about 10 seconds.\nAdd ice and shake again.\nStrain into a chilled glass and top up with soda water.",
+            "06",
+        
+            "Shake",
+            "Straight",
+            "Highball",
+        
+            "https://cdn.shopify.com/s/files/1/0506/5578/9253/files/Web_423b7431-79ce-4e27-8739-5557662886d5_480x480.jpg?v=1628538991",
+        
+            "",
+        
+            "5|cl|002| ",
+            "3|cl|043| ",
+            "2|cl|054| ",
+            "1| |061|Egg white",
+            "10|cl|048| "
         ]
     }
 }
