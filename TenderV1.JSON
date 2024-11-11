@@ -806,6 +806,22 @@
             "",
             "A sour powder used in modern cocktail recipes",
             "Specific|Spices"
+        ],
+
+        "095":
+        [
+            "Raspberry syrup",
+            "",
+            "A simple syrup infused with raspberries",
+            "Specific|syrups"
+        ],
+
+        "096":
+        [
+            "Strawberries",
+            "",
+            "A sweet red berry",
+            "Pantry"
         ]
     },
 
@@ -1616,6 +1632,126 @@
             "2|cl|054| ",
             "1| |061|Egg white",
             "10|cl|048| "
+        ],
+
+        "0041":
+        [
+            "Clover Club",
+            "Shake without ice for about 10 seconds.\nAdd ice and shake again.\nStrain into a chilled glass and serve.",
+            "06",
+        
+            "Shake",
+            "Straight",
+            "Nick & Nora",
+        
+            "Github",
+        
+            "",
+        
+            "5|cl|002| ",
+            "3|cl|043| ",
+            "2|cl|095| ",
+            "1| |061|Egg white"
+        ],
+
+        "0042":
+        [
+            "David's Favorite Strawberry Cocktail",
+            "Shake everything and strain into a chilled glass.",
+            "06",
+        
+            "Shake",
+            "Straight",
+            "Nick & Nora",
+        
+            "Github",
+        
+            "",
+        
+            "5|cl|074| ",
+            "3|cl|044| ",
+            "2|cl|054| ",
+            "1| |096| "
+        ],
+
+        "0043":
+        [
+            "Kaffe Karlsson",
+            "Fill the glass with hot water and let sit for about 2 minutes.\nDiscard the water and pour the ingredients into the glass.\nStir gently and top with lightly whipped cream.",
+            "06",
+        
+            "Build",
+            "Hot",
+            "Coffee",
+        
+            "https://images.getrecipekit.com/20221018201922-thumbnail.jpg?aspect_ratio=16:9&quality=90&",
+        
+            "",
+        
+            "3|cl|025| ",
+            "3|cl|023| ",
+            "10|cl|065|Hot coffee",
+            "5|cl|064| "
+        ],
+
+        "0044":
+        [
+            "Limoncello Spritz",
+            "Pour everything into a large glass with lots of ice and serve.",
+            "06",
+        
+            "Build",
+            "On ice",
+            "Wine",
+        
+            "https://images.getrecipekit.com/20230727151328-limoncello-20spritz.jpg?aspect_ratio=16:9&quality=90&",
+        
+            "",
+        
+            "4|cl|027| ",
+            "8|cl|016|Dry sparkling wine",
+            "2|cl|048| "
+        ],
+
+        "0045":
+        [
+            "Piña Colada",
+            "Heat up the coconut cream and sugar until the sugar is dissolved. Set aside and let cool.\nShake everything with 3 cl of the coconut syrup and strain in a glass with ice and serve.",
+            "06",
+        
+            "Shake",
+            "On ice",
+            "Highball",
+        
+            "https://images.getrecipekit.com/20230809182428-pina-20colada.jpg?aspect_ratio=16:9&quality=90&",
+        
+            "",
+        
+            "5|cl|008| ",
+            "2|cl|044| ",
+            "4|cl|046| ",
+            "-div-Coconut syrup",
+            "400/13|ml|068| ",
+            "400/26|ml|076| "
+        ],
+
+        "0046":
+        [
+            "Pink Panther",
+            "Shake everything and strain into a glass with ice.",
+            "06",
+        
+            "Shake",
+            "On ice",
+            "Highball",
+        
+            "https://images.getrecipekit.com/20230518172229-low-20res.jpeg?aspect_ratio=16:9&quality=90&",
+        
+            "",
+        
+            "5|cl|028| ",
+            "10|cl|063| ",
+            "1|cl|057| "
         ]
     }
 }
