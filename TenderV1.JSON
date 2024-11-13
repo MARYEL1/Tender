@@ -62,7 +62,7 @@
             "40",
             "A clear spirit composed of water and ethanol.",
             "Common|Spirits",
-            ""
+            "002"
         ],
 
         "002":
@@ -71,7 +71,7 @@
             "40",
             "A clear spirit made from juniper berries.",
             "Common|Spirits",
-            ""
+            "001|005"
         ],
 
         "003":
