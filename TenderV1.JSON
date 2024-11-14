@@ -833,7 +833,7 @@
         "087":
         [
             "Grapes",
-            "",
+            "0",
             "A fruit used for its juice in winemaking and garnishes.",
             "Pantry",
             ""
@@ -842,7 +842,7 @@
         "088":
         [
             "Alcohol free gin",
-            "",
+            "0",
             "A gin alternative without alcohol",
             "Spirits",
             ""
@@ -851,7 +851,7 @@
         "089":
         [
             "Grapefruit",
-            "",
+            "0",
             "A bitter citrus fruit.",
             "Pantry",
             ""
@@ -860,7 +860,7 @@
         "090":
         [
             "Juniper berries",
-            "",
+            "0",
             "A bitter berry from juniper plants.",
             "Pantry",
             ""
@@ -869,7 +869,7 @@
         "091":
         [
             "Rosemary",
-            "",
+            "0",
             "An aromatic shrub with needle-like leaves.",
             "Pantry",
             ""
@@ -887,7 +887,7 @@
         "093":
         [
             "Basil",
-            "",
+            "0",
             "A herb sometimes used for flavor and garnish.",
             "Herbs|Spices",
             ""
@@ -896,7 +896,7 @@
         "094":
         [
             "Citric acid",
-            "",
+            "0",
             "A sour powder used in modern cocktail recipes",
             "Specific|Spices",
             ""
@@ -905,7 +905,7 @@
         "095":
         [
             "Raspberry syrup",
-            "",
+            "0",
             "A simple syrup infused with raspberries",
             "Specific|syrups",
             ""
@@ -914,7 +914,7 @@
         "096":
         [
             "Strawberries",
-            "",
+            "0",
             "A sweet red berry",
             "Pantry",
             ""
