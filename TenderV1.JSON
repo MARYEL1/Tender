@@ -35,14 +35,14 @@
         "04":
         [
             "Cocktalia",
-            "https://www.cocktailia.se",
+            "https://cocktailia.se",
             ""
         ],
 
         "05":
         [
             "Liquor.com",
-            "https://www.liquor.com",
+            "https://liquor.com",
             ""
         ],
 
@@ -50,6 +50,13 @@
         [
             "David Kringlund",
             "https://davidkringlund.se/blogs/recept",
+            ""
+        ],
+
+        "07":
+        [
+            "Difford's Guide",
+            "https://diffordsguide.com",
             ""
         ]
     },
@@ -1031,6 +1038,7 @@
             "Rocks",
 
             "https://drinkoteket.se/wp-content/uploads/thai-basil.jpg",
+            "",
 
             "Thai Basil is a very famous cocktail from Asian Post Office in Stockholm.\nThis recipe is not the original secret recipe, it is a result of trial and error from Drinkoteket. The result is a cocktail where both the drink and the foam is almost identical to what you would get at Asian Post Office!",
 
@@ -1053,6 +1061,7 @@
             "Coupe",
 
             "https://www.cocktailia.se/images/74/iz1wbb-bees-knees-drink-en-twist-pa-en-gin-sour-recept-med-gin-honung-och-citronjuice-1920x1600_150x68.webp",
+            "",
 
             "",
 
@@ -1072,6 +1081,7 @@
             "Highball",
 
             "https://www.cocktailia.se/images/74/flmnuh-gin-och-tonic-drink-recept-1920x1600_174x53.webp",
+            "",
 
             "",
 
@@ -1090,6 +1100,7 @@
             "Highball",
 
             "https://www.cocktailia.se/images/74/fbsibb-gin-sonic-en-gt-med-soda-cocktailiase-1920x1600_147x93.webp",
+            "",
 
             "",
 
@@ -1109,6 +1120,7 @@
             "Rocks",
 
             "https://www.cocktailia.se/images/74/kvs3vq-whiskey-sour-drink-recept-1920x1267_191x99.webp",
+            "",
 
             "",
 
@@ -1130,6 +1142,7 @@
             "Rocks",
 
             "https://www.cocktailia.se/images/74/5wjcln-gold-rush-drink-recept-1920x1267_132x98.webp",
+            "",
 
             "",
 
@@ -1149,6 +1162,7 @@
             "Wine",
 
             "https://www.cocktailia.se/images/74/k0oyz1-hugo-spritz-bubbeldrink-med-flader-cocktailiase-1920x1267_149x90.webp",
+            "",
 
             "",
 
@@ -1169,6 +1183,7 @@
             "Rocks",
 
             "https://www.cocktailia.se/images/74/yy9edr-penicillin-drink-recept-1920x1600_136x81.webp",
+            "",
 
             "",
 
@@ -1190,6 +1205,7 @@
             "Rocks",
 
             "https://www.cocktailia.se/images/74/aw1ltu-negroni-drink-recept-1920x1600_149x108.webp",
+            "",
 
             "",
 
@@ -1209,6 +1225,7 @@
             "Coupe",
 
             "https://www.cocktailia.se/images/74/w6gkd5-sidecar-drink-recept-1920x1600_125x78.webp",
+            "",
 
             "",
 
@@ -1228,6 +1245,7 @@
             "Rocks",
 
             "https://www.cocktailia.se/images/74/26wpz1-scandinavian-daiquiri-en-daiquiri-med-akvavit-cocktailiase-1920x1267_140x100.webp",
+            "",
 
             "",
 
@@ -1247,6 +1265,7 @@
             "Coupe",
 
             "https://www.liquor.com/thmb/IgOYvOZoSBPAzm9TjRfCtUD2wcg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/manhattan-4000x4000-primary-ig-9c3d894510284e9d8fbd9c518d00790b.jpg",
+            "",
 
             "",
 
@@ -1266,6 +1285,7 @@
             "Cocktail",
 
             "https://www.liquor.com/thmb/wOm05MD-hkCTke8Tl7rPSl5rKWo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/dry-martini-1500x1500-hero-b0e9fa9cb79440879d487bec87d72a2d.jpg",
+            "",
 
             "",
 
@@ -1285,6 +1305,7 @@
             "Coupe",
 
             "https://www.liquor.com/thmb/60kax5NXq_tMlbL9thPTwOcG7y8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Daiquiri_3000x3000_primary-206eb2330cb04852ab7d780dcf3d55ef.jpg",
+            "",
 
             "",
 
@@ -1304,6 +1325,7 @@
             "Rocks",
 
             "https://www.liquor.com/thmb/LZnCNHOkhTbpmR6cMVZVJsJke4U=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__08113350__bourbon-old-fashioned-720x720-recipe-ade6f7780c304999be3577e565c9bcdd.jpg",
+            "",
 
             "",
 
@@ -1324,6 +1346,7 @@
             "Highball",
 
             "https://www.liquor.com/thmb/F6c3vNhijmOSxqHwYOklzPv9ykQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__04__03080950__Tom-Collins-720x720-recipe-e87bf7954cdb4438b5e8d21f568cdd6f.jpg",
+            "",
 
             "",
 
@@ -1344,6 +1367,7 @@
             "Rocks",
 
             "https://www.liquor.com/thmb/infMn6zCrQu6_DetH5R0IhxCqsg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__10145323__sazerac-720x720-recipe-2c78066a77ab453481aceb83c219d78f.jpg",
+            "",
 
             "",
 
@@ -1365,6 +1389,7 @@
             "Highball",
 
             "https://www.liquor.com/thmb/v3f1n7MPu9hvLfhqkXGihY67E_E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/paloma-1500x1500-hero-46383ed066d2400a8ddd7543261f36c2.jpg",
+            "",
 
             "",
 
@@ -1385,6 +1410,7 @@
             "Mug",
 
             "https://www.liquor.com/thmb/wM1P19lVhYUZ7L4XrtTMrezh4EA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__03__07152853__moscow-mule-720x720-recipe-61ce552013b04880901b2abfb63017fd.jpg",
+            "",
 
             "",
 
@@ -1404,6 +1430,7 @@
             "Coupe",
 
             "https://www.liquor.com/thmb/tcMtZdUIvuoQQbsUqGKVhJytoBs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__05__14082109__martinez-v2-720x720-recipe-7cb59a52cf8b43a89aeae26ea594d70e.jpg",
+            "",
 
             "",
 
@@ -1424,6 +1451,7 @@
             "Coupe",
 
             "https://www.liquor.com/thmb/QUncF9v0KA2nb6udlCQu82O5xKs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__02__08143927__pisco-sour-720x720-recipe-9c46d52151e5445fa90bcf0394493060.jpg",
+            "",
 
             "",
 
@@ -1445,6 +1473,7 @@
             "Flute",
 
             "https://www.liquor.com/thmb/-bQ1_eaBQfU_E68H19QA6ohINIQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/french-75-720x720-primary-17fc1ce34c0a49e2ad60eb4a5705c6a2.jpg",
+            "",
 
             "",
 
@@ -1465,6 +1494,7 @@
             "Mug",
 
             "https://www.liquor.com/thmb/WbZAcggKF2T5RcJcbdqqJ4HdqzQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/mint-julep-720x720-primary-5e2063b906384479b345687201992bd0.jpg",
+            "",
 
             "",
 
@@ -1485,6 +1515,7 @@
             "Coupe",
 
             "https://www.liquor.com/thmb/H7ZpbVsXIw-F6N2DP_GT39ywK0o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__06__06222245__last-word-720x720-recipe-35fdadb31c224ebe9bf9b6c63c23e0bf.jpg",
+            "",
 
             "",
 
@@ -1505,6 +1536,7 @@
             "Coffee",
 
             "https://www.liquor.com/thmb/B8FN0cXvcjEtBDULpoBkamnEtVI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__02__22140200__irish-coffee-720x720-recipe1-b1ddbe38da014bdb9c21cb2b6fcc629f.jpg",
+            "",
 
             "",
 
@@ -1525,6 +1557,7 @@
             "Coupe",
 
             "https://drinkoteket.se/wp-content/uploads/corpse-reviver-no-2-860x860.jpg",
+            "",
 
             "",
 
@@ -1546,6 +1579,7 @@
             "Highball",
 
             "https://www.liquor.com/thmb/Do03-SdvBe8LxkNrfi0fAr2KnvU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__09__04153106__mojito-720x720-recipe-a55b114fc99c4a64b38c9ef6d1660e20.jpg",
+            "",
 
             "",
 
@@ -1567,6 +1601,7 @@
             "Highball",
 
             "https://www.liquor.com/thmb/GkQLBdJeoj2A7jqZptdiBwFSEYk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Gin_Fizz_Credit_Tim_Nusog_2000x2000-primary-cd256f2f698a40258273468832d50a4c.jpg",
+            "",
 
             "",
 
@@ -1588,6 +1623,7 @@
             "Margarita",
 
             "https://www.liquor.com/thmb/-N7feQvWwknpijq3P8Rg5cH9pOg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/margarita-720x720-primary-f4a3b044e9a746d9b88890515c3a7328.jpg",
+            "",
 
             "",
 
@@ -1609,6 +1645,7 @@
             "Highball",
 
             "https://www.cocktailia.se/images/74/rmngii-bicicletta-drink-campari-vitt-vin-1920x1600_160x90.webp",
+            "",
 
             "",
 
@@ -1628,6 +1665,7 @@
             "Highball",
 
             "Github",
+            "",
 
             "",
 
@@ -1648,6 +1686,7 @@
             "Rocks",
 
             "https://davidkringlund.se/cdn/shop/articles/Junglebird_2.30.1_1080x.jpg?v=1695301302",
+            "",
 
             "",
 
@@ -1669,6 +1708,7 @@
             "Rocks",
 
             "https://images.getrecipekit.com/20230901104722-ska-cc-88rmavbild-202023-08-31-20kl.%2008?aspect_ratio=16:9&quality=90&",
+            "",
 
             "",
 
@@ -1690,6 +1730,7 @@
             "Rocks",
 
             "https://davidkringlund.se/cdn/shop/articles/20230824093700-mai-20tai_1080x.jpg?v=1692871486",
+            "",
 
             "",
 
@@ -1710,6 +1751,7 @@
             "Nick & Nora",
         
             "https://images.getrecipekit.com/20240204112630-grape-20sour.jpg?aspect_ratio=16:9&quality=90&",
+            "",
         
             "",
         
@@ -1737,6 +1779,7 @@
             "Nick & Nora",
         
             "https://images.getrecipekit.com/20221018201233-dsc02482-redigera.jpg?aspect_ratio=16:9&quality=90&",
+            "",
         
             "",
         
@@ -1757,6 +1800,7 @@
             "Mug",
         
             "Github",
+            "",
         
             "The original recipe calls for \"Incredible sourmix\". If available, exchange acid and simple syrup with the mix.",
         
@@ -1777,6 +1821,7 @@
             "Nick & Nora",
         
             "https://images.getrecipekit.com/20220913101634-dsc03762.jpg?aspect_ratio=16:9&quality=90&",
+            "",
         
             "",
         
@@ -1796,6 +1841,7 @@
             "Rocks",
         
             "https://cdn.shopify.com/s/files/1/0506/5578/9253/files/LD-Export_2_480x480.jpg?v=1628539405",
+            "",
         
             "",
         
@@ -1816,6 +1862,7 @@
             "Highball",
         
             "https://cdn.shopify.com/s/files/1/0506/5578/9253/files/Web_423b7431-79ce-4e27-8739-5557662886d5_480x480.jpg?v=1628538991",
+            "",
         
             "",
         
@@ -1837,6 +1884,7 @@
             "Nick & Nora",
         
             "Github",
+            "",
         
             "",
         
@@ -1857,6 +1905,7 @@
             "Nick & Nora",
         
             "Github",
+            "",
         
             "",
         
@@ -1877,6 +1926,7 @@
             "Coffee",
         
             "https://images.getrecipekit.com/20221018201922-thumbnail.jpg?aspect_ratio=16:9&quality=90&",
+            "",
         
             "",
         
@@ -1897,6 +1947,7 @@
             "Wine",
         
             "https://images.getrecipekit.com/20230727151328-limoncello-20spritz.jpg?aspect_ratio=16:9&quality=90&",
+            "",
         
             "",
         
@@ -1916,6 +1967,7 @@
             "Highball",
         
             "https://images.getrecipekit.com/20230809182428-pina-20colada.jpg?aspect_ratio=16:9&quality=90&",
+            "",
         
             "",
         
@@ -1938,6 +1990,7 @@
             "Highball",
         
             "https://images.getrecipekit.com/20230518172229-low-20res.jpeg?aspect_ratio=16:9&quality=90&",
+            "",
         
             "",
         
