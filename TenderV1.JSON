@@ -76,127 +76,127 @@
             "Common|Spirits",
             "088",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Gin",
             ""
         ],
 
         "003":
         [
-            "Whiskey",
+            "Whiskey|Whisky",
             "40",
             "A distilled spirit made from fermented grain mash.",
             "Common|Spirits",
             "004|069|072",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Whisky",
             ""
         ],
 
         "004":
         [
-            "Bourbon",
+            "Bourbon|Whiskey|Whisky",
             "40",
             "A type of American whiskey, primarily made from corn.",
             "Common|Spirits",
             "003|069|072",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Bourbon_whiskey",
             ""
         ],
 
         "005":
         [
-            "Rum",
+            "Rum|Rhum",
             "40",
             "A distilled spirit made from sugarcane byproducts.",
             "Common|Spirits",
             "006|007|008|009|071",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Rum",
             ""
         ],
 
         "006":
         [
-            "Light rum",
+            "Light rum|Light rhum",
             "40",
             "A milder variety of rum that is typically clear.",
             "Spirits",
             "005|009",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Rum#Grades",
             ""
         ],
 
         "007":
         [
-            "Gold rum",
+            "Gold rum|Gold rhum",
             "40",
             "A medium-bodied rum that has been aged for a few years.",
             "Spirits",
             "005|008",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Rum#Grades",
             ""
         ],
 
         "008":
         [
-            "Dark rum",
+            "Dark rum|Dark rhum",
             "40",
             "A rich and full-bodied rum aged longer and often with caramel added.",
             "Spirits",
             "005|007|071",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Rum#Grades",
             ""
         ],
 
         "009":
         [
-            "Cachaça",
+            "Cachaça|Rum|Rhum",
             "45",
             "A Brazilian spirit made from fermented sugarcane juice.",
             "Spirits",
             "005|006",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Cacha%C3%A7a",
             ""
         ],
 
         "010":
         [
-            "Tequila",
+            "Tequila|Mezcal",
             "40",
             "A Mexican spirit made from the blue agave plant.",
             "Common|Spirits",
             "011",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Tequila",
             ""
         ],
 
         "011":
         [
-            "Mezcal",
+            "Mezcal|Tequila",
             "40",
             "A Mexican spirit made from various types of agave.",
             "Spirits",
             "010",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Mezcal",
             ""
         ],
 
         "012":
         [
-            "Cognac",
+            "Cognac|Brandy",
             "40",
             "A type of brandy from the Cognac region of France.",
             "Spirits",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Cognac",
             ""
         ],
 
@@ -208,7 +208,7 @@
             "Wine",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Red_wine",
             ""
         ],
 
@@ -220,67 +220,67 @@
             "Wine",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/White_wine",
             ""
         ],
 
         "015":
         [
-            "Rosé wine",
+            "Rosé wine|Rose wine",
             "12",
             "A type of wine that incorporates some of the color from the grape skins.",
             "Wine",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Ros%C3%A9",
             ""
         ],
 
         "016":
         [
-            "Sparkling wine",
+            "Sparkling wine|Champagne|Prosecco|Cava",
             "12",
             "A wine containing significant levels of carbon dioxide.",
             "Wine",
             "017|018|019",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Sparkling_wine",
             ""
         ],
 
         "017":
         [
-            "Champagne",
+            "Champagne|Sparkling wine|Prosecco|Cava",
             "12",
             "A sparkling wine made in the Champagne region of France.",
             "Wine",
             "016|018|019",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Champagne",
             ""
         ],
 
         "018":
         [
-            "Prosecco",
+            "Prosecco|Sparkling wine|Champagne|Cava",
             "12",
             "An Italian sparkling wine.",
             "Wine",
             "016|017|019",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Prosecco",
             ""
         ],
 
         "019":
         [
-            "Cava",
+            "Cava|Sparkling wine|Champagne|Prosecco",
             "12",
             "A Spanish sparkling wine made using the traditional method.",
             "Wine",
             "016|017|018",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Cava_(Spanish_wine)",
             ""
         ],
 
@@ -292,79 +292,79 @@
             "Spirits",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Absinthe",
             ""
         ],
 
         "021":
         [
-            "Crème de cacao",
+            "Crème de cacao|Creme de cacao|Chocolate liqueur",
             "24",
             "A chocolate-flavored liqueur.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Chocolate_liqueur",
             ""
         ],
 
         "022":
         [
-            "Coffee liqueur",
+            "Coffee liqueur|Mr Black|Kahlua",
             "16",
             "A liqueur flavored with coffee.",
             "Liqueurs",
             "",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/List_of_liqueur_brands#Coffee",
+            "062|065|054"
         ],
 
         "023":
         [
-            "Irish cream",
+            "Irish cream|Baileys|Amarula|Cream liqueur",
             "17",
             "A liqueur made from Irish whiskey, cream, and other flavorings.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Irish_cream",
             ""
         ],
 
         "024":
         [
-            "Blue curaçao",
+            "Blue curaçao|Triple sec|Blue curacao",
             "21",
             "A blue liqueur made from the dried peel of the Laraha citrus fruit.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Cura%C3%A7ao_(liqueur)",
             ""
         ],
 
         "025":
         [
-            "Triple sec",
+            "Triple sec|Cointreau|curacao",
             "40",
-            "A clear, strong, orange-flavored liqueur.",
+            "A clear, strong, orange-flavored liqueur.\nOften refered to as Cointreau, though this is only a brand of triple sec.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Triple_sec",
             ""
         ],
 
         "026":
         [
-            "Maraschino liqueur",
+            "Maraschino liqueur|Cherry|Luxardo",
             "32",
             "A clear liqueur made from Marasca cherries.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Maraschino",
             ""
         ],
 
@@ -373,22 +373,22 @@
             "Limoncello",
             "30",
             "An Italian lemon-flavored liqueur.",
-            "Liqueurs",
+            "Liqueurs|Homemade",
             "",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Limoncello",
+            "162|076|001|062"
         ],
 
         "028":
         [
-            "Licor 43",
+            "Licor 43|Liqueur 43|Liquor 43",
             "31",
             "A Spanish vanilla-flavored liqueur.",
             "Liqueurs",
             "029",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Licor_43",
             ""
         ],
 
@@ -400,7 +400,7 @@
             "Liqueurs",
             "028",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Galliano_(liqueur)",
             ""
         ],
 
@@ -412,7 +412,7 @@
             "Liqueurs",
             "030|040",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Chartreuse_(liqueur)",
             ""
         ],
 
@@ -424,55 +424,55 @@
             "Liqueurs",
             "031",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Chartreuse_(liqueur)",
             ""
         ],
 
         "032":
         [
-            "Amaretto",
+            "Amaretto|Disaronno",
             "28",
             "An Italian almond-flavored liqueur.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Amaretto",
             ""
         ],
 
         "033":
         [
-            "Elderflower liqueur",
+            "St-Germain|Elderflower liqueur|St Germain",
             "20",
             "A liqueur made from elderflower blossoms.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/St-Germain_(liqueur)",
             ""
         ],
 
         "034":
         [
-            "Dry vermouth",
+            "Dry vermouth|Martini",
             "15",
             "An aromatized fortified wine with a dry taste.",
             "Vermouth",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Vermouth",
             ""
         ],
 
         "035":
         [
-            "Sweet vermouth",
+            "Sweet vermouth|Martini rosso|Red vermouth",
             "15",
             "An aromatized fortified wine with a sweet taste.",
             "Vermouth",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Vermouth",
             ""
         ],
 
@@ -484,7 +484,7 @@
             "Liqueurs",
             "037",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Aperol",
             ""
         ],
 
@@ -496,31 +496,31 @@
             "Liqueurs",
             "036",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Campari",
             ""
         ],
 
         "038":
         [
-            "Fernet",
+            "Fernet|Branca",
             "39",
             "A bitter, aromatic spirit made from a variety of herbs and spices.",
             "Liqueurs",
             "039",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Fernet",
             ""
         ],
 
         "039":
         [
-            "Jägermeister",
+            "Jägermeister|jagermeister|jaegermeister",
             "35",
             "A German herbal liqueur made with 56 different herbs, fruits, roots, and spices.",
             "Liqueurs",
             "038",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/J%C3%A4germeister",
             ""
         ],
 
@@ -532,7 +532,7 @@
             "Liqueurs",
             "030|074",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Becherovka",
             ""
         ],
 
@@ -544,44 +544,44 @@
             "Common|Bitters",
             "042",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Angostura_bitters",
             ""
         ],
 
         "042":
         [
-            "Orange bitters",
+            "Orange bitters|Angostura",
             "28",
             "A bitter with a distinct orange flavor.",
             "Bitters",
             "041",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Orange_bitters",
             ""
         ],
 
         "043":
         [
-            "Lemon juice",
+            "Lemon juice|Citrus",
             "0",
             "A sour juice from lemons.",
             "Common|Juices",
             "044|084",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Lemon",
+            "162"
         ],
 
         "044":
         [
-            "Lime juice",
+            "Lime juice|Citrus",
             "0",
             "A tangy juice from limes.",
             "Common|Juices",
             "043|048",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Lime_(fruit)",
+            "163"
         ],
 
         "045":
@@ -592,8 +592,8 @@
             "Juices",
             "",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Orange_juice",
+            "164"
         ],
 
         "046":
@@ -604,7 +604,7 @@
             "Juices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Pineapple_juice",
             ""
         ],
 
@@ -616,19 +616,19 @@
             "Juices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Tomato_juice",
             ""
         ],
 
         "048":
         [
-            "Soda water",
+            "Soda water|Club soda|Sparkling water|Carbonated water|Mineral water|Seltzer",
             "0",
             "Carbonated water with a neutral flavor.",
             "Sodas",
             "049|052",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Carbonated_water",
             ""
         ],
 
@@ -640,64 +640,64 @@
             "Common|Sodas",
             "048|052",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Tonic_water",
             ""
         ],
 
         "050":
         [
-            "Ginger beer",
+            "Ginger beer|Ginger ale",
             "0",
             "A spicy and sweet carbonated drink made from ginger.",
             "Sodas",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Ginger_beer",
             ""
         ],
 
         "051":
         [
-            "Coke",
+            "Coke|Coca Cola|Pepsi|Soda",
             "0",
             "A sweet and caffeinated carbonated soft drink.",
             "Sodas",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Cola",
             ""
         ],
 
         "052":
         [
-            "Sprite",
+            "Sprite|Lemon lime soda",
             "0",
             "A lemon-lime flavored carbonated soft drink.",
             "Sodas",
             "049",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Sprite_(drink)",
             ""
         ],
 
         "053":
         [
-            "Red Bull",
+            "Red Bull|Energy drink|Monster",
             "0",
             "An energy drink with caffeine, taurine, and vitamins.",
             "Sodas",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Red_Bull",
             ""
         ],
 
         "054":
         [
-            "Simple syrup|Sugar",
+            "Simple syrup|Sugar|Rich syrup",
             "0",
             "A basic syrup made from sugar dissolved in water.",
-            "Common|Syrups",
+            "Common|Syrups|Homemade",
             "055|056|075|076",
             "",
             "https://en.m.wikipedia.org/wiki/Syrup#Simple_syrup",
@@ -709,11 +709,11 @@
             "Honey syrup",
             "0",
             "A syrup made from 3 parts honey and 1 part water.",
-            "Syrups",
+            "Syrups|Homemade",
             "054|056|075",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Flavored_syrup",
+            "135|062"
         ],
 
         "056":
@@ -724,19 +724,19 @@
             "Syrups",
             "054|055|075",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Agave_syrup",
             ""
         ],
 
         "057":
         [
-            "Grenadine",
+            "Grenadine|Pommegranate syrup",
             "0",
             "A sweet and tart pomegranate syrup.",
             "Syrups",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Grenadine",
             ""
         ],
 
@@ -745,22 +745,22 @@
             "Ginger syrup",
             "0",
             "A syrup made from ginger root, sugar, and water.",
-            "Syrups",
+            "Syrups|Homemade",
             "073",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Flavored_syrup",
+            "073|076|062"
         ],
 
         "059":
         [
-            "Orgeat",
+            "Orgeat|Almond syrup",
             "0",
             "A sweet almond-flavored syrup used in cocktails.",
-            "Syrups",
+            "Syrups|Homemade",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Orgeat_syrup",
             ""
         ],
 
@@ -769,22 +769,22 @@
             "Cinnamon syrup",
             "0",
             "A syrup flavored with cinnamon sticks.",
-            "Syrups",
+            "Syrups|Homemade",
             "",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Flavored_syrup",
+            "143|076|062"
         ],
 
         "061":
         [
-            "Egg",
+            "Egg|Egg white|Egg yolk|Eggs",
             "0",
             "A common ingredient used in cocktails for texture and foam.",
             "Pantry",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Egg",
             ""
         ],
 
@@ -796,7 +796,7 @@
             "Pantry",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Water",
             ""
         ],
 
@@ -808,44 +808,44 @@
             "Pantry",
             "064",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Milk",
             ""
         ],
 
         "064":
         [
-            "Cream",
+            "Cream|Half and half",
             "0",
             "A thick dairy product used for rich, creamy cocktails.",
             "Pantry",
             "063",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Cream",
             ""
         ],
 
         "065":
         [
-            "Coffee",
+            "Coffee|Espresso",
             "0",
             "A brewed beverage made from roasted coffee beans.",
             "Pantry",
             "066",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Coffee",
+            "066"
         ],
 
         "066":
         [
-            "Espresso",
+            "Espresso|Coffee",
             "0",
             "A concentrated form of coffee brewed by forcing hot water through finely-ground coffee beans.",
             "Pantry",
             "065",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Espresso",
+            "065"
         ],
 
         "067":
@@ -856,67 +856,67 @@
             "Specific|Syrups",
             "",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Flavored_syrup",
+            "093|076|062"
         ],
 
         "068":
         [
-            "Coconut cream",
+            "Coconut cream|Coconut milk",
             "0",
             "A creamy liquid made from coconuts.",
             "Pantry",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Coconut_milk",
             ""
         ],
 
         "069":
         [
-            "Rye whiskey",
+            "Rye whiskey|Rye whisky",
             "40",
             "A type of whiskey made primarily from rye grain.",
             "Spirits",
             "003|004|072",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Rye_whiskey",
             ""
         ],
 
         "070":
         [
-            "Mint",
+            "Mint|Mentha|Mint leaves|Mint leaf",
             "0",
             "A refreshing herb used for flavor and garnish.",
             "Herbs|Spices",
             "",
             "0.05",
-            "",
+            "https://en.wikipedia.org/wiki/Mentha",
             ""
         ],
 
         "071":
         [
-            "Dark overproof rum",
+            "Dark overproof rum|Dark rum|Dark rhum|Overproof rum|Overproof rhum",
             "60",
             "A high-proof dark rum for strong cocktails.",
             "Spirits",
             "005|008",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Rum#Grades",
             ""
         ],
 
         "072":
         [
-            "Scotch",
+            "Scotch|Scottish whiskey|Scottish whisky",
             "40",
             "A malt or grain whisky made in Scotland.",
             "Spirits",
             "003|004|069",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Scotch_whisky",
             ""
         ],
 
@@ -925,22 +925,22 @@
             "Ginger",
             "0",
             "A spice used for its flavor and zing.",
-            "Pantry",
+            "Pantry|Fruits",
             "058",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Ginger",
             ""
         ],
 
         "074":
         [
-            "Aquavit",
+            "Aquavit|Akvavit|Akvavhit",
             "40",
             "A Scandinavian spirit flavored with spices and herbs.",
             "Spirits",
             "002|040",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Akvavit",
             ""
         ],
         
@@ -952,7 +952,7 @@
             "Syrups",
             "054|055|056",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Syrup#:~:text=Demerara%20syrup",
             ""
         ],
         
@@ -964,19 +964,19 @@
             "Pantry",
             "054",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Sugar",
             ""
         ],
 
         "077":
         [
-            "Peychaud's bitters",
+            "Peychaud's bitters|Peychauds bitters",
             "35",
             "A type of bitters with a distinct anise flavor.",
             "Bitters",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Peychaud's_Bitters",
             ""
         ],
 
@@ -1000,19 +1000,19 @@
             "Spices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Salt",
             ""
         ],
 
         "080":
         [
-            "Pisco",
+            "Pisco|Brandy",
             "40",
             "A clear brandy produced in Peru and Chile.",
             "Spirits",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Pisco",
             ""
         ],
 
@@ -1024,7 +1024,7 @@
             "Spices",
             "075|076",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Brown_sugar",
             ""
         ],
 
@@ -1036,7 +1036,7 @@
             "Apertifs",
             "033",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Lillet",
             ""
         ],
 
@@ -1045,34 +1045,34 @@
             "Cherry syrup",
             "0",
             "A sweet and tart syrup made from cherries.",
-            "Syrups",
+            "Syrups|Homemade",
             "",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Flavored_syrup",
+            "165|076|062"
         ],
 
         "084":
         [
-            "Apple (malic acid)",
+            "Apple (malic acid)|Apple acid",
             "0",
             "A tart and acidic juice made from apples.",
             "Juices",
             "043|044",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Malic_acid",
             ""
         ],
 
         "085":
         [
-            "Beer",
+            "Beer|Ale|Stout|IPA",
             "5",
             "A fermented beverage made from grains.",
             "Beer & Cider",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Beer",
             ""
         ],
 
@@ -1084,7 +1084,7 @@
             "Beer & Cider",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Apple_cider",
             ""
         ],
 
@@ -1093,16 +1093,16 @@
             "Grapes",
             "0",
             "A fruit used for its juice in winemaking and garnishes.",
-            "Pantry",
+            "Pantry|Fruits",
             "",
             "0.5",
-            "",
+            "https://en.wikipedia.org/wiki/Grape",
             ""
         ],
 
         "088":
         [
-            "Alcohol free gin",
+            "Alcohol free gin|0.0|0,0",
             "0",
             "A non-alcoholic alternative to gin",
             "Spirits",
@@ -1114,13 +1114,13 @@
 
         "089":
         [
-            "Grapefruit",
+            "Grapefruit|Blood orange",
             "0",
             "A bitter citrus fruit.",
-            "Pantry",
+            "Pantry|Fruits",
             "",
             "12",
-            "",
+            "https://en.wikipedia.org/wiki/Grapefruit",
             ""
         ],
 
@@ -1129,10 +1129,10 @@
             "Juniper berries",
             "0",
             "A bitter berry from juniper plants.",
-            "Pantry",
+            "Pantry|Fruits",
             "",
             "0.2",
-            "",
+            "https://en.wikipedia.org/wiki/Juniper_berry",
             ""
         ],
 
@@ -1141,34 +1141,34 @@
             "Rosemary",
             "0",
             "An aromatic shrub with needle-like leaves.",
-            "Pantry",
+            "Pantry|Spices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Rosemary",
             ""
         ],
 
         "092":
         [
-            "Crème de violette",
+            "Crème de violette|Creme de violette|Violet liqueur",
             "20",
             "A floral liqueur with a clear character of violets.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Cr%C3%A8me_de_violette",
             ""
         ],
 
         "093":
         [
-            "Basil",
+            "Basil|Basil leaves",
             "0",
             "A herb sometimes used for flavor and garnish.",
             "Herbs|Spices",
             "",
             "0.05",
-            "",
+            "https://en.wikipedia.org/wiki/Basil",
             ""
         ],
 
@@ -1180,7 +1180,7 @@
             "Specific|Spices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Citric_acid",
             ""
         ],
 
@@ -1189,22 +1189,22 @@
             "Raspberry syrup",
             "0",
             "A simple syrup infused with raspberries.",
-            "Specific|Syrups",
+            "Specific|Syrups|Homemade",
             "",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Flavored_syrup",
+            "099|076|062"
         ],
 
         "096":
         [
-            "Strawberries",
+            "Strawberries|Strawberry",
             "0",
             "A sweet red berry.",
-            "Pantry",
+            "Pantry|Fruits",
             "",
             "1",
-            "",
+            "https://en.wikipedia.org/wiki/Strawberry",
             ""
         ],
 
@@ -1213,18 +1213,18 @@
             "Grapefruit juice",
             "0",
             "Juice from a bitter citrus fruit.",
-            "Pantry",
+            "Pantry|Juices",
             "",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Grapefruit_juice",
+            "089"
         ],
 
         "098":
         [
             "Pink gin",
-            "37.5",
-            "A pink gin with notes of raspberries.",
+            "40",
+            "A pink gin with notes of raspberries.\nNot to be confused with the cocktail with the same name",
             "Spirits",
             "002",
             "",
@@ -1234,49 +1234,49 @@
 
         "099":
         [
-            "Raspberries",
+            "Raspberries|Raspberry",
             "0",
             "A sweet red berry.",
             "Pantry",
             "",
             "0.2",
-            "",
+            "https://en.wikipedia.org/wiki/Raspberry",
             ""
         ],
 
         "100":
         [
-            "Lemon cordial",
+            "Lemon cordial|Squash",
             "0",
-            "A syrup made with lemon.\n\nMade with eaqual parts lemon juice and sugar together with the zest from the lemon.\nStir and let sit for 24 hours before filtering.",
-            "Pantry|Homemade",
+            "A syrup made with lemon.\nNot to be confused with american liqueur.\n\nMade with eaqual parts lemon juice and sugar together with the zest from the lemon.\nStir and let sit for 24 hours before filtering.",
+            "Pantry|Homemade|Syrups",
             "101",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Squash_(drink)",
+            "043|162|076"
         ],
 
         "101":
         [
-            "Lime cordial",
+            "Lime cordial|Squash",
             "0",
-            "A syrup made with lime.\n\nMade with eaqual parts lime juice and sugar together with the zest from the lime.\nStir and let sit for 24 hours before filtering.",
-            "Pantry|Homemade",
+            "A syrup made with lime.\nNot to be confused with american liqueur.\n\nMade with eaqual parts lime juice and sugar together with the zest from the lime.\nStir and let sit for 24 hours before filtering.",
+            "Pantry|Homemade|Syrups",
             "100",
             "",
-            "",
-            ""
+            "https://en.wikipedia.org/wiki/Squash_(drink)",
+            "044|163|076"
         ],
 
         "102":
         [
-            "Pepper",
+            "Pepper|Black pepper",
             "0",
             "A common seasoning used in cocktails and garnishes.",
             "Pantry|Spices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Black_pepper",
             ""
         ],
 
@@ -1288,7 +1288,7 @@
             "Pantry|Specific",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Bergamot_orange",
             ""
         ],
 
@@ -1300,19 +1300,19 @@
             "Juices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Cranberry_juice",
             ""
         ],
     
         "105":
         [
-            "Bénédictine",
+            "Bénédictine|Benedictine DOM",
             "40",
             "A herbal liqueur made with 27 herbs and spices.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/B%C3%A9n%C3%A9dictine",
             ""
         ],
     
@@ -1324,7 +1324,7 @@
             "Spirits",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Sloe_gin",
             ""
         ],
     
@@ -1354,31 +1354,31 @@
     
         "109":
         [
-            "Blueberries",
+            "Blueberries|Blueberry",
             "0",
-            "Small blue berries used in cocktails.",
-            "Pantry",
+            "Small blue wild berries.\nCalled bilberries in America, not to be confused with american cultivated blueberries, ",
+            "Pantry|Fruits",
             "",
             "0.5",
-            "",
+            "https://en.wikipedia.org/wiki/Bilberry",
             ""
         ],
     
         "110":
         [
-            "Monkey 47",
-            "47",
-            "A premium gin made with 47 botanicals.",
-            "Spirits",
-            "002",
+            "Alcohol free sparkling wine|0.0|0,0",
+            "0",
+            "A non-alcoholic alternative to sparkling wine.",
+            "Wine",
+            "016",
             "",
             "",
             ""
-        ],
+        ] ,
     
         "111":
         [
-            "Alcohol free rum",
+            "Alcohol free rum|0.0|0,0|Alcohol free Rhum",
             "0",
             "A non-alcoholic alternative to rum",
             "Spirits",
@@ -1390,13 +1390,13 @@
     
         "112":
         [
-            "Cherry liqueur",
+            "Cherry Heering|Cherry liqueur|Peter Heering",
             "18",
             "A sweet liqueur made from cherries.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Cherry_Heering",
             ""
         ],
     
@@ -1426,7 +1426,7 @@
     
         "115":
         [
-            "Flavored rum",
+            "Flavored rum|Flavored rhum",
             "40",
             "Rum infused with additional flavors.",
             "Spirits",
@@ -1438,13 +1438,13 @@
     
         "116":
         [
-            "Passionfruit",
+            "Passion fruit|Passionfruit",
             "0",
             "A tropical fruit used fresh or as puree.",
-            "Pantry",
+            "Pantry|Fruits",
             "",
             "2.5",
-            "",
+            "https://en.wikipedia.org/wiki/Passion_fruit_(fruit)",
             ""
         ],
     
@@ -1453,22 +1453,22 @@
             "Mango",
             "0",
             "A tropical fruit used fresh or as puree.",
-            "Pantry",
+            "Pantry|Fruits",
             "",
             "15",
-            "",
+            "https://en.wikipedia.org/wiki/Mango",
             ""
         ],
     
         "118":
         [
-            "Lingonberry",
+            "Lingonberries|Lingonberry|Mountain cranberry",
             "0",
             "A tart red berry common in Nordic cuisine.",
-            "Pantry",
+            "Pantry|Fruits",
             "",
             "0.1",
-            "",
+            "https://en.wikipedia.org/wiki/Vaccinium_vitis-idaea",
             ""
         ],
     
@@ -1480,7 +1480,7 @@
             "Juices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Apple_juice",
             ""
         ],
     
@@ -1489,10 +1489,10 @@
             "Lychee syrup",
             "0",
             "A sweet syrup made from lychee fruit.",
-            "Syrups",
+            "Syrups|Homemade",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Flavored_syrup",
             ""
         ],
     
@@ -1510,49 +1510,49 @@
     
         "122":
         [
-            "Coconut liqueur",
+            "Malibu|Coconut liqueur",
             "21",
             "A sweet liqueur made from coconut.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Malibu_(rum)",
             ""
         ],
     
         "123":
         [
-            "Blackcurrant syrup",
+            "Blackcurrant syrup|Cassis syrup",
             "0",
             "A sweet syrup made from blackcurrants.",
             "Syrups",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Flavored_syrup",
             ""
         ],
     
         "124":
         [
-            "Blackcurrant liqueur",
+            "Crème de cassis|Creme de cassis|Blackcurrant liqueur",
             "18",
             "A sweet liqueur made from blackcurrants.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Crème_de_cassis",
             ""
         ],
     
         "125":
         [
-            "Blackberries",
+            "Blackberries|Blackberry",
             "0",
             "Black berries used in cocktails.",
-            "Pantry",
+            "Pantry|Fruits",
             "",
             "1",
-            "",
+            "https://en.wikipedia.org/wiki/Blackberry",
             ""
         ],
     
@@ -1573,10 +1573,10 @@
             "Pomegranate",
             "0",
             "A fruit used fresh or as juice.",
-            "Pantry",
+            "Pantry|Fruits",
             "",
             "20",
-            "",
+            "https://en.wikipedia.org/wiki/Pomegranate",
             ""
         ],
     
@@ -1585,15 +1585,16 @@
             "Peach",
             "0",
             "A fruit used fresh or as puree.",
-            "Pantry",
+            "Pantry|Fruits",
             "",
             "10",
+            "https://en.wikipedia.org/wiki/Peach",
             ""
         ],
     
         "129":
         [
-            "Peach liqueur",
+            "Peach liqueur|Peach schnapps",
             "18",
             "A sweet liqueur made from peaches.",
             "Liqueurs",
@@ -1605,25 +1606,25 @@
     
         "130":
         [
-            "Raspberry/blueberry jam",
+            "Raspberry/blueberry jam|Mixed berry jam",
             "0",
-            "A preserve made from mixed berries.",
+            "A preserve made from mixed berries.\nCalled \"Drottningsylt\", Swedish for \"Queen jam\".",
             "Pantry",
             "",
             "",
             "",
-            ""
+            "099|109|076"
         ],
 
         "131":
         [
-            "Coconut nectar",
+            "Coconut nectar|Neera",
             "0",
             "A sweet syrup made from coconut palm flowers.",
             "Syrups",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Neera",
             ""
         ],
     
@@ -1635,7 +1636,7 @@
             "Syrups",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Chocolate_syrup",
             ""
         ],
     
@@ -1647,19 +1648,19 @@
             "Syrups",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Maple_syrup",
             ""
         ],
     
         "134":
         [
-            "Rice syrup",
+            "Rice syrup|Brown rice syrup|Rice malt",
             "0",
             "A sweet syrup made from fermented rice.",
             "Syrups",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Brown_rice_syrup",
             ""
         ],
     
@@ -1671,7 +1672,7 @@
             "Pantry",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Honey",
             ""
         ],
     
@@ -1683,7 +1684,7 @@
             "Juices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Guava",
             ""
         ],
     
@@ -1695,19 +1696,19 @@
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Apricot_brandy",
             ""
         ],
     
         "138":
         [
-            "Frangelico",
+            "Frangelico|Hazelnut liqueur",
             "20",
             "A sweet liqueur made from hazelnuts.",
             "Liqueurs",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Frangelico",
             ""
         ],
     
@@ -1719,31 +1720,31 @@
             "Syrups",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Flavored_syrup",
             ""
         ],
     
         "140":
         [
-            "Sake",
+            "Sake|Wine",
             "15",
             "A traditional Japanese rice wine.",
             "Wine",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Sake",
             ""
         ],
     
         "141":
         [
-            "Chili",
+            "Chili pepper|Jalapeno",
             "0",
             "Hot peppers used for spice and heat.",
             "Pantry",
             "",
             "0.5",
-            "",
+            "https://en.wikipedia.org/wiki/Chili_pepper",
             ""
         ],
     
@@ -1755,7 +1756,7 @@
             "Spices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Vanilla",
             ""
         ],
     
@@ -1767,7 +1768,7 @@
             "Spices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Cinnamon",
             ""
         ],
     
@@ -1779,7 +1780,7 @@
             "Spices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Nutmeg",
             ""
         ],
     
@@ -1791,7 +1792,7 @@
             "Pantry",
             "",
             "2",
-            "",
+            "https://en.wikipedia.org/wiki/Celery",
             ""
         ],
     
@@ -1803,7 +1804,7 @@
             "Spices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Celery_salt",
             ""
         ],
     
@@ -1815,7 +1816,7 @@
             "Spices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Cardamom",
             ""
         ],
     
@@ -1827,19 +1828,19 @@
             "Spices",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Clove",
             ""
         ],
     
         "149":
         [
-            "Muscovado sugar",
+            "Muscovado sugar|Brown sugar",
             "0",
             "An unrefined dark brown sugar.",
             "Pantry",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Muscovado",
             ""
         ],
     
@@ -1851,19 +1852,19 @@
             "Wine",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Sherry",
             ""
         ],
     
         "151":
         [
-            "Tabasco",
+            "Tabasco|Hot sauce",
             "0",
             "A spicy pepper sauce.",
             "Pantry",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Tabasco_sauce",
             ""
         ],
     
@@ -1875,7 +1876,7 @@
             "Pantry",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Worcestershire_sauce",
             ""
         ],
     
@@ -1887,43 +1888,43 @@
             "Pantry",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Ice_cream",
             ""
         ],
     
         "154":
         [
-            "Cacao",
+            "Cocoa powder|Cacao|Chocolate powder",
             "0",
             "Raw chocolate powder.",
             "Pantry",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Cocoa_solids",
             ""
         ],
     
         "155":
         [
-            "Grappa",
+            "Grappa|Brandy",
             "42",
             "An Italian brandy made from grape pomace.",
             "Spirits",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Grappa",
             ""
         ],
     
         "156":
         [
-            "Hot chocolate",
+            "Hot chocolate|Hot cocoa|Chocolate",
             "0",
             "A warm beverage made from chocolate.",
             "Pantry",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Hot_chocolate",
             ""
         ],
     
@@ -1935,31 +1936,31 @@
             "Spirits",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Brandy",
             ""
         ],
     
         "158":
         [
-            "Tea",
+            "Tea|Earl gray|Earl grey",
             "0",
             "An infusion made from tea leaves.",
             "Pantry",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Tea",
             ""
         ],
     
         "159":
         [
-            "Calvados",
+            "Calvados|Brandy",
             "40",
             "An apple brandy from Normandy.",
             "Spirits",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Calvados",
             ""
         ],
     
@@ -1983,21 +1984,57 @@
             "Pantry",
             "",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Marmalade",
             ""
         ],
     
         "162":
         [
-            "Alcohol free sparkling wine",
+            "Lemons|Citrus",
             "0",
-            "A non-alcoholic alternative to sparkling wine.",
-            "Wine",
-            "016",
+            "A citrus often used for its juice or as garnish.",
+            "Pantry|Fruits",
+            "163",
             "",
-            "",
+            "https://en.wikipedia.org/wiki/Lemon",
             ""
-        ]    
+        ],
+    
+        "163":
+        [
+            "Limes|Citrus",
+            "0",
+            "A citrus often used for its juice or as garnish.",
+            "Pantry|Fruits",
+            "162",
+            "",
+            "https://en.wikipedia.org/wiki/Lime_(fruit)",
+            ""
+        ],
+    
+        "164":
+        [
+            "Orange",
+            "0",
+            "A citrus often used for its juice or as garnish.",
+            "Pantry|Fruits",
+            "",
+            "",
+            "https://en.wikipedia.org/wiki/Orange_(fruit)",
+            ""
+        ],
+    
+        "165":
+        [
+            "Cherries|Cherry",
+            "0",
+            "A red berry grown in pairs.",
+            "Pantry|Fruits",
+            "",
+            "",
+            "https://en.wikipedia.org/wiki/Cherry",
+            ""
+        ]
     },
 
 
