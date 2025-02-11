@@ -2076,7 +2076,7 @@
             "https://www.cocktailia.se/images/74/iz1wbb-bees-knees-drink-en-twist-pa-en-gin-sour-recept-med-gin-honung-och-citronjuice-1920x1600_150x68.webp",
             "",
 
-            "Thai Basil is a very famous cocktail from Asian Post Office in Stockholm.\nTestlink to GT: [0003]! Thai Basil is a very famous cocktail from Asian Post Office in Stockholm.",
+            "",
 
             "5|cl|002| ",
             "2|cl|043| ",
@@ -2096,7 +2096,7 @@
             "https://www.cocktailia.se/images/74/flmnuh-gin-och-tonic-drink-recept-1920x1600_174x53.webp",
             "",
 
-            "Testlink to BN: [0003] and TB: [0001]",
+            "",
 
             "6|cl|002| ",
             "12|cl|049| "
@@ -3031,6 +3031,50 @@
             "10|cl|049|Pink tonic",
             "5| |099| ",
             "0| |070| "
+        ],
+
+        "0048":
+        [
+            "Bajentown",
+            "Shake everything except the soda water and strain into a glass with ice.\nTop up with the soda water and serve.",
+            "02",
+        
+            "Shake",
+            "On ice",
+            "Highball",
+        
+            "Github",
+            "Congerdesign on Pixabay",
+        
+            "",
+        
+            "4|cl|002| ",
+            "4|cl|101| ",
+            "2|cl|069| ",
+            "1|cl|056| ",
+            "4|cl|048| "
+        ],
+
+        "0049":
+        [
+            "Gin Gin Mule",
+            "Muddle everything except the soda water in the shaker and shake.\nStrain into a glass with ice and top up with soda water.",
+            "02",
+        
+            "Shake",
+            "On ice",
+            "Mug",
+        
+            "Github",
+            "Amy Vosters",
+        
+            "",
+        
+            "5|cl|002| ",
+            "3|cl|044| ",
+            "2|cl|056| ",
+            "2|piece|073| ",
+            "5|cl|048| "
         ]
     }
 }
