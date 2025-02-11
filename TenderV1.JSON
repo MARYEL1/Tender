@@ -1995,7 +1995,7 @@
             "A citrus often used for its juice or as garnish.",
             "Pantry|Fruits",
             "163",
-            "",
+            "6",
             "https://en.wikipedia.org/wiki/Lemon",
             ""
         ],
@@ -2007,7 +2007,7 @@
             "A citrus often used for its juice or as garnish.",
             "Pantry|Fruits",
             "162",
-            "",
+            "4",
             "https://en.wikipedia.org/wiki/Lime_(fruit)",
             ""
         ],
@@ -2019,7 +2019,7 @@
             "A citrus often used for its juice or as garnish.",
             "Pantry|Fruits",
             "",
-            "",
+            "22",
             "https://en.wikipedia.org/wiki/Orange_(fruit)",
             ""
         ],
@@ -2031,7 +2031,7 @@
             "A red berry grown in pairs.",
             "Pantry|Fruits",
             "",
-            "",
+            "0.8",
             "https://en.wikipedia.org/wiki/Cherry",
             ""
         ]
@@ -2053,7 +2053,7 @@
             "https://drinkoteket.se/wp-content/uploads/thai-basil.jpg",
             "",
 
-            "Thai Basil is a very famous cocktail from Asian Post Office in Stockholm.\nThis recipe is not the original secret recipe, it is a result of trial and error from Drinkoteket. The result is a cocktail where both the drink and the foam is almost identical to what you would get at Asian Post Office!",
+            "Thai Basil is a very famous cocktail [0002] from Asian Post [0003] Office in Stockholm.\nThis recipe is not the original secret recipe, it is a result of trial and error from Drinkoteket. The result is a cocktail where both the drink and the foam is almost identical to what you would get at Asian Post Office!",
 
             "5|cl|002| ",
             "3|cl|043| ",
@@ -2160,7 +2160,7 @@
             "",
 
             "6|cl|004| ",
-            "2|cl|044| ",
+            "2|cl|043| ",
             "2|cl|055| "
         ], 
         
