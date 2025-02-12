@@ -2034,6 +2034,18 @@
             "0.8",
             "https://en.wikipedia.org/wiki/Cherry",
             ""
+        ],
+    
+        "166":
+        [
+            "Bitter orange",
+            "0",
+            "A bitter citrus often used for its juice or as garnish.",
+            "Pantry|Fruits",
+            "",
+            "22",
+            "https://en.wikipedia.org/wiki/Bitter_orange",
+            ""
         ]
     },
 
@@ -3023,7 +3035,7 @@
             "Highball",
         
             "Github",
-            "Image: Rodion Kutsaiev",
+            "Image by:\nRodion Kutsaiev",
         
             "",
         
@@ -3044,7 +3056,7 @@
             "Highball",
         
             "Github",
-            "Congerdesign on Pixabay",
+            "Image by:\nCongerdesign on Pixabay",
         
             "",
         
@@ -3066,7 +3078,7 @@
             "Mug",
         
             "Github",
-            "Amy Vosters",
+            "Image by:\nAmy Vosters",
         
             "",
         
@@ -3075,6 +3087,31 @@
             "2|cl|056| ",
             "2|piece|073| ",
             "5|cl|048| "
+        ],
+
+        "0050":
+        [
+            "India-n-egroni",
+            "put the cinnamon, cardamom and orange peel in the gin and let sit overnight\nStir 5 cl of the infused gin with the rest of the ingredients in a glass with ice. Drop the bitters over and serve.",
+            "02",
+        
+            "Stir",
+            "On ice",
+            "Rocks",
+        
+            "Github",
+            "Image by:\neKokki on Pixabay",
+        
+            "",
+        
+            "4|cl|037| ",
+            "3|cl|035| ",
+            "1|dash|042| ",
+            "-div-Infused gin (2 servings)",
+            "1/2|dl|002| ",
+            "1/2| |143|Cinnamon stick",
+            "4/2| |147|Cardamom pods",
+            "1/2|piece|166|Bitter orange peel"
         ]
     }
 }
