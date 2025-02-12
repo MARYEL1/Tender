@@ -2046,6 +2046,30 @@
             "22",
             "https://en.wikipedia.org/wiki/Bitter_orange",
             ""
+        ],
+    
+        "167":
+        [
+            "Pastis",
+            "40",
+            "An anise-flavored spirit.",
+            "Spirits",
+            "",
+            "",
+            "https://en.wikipedia.org/wiki/Pastis",
+            ""
+        ],
+    
+        "168":
+        [
+            "Punsch|Swedish punch|Arrack liqueur",
+            "26",
+            "A swedish liqueur made from arrack. Often called Swedish punsch.",
+            "Liqueurs",
+            "",
+            "",
+            "https://en.wikipedia.org/wiki/Punsch",
+            ""
         ]
     },
 
@@ -3035,7 +3059,7 @@
             "Highball",
         
             "Github",
-            "Image by:\nRodion Kutsaiev",
+            "Image by:\nRodion Kutsaiev on Unsplash",
         
             "",
         
@@ -3078,7 +3102,7 @@
             "Mug",
         
             "Github",
-            "Image by:\nAmy Vosters",
+            "Image by:\nAmy Vosters on Unsplash",
         
             "",
         
@@ -3112,6 +3136,161 @@
             "1/2| |143|Cinnamon stick",
             "4/2| |147|Cardamom pods",
             "1/2|piece|166|Bitter orange peel"
+        ],
+
+        "0051":
+        [
+            "G&T Bergamot",
+            "Pour Gin and marmalade into a glass with ice, give it a stir and top up with tonic. Garnish with peppercorns",
+            "02",
+        
+            "Build",
+            "On ice",
+            "Wine",
+        
+            "Github",
+            "Image by:\nSandra Martins on Unsplash",
+        
+            "",
+        
+            "5|cl|002|London dry gin",
+            "1.5|barsp|103| ",
+            "10|cl|049|Pink tonic",
+            "0| |102|Pink peppercorns"
+        ],
+
+        "0052":
+        [
+            "O.P. Martini",
+            "Stir the aquavit with ice, strain out the water and aquavit before pouring in the gin and pastis and stirring again.\nStrain into a chilled glass and serve.",
+            "02",
+        
+            "Stir",
+            "Straight",
+            "Cocktail",
+        
+            "Github",
+            "Image by:\nHOerwin56 on Pixabay",
+        
+            "The flavoured gin could be substituted with gin and aquavit.",
+        
+            "6|cl|113|O.P. flavoured gin",
+            "1|cl|074| ",
+            "0.25|cl|167| "
+        ],
+
+        "0053":
+        [
+            "Gin Fatale",
+            "Shake without ice for about 10 seconds.\nAdd ice and shake again.\nStrain into a chilled glass and top with bitters.",
+            "02",
+        
+            "Shake",
+            "On ice",
+            "Rocks",
+        
+            "Github",
+            "Image by:\nyosoytex5 on Pixabay",
+        
+            "",
+        
+            "4|cl|002| ",
+            "1.5|cl|168| ",
+            "1|barsp|118|Lingonberry jam",
+            "1|cl|043| ",
+            "1|cl|104|Concentrated cranberry juice",
+            "1| |061|Egg white",
+            "1|dash|041| "
+        ],
+
+        "0055":
+        [
+            "Germain Invasion",
+            "Shake everything except the tonic and strain into a glass with ice. Top up with the tonic and serve.",
+            "02",
+        
+            "Shake",
+            "On ice",
+            "Rocks",
+        
+            "Github",
+            "Image by:\nJakub Dziubak on Unsplash",
+        
+            "The blackcurrant gin could be substituted for half the amount of Crème de cassis.",
+        
+            "4|cl|113|Elderflower gin",
+            "1|cl|113|Blackcurrant gin",
+            "2|cl|033| ",
+            "2|cl|044| ",
+            "2|cl|049|Elderflower tonic"
+        ],
+
+        "0056":
+        [
+            "Singapore sling",
+            "Shake everything except the soda water and strain into a glass with ice.\nTop up with the soda water and serve.",
+            "02",
+        
+            "Shake",
+            "On ice",
+            "Hurricane",
+        
+            "Github",
+            "Image by:\nBarney Bishop on flickr",
+        
+            "",
+        
+            "4|cl|002| ",
+            "2|cl|043| ",
+            "1.5|cl|112| ",
+            "1|cl|105| ",
+            "1|cl|006| ",
+            "2|dash|042| ",
+            "2|dash|041| ",
+            "4|cl|048| "
+        ],
+
+        "0057":
+        [
+            "Blue Gin",
+            "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass",
+            "02",
+        
+            "Stir",
+            "Straight",
+            "Cocktail",
+        
+            "Github",
+            "Image by:\nWesual Click on Unsplash",
+        
+            "",
+        
+            "4|cl|002| ",
+            "4|cl|107| ",
+            "1|cl|106| ",
+            "1|cl|056| "
+        ],
+
+        "0058":
+        [
+            "Martinez",
+            "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass",
+            "02",
+        
+            "Stir",
+            "Straight",
+            "Cocktail",
+        
+            "Github",
+            "Image by:\nEmily Andreeva on Unsplash",
+        
+            "",
+        
+            "4|cl|002| ",
+            "2|cl|035| ",
+            "1|cl|034| ",
+            "0.5|cl|026| ",
+            "2|dash|041| "
         ]
     }
 }
