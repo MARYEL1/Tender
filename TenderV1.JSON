@@ -2086,8 +2086,8 @@
             "On ice",
             "Rocks",
 
-            "https://drinkoteket.se/wp-content/uploads/thai-basil.jpg",
-            "",
+            "Github",
+            "Image by:\nTim Durand on Pexels",
 
             "Thai Basil is a very famous cocktail from Asian Post Office in Stockholm.\nThis recipe is not the original secret recipe, it is a result of trial and error from Drinkoteket. The result is a cocktail where both the drink and the foam is almost identical to what you would get at Asian Post Office!",
 
@@ -2109,8 +2109,8 @@
             "Straight",
             "Coupe",
 
-            "https://www.cocktailia.se/images/74/iz1wbb-bees-knees-drink-en-twist-pa-en-gin-sour-recept-med-gin-honung-och-citronjuice-1920x1600_150x68.webp",
-            "",
+            "Github",
+            "Image by:\nNikita Tikhomirov on Unsplash",
 
             "",
 
@@ -2129,8 +2129,8 @@
             "On ice",
             "Highball",
 
-            "https://www.cocktailia.se/images/74/flmnuh-gin-och-tonic-drink-recept-1920x1600_174x53.webp",
-            "",
+            "Github",
+            "Image by:\nStudio Naae on Pexels",
 
             "",
 
@@ -2148,8 +2148,8 @@
             "On ice",
             "Highball",
 
-            "https://www.cocktailia.se/images/74/fbsibb-gin-sonic-en-gt-med-soda-cocktailiase-1920x1600_147x93.webp",
-            "",
+            "Github",
+            "Image by:\nBoys in Bristol Photography on Pexels",
 
             "",
 
@@ -2168,8 +2168,8 @@
             "On ice",
             "Rocks",
 
-            "https://www.cocktailia.se/images/74/kvs3vq-whiskey-sour-drink-recept-1920x1267_191x99.webp",
-            "",
+            "Github",
+            "Image by:\nPoul Hoang on Unsplash",
 
             "",
 
@@ -2190,8 +2190,8 @@
             "On ice",
             "Rocks",
 
-            "https://www.cocktailia.se/images/74/5wjcln-gold-rush-drink-recept-1920x1267_132x98.webp",
-            "",
+            "Github",
+            "Image by:\nDavid Todd McCarty on Unsplash",
 
             "",
 
@@ -2210,8 +2210,8 @@
             "On ice",
             "Wine",
 
-            "https://www.cocktailia.se/images/74/k0oyz1-hugo-spritz-bubbeldrink-med-flader-cocktailiase-1920x1267_149x90.webp",
-            "",
+            "Github",
+            "Image by:\nHans Ott on Unsplash",
 
             "",
 
@@ -2231,8 +2231,8 @@
             "On ice",
             "Rocks",
 
-            "https://www.cocktailia.se/images/74/yy9edr-penicillin-drink-recept-1920x1600_136x81.webp",
-            "",
+            "Github",
+            "Image by:\nArdi Evans on Unsplash",
 
             "",
 
@@ -2253,8 +2253,8 @@
             "On ice",
             "Rocks",
 
-            "https://www.cocktailia.se/images/74/aw1ltu-negroni-drink-recept-1920x1600_149x108.webp",
-            "",
+            "Github",
+            "Image by:\nNuff on Unsplash",
 
             "",
 
@@ -2273,8 +2273,8 @@
             "Straight",
             "Coupe",
 
-            "https://www.cocktailia.se/images/74/w6gkd5-sidecar-drink-recept-1920x1600_125x78.webp",
-            "",
+            "Github",
+            "Image by:\nRoman Odintsov on Pexels",
 
             "",
 
@@ -2293,8 +2293,8 @@
             "On ice",
             "Rocks",
 
-            "https://www.cocktailia.se/images/74/26wpz1-scandinavian-daiquiri-en-daiquiri-med-akvavit-cocktailiase-1920x1267_140x100.webp",
-            "",
+            "Github",
+            "Image by:\nTimothé Durand on Unsplash",
 
             "",
 
@@ -2313,8 +2313,8 @@
             "Straight",
             "Coupe",
 
-            "https://www.liquor.com/thmb/IgOYvOZoSBPAzm9TjRfCtUD2wcg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/manhattan-4000x4000-primary-ig-9c3d894510284e9d8fbd9c518d00790b.jpg",
-            "",
+            "Github",
+            "Image by:\nOurWhisky Foundation on Unsplash",
 
             "",
 
@@ -3291,6 +3291,27 @@
             "1|cl|034| ",
             "0.5|cl|026| ",
             "2|dash|041| "
+        ],
+
+        "0059":
+        [
+            "St. Tropez",
+            "Shake everything except the soda water and strain into a glass with ice.\nTop up with the soda water and serve.",
+            "01",
+        
+            "Shake",
+            "On ice",
+            "Highball",
+        
+            "Github",
+            "Image by:\nMontatip Lilitsanong on Unsplash",
+        
+            "",
+        
+            "2.5|cl|114|Citrus vodka",
+            "2.5|cl|033| ",
+            "2|cl|043| ",
+            "6|cl|048| "
         ]
     }
 }
