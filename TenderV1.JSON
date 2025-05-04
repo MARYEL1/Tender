@@ -15,42 +15,45 @@
         [
             "Unspecified",
             "",
+            "",
             ""
         ],
 
         "02":
         [
             "101 Cocktails Du måste dricka innan du dör",
-            "Stefan Lindström & Eliq Maranik",
-            "2022"
+            "Book|2022",
+            "Stefan Lindström & Eliq Maranik"
         ],
 
         "03":
         [
             "Drinkoteket",
-            "https://drinkoteket.se",
-            ""
+            "Website",
+            "https://drinkoteket.se"
         ],
 
         "04":
         [
             "Cocktalia",
-            "https://cocktailia.se",
-            ""
+            "Website",
+            "https://cocktailia.se"
         ],
 
         "05":
         [
             "Liquor.com",
-            "https://liquor.com",
-            ""
+            "Website",
+            "https://liquor.com"
         ],
 
         "06":
         [
             "David Kringlund",
-            "https://davidkringlund.se/blogs/recept",
-            ""
+            "Content creator",
+            "YouTube|https://www.youtube.com/@DavidKringlund",
+            "Blog|https://davidkringlund.se/blogs/recept",
+            "Instagram|https://www.instagram.com/davidkringlund/"
         ]
     },
 
@@ -2394,8 +2397,8 @@
             "On ice",
             "Highball",
 
-            "",
-            "",
+            "Github",
+            "Image by:\nBrent Hofacker on flickr",
 
             "",
 
