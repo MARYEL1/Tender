@@ -1,17 +1,19 @@
 {
     "Packs":
     {
-        "Essentials":
+        "01":
         [
-            "0003",
-            "0005",
-            "0009"
+            "Essentials",
+            "A collection of essential cocktail recipes.",
+            "00003",
+            "00005",
+            "00009"
         ]
     },
 
     "Sources":
     {
-        "01":
+        "001":
         [
             "Unspecified",
             "",
@@ -19,35 +21,35 @@
             ""
         ],
 
-        "02":
+        "002":
         [
             "101 Cocktails Du måste dricka innan du dör",
             "Book|2022",
             "Stefan Lindström & Eliq Maranik"
         ],
 
-        "03":
+        "003":
         [
             "Drinkoteket",
             "Website",
             "https://drinkoteket.se"
         ],
 
-        "04":
+        "004":
         [
             "Cocktalia",
             "Website",
             "https://cocktailia.se"
         ],
 
-        "05":
+        "005":
         [
             "Liquor.com",
             "Website",
             "https://liquor.com"
         ],
 
-        "06":
+        "006":
         [
             "David Kringlund",
             "Content creator",
@@ -59,7 +61,7 @@
 
     "Ingredients":
     {
-        "001":
+        "0001":
         [
             "Vodka",
             "40",
@@ -71,127 +73,127 @@
             ""
         ],
 
-        "002":
+        "0002":
         [
             "Gin",
             "40",
             "A clear spirit made from juniper berries.",
             "Common|Spirits",
-            "088",
+            "0088",
             "",
             "https://en.wikipedia.org/wiki/Gin",
             ""
         ],
 
-        "003":
+        "0003":
         [
             "Whiskey|Whisky",
             "40",
             "A distilled spirit made from fermented grain mash.",
             "Common|Spirits",
-            "004|069|072",
+            "0004|0069|0072",
             "",
             "https://en.wikipedia.org/wiki/Whisky",
             ""
         ],
 
-        "004":
+        "0004":
         [
             "Bourbon|Whiskey|Whisky",
             "40",
             "A type of American whiskey, primarily made from corn.",
             "Common|Spirits",
-            "003|069|072",
+            "0003|0069|0072",
             "",
             "https://en.wikipedia.org/wiki/Bourbon_whiskey",
             ""
         ],
 
-        "005":
+        "0005":
         [
             "Rum|Rhum",
             "40",
             "A distilled spirit made from sugarcane byproducts.",
             "Common|Spirits",
-            "006|007|008|009|071",
+            "0006|0007|0008|0009|0071",
             "",
             "https://en.wikipedia.org/wiki/Rum",
             ""
         ],
 
-        "006":
+        "0006":
         [
             "Light rum|Light rhum",
             "40",
             "A milder variety of rum that is typically clear.",
             "Spirits",
-            "005|009",
+            "0005|0009",
             "",
             "https://en.wikipedia.org/wiki/Rum#Grades",
             ""
         ],
 
-        "007":
+        "0007":
         [
             "Gold rum|Gold rhum",
             "40",
             "A medium-bodied rum that has been aged for a few years.",
             "Spirits",
-            "005|008",
+            "0005|0008",
             "",
             "https://en.wikipedia.org/wiki/Rum#Grades",
             ""
         ],
 
-        "008":
+        "0008":
         [
             "Dark rum|Dark rhum",
             "40",
             "A rich and full-bodied rum aged longer and often with caramel added.",
             "Spirits",
-            "005|007|071",
+            "0005|0007|0071",
             "",
             "https://en.wikipedia.org/wiki/Rum#Grades",
             ""
         ],
 
-        "009":
+        "0009":
         [
             "Cachaça|Rum|Rhum",
             "45",
             "A Brazilian spirit made from fermented sugarcane juice.",
             "Spirits",
-            "005|006",
+            "0005|0006",
             "",
             "https://en.wikipedia.org/wiki/Cacha%C3%A7a",
             ""
         ],
 
-        "010":
+        "0010":
         [
             "Tequila|Mezcal",
             "40",
             "A Mexican spirit made from the blue agave plant.",
             "Common|Spirits",
-            "011",
+            "0011",
             "",
             "https://en.wikipedia.org/wiki/Tequila",
             ""
         ],
 
-        "011":
+        "0011":
         [
             "Mezcal|Tequila",
             "40",
             "A Mexican spirit made from various types of agave.",
             "Spirits",
-            "010",
+            "0010",
             "",
             "https://en.wikipedia.org/wiki/Mezcal",
             ""
         ],
 
-        "012":
+        "0012":
         [
             "Cognac|Brandy",
             "40",
@@ -203,7 +205,7 @@
             ""
         ],
 
-        "013":
+        "0013":
         [
             "Red wine",
             "12",
@@ -215,7 +217,7 @@
             ""
         ],
 
-        "014":
+        "0014":
         [
             "White wine",
             "12",
@@ -227,7 +229,7 @@
             ""
         ],
 
-        "015":
+        "0015":
         [
             "Rosé wine|Rose wine",
             "12",
@@ -239,55 +241,55 @@
             ""
         ],
 
-        "016":
+        "0016":
         [
             "Sparkling wine|Champagne|Prosecco|Cava",
             "12",
             "A wine containing significant levels of carbon dioxide.",
             "Wine",
-            "017|018|019",
+            "0017|0018|0019",
             "",
             "https://en.wikipedia.org/wiki/Sparkling_wine",
             ""
         ],
 
-        "017":
+        "0017":
         [
             "Champagne|Sparkling wine|Prosecco|Cava",
             "12",
             "A sparkling wine made in the Champagne region of France.",
             "Wine",
-            "016|018|019",
+            "0016|0018|0019",
             "",
             "https://en.wikipedia.org/wiki/Champagne",
             ""
         ],
 
-        "018":
+        "0018":
         [
             "Prosecco|Sparkling wine|Champagne|Cava",
             "12",
             "An Italian sparkling wine.",
             "Wine",
-            "016|017|019",
+            "0016|0017|0019",
             "",
             "https://en.wikipedia.org/wiki/Prosecco",
             ""
         ],
 
-        "019":
+        "0019":
         [
             "Cava|Sparkling wine|Champagne|Prosecco",
             "12",
             "A Spanish sparkling wine made using the traditional method.",
             "Wine",
-            "016|017|018",
+            "0016|0017|0018",
             "",
             "https://en.wikipedia.org/wiki/Cava_(Spanish_wine)",
             ""
         ],
 
-        "020":
+        "0020":
         [
             "Absinthe",
             "68",
@@ -299,7 +301,7 @@
             ""
         ],
 
-        "021":
+        "0021":
         [
             "Crème de cacao|Creme de cacao|Chocolate liqueur",
             "24",
@@ -311,7 +313,7 @@
             ""
         ],
 
-        "022":
+        "0022":
         [
             "Coffee liqueur|Mr Black|Kahlua",
             "16",
@@ -320,10 +322,10 @@
             "",
             "",
             "https://en.wikipedia.org/wiki/List_of_liqueur_brands#Coffee",
-            "062|065|054"
+            "0062|0065|0054"
         ],
 
-        "023":
+        "0023":
         [
             "Irish cream|Baileys|Amarula|Cream liqueur",
             "17",
@@ -335,7 +337,7 @@
             ""
         ],
 
-        "024":
+        "0024":
         [
             "Blue curaçao|Triple sec|Blue curacao",
             "21",
@@ -347,7 +349,7 @@
             ""
         ],
 
-        "025":
+        "0025":
         [
             "Triple sec|Cointreau|curacao",
             "40",
@@ -359,7 +361,7 @@
             ""
         ],
 
-        "026":
+        "0026":
         [
             "Maraschino liqueur|Cherry|Luxardo",
             "32",
@@ -371,7 +373,7 @@
             ""
         ],
 
-        "027":
+        "0027":
         [
             "Limoncello",
             "30",
@@ -380,10 +382,10 @@
             "",
             "",
             "https://en.wikipedia.org/wiki/Limoncello",
-            "162|076|001|062"
+            "0162|0076|0001|0062"
         ],
 
-        "028":
+        "0028":
         [
             "Licor 43|Liqueur 43|Liquor 43",
             "31",
@@ -395,43 +397,43 @@
             ""
         ],
 
-        "029":
+        "0029":
         [
             "Galliano Vanilla",
             "30",
             "A sweet herbal liqueur infused with vanilla.",
             "Liqueurs",
-            "028",
+            "0028",
             "",
             "https://en.wikipedia.org/wiki/Galliano_(liqueur)",
             ""
         ],
 
-        "030":
+        "0030":
         [
             "Green Chartreuse",
             "55",
             "A French liqueur made from 130 herbs and plants.",
             "Liqueurs",
-            "030|040",
+            "0030|0040",
             "",
             "https://en.wikipedia.org/wiki/Chartreuse_(liqueur)",
             ""
         ],
 
-        "031":
+        "0031":
         [
             "Yellow Chartreuse",
             "43",
             "A milder variant of the Green Chartreuse liqueur.",
             "Liqueurs",
-            "031",
+            "0031",
             "",
             "https://en.wikipedia.org/wiki/Chartreuse_(liqueur)",
             ""
         ],
 
-        "032":
+        "0032":
         [
             "Amaretto|Disaronno",
             "28",
@@ -443,7 +445,7 @@
             ""
         ],
 
-        "033":
+        "0033":
         [
             "St-Germain|Elderflower liqueur|St Germain",
             "20",
@@ -455,7 +457,7 @@
             ""
         ],
 
-        "034":
+        "0034":
         [
             "Dry vermouth|Martini",
             "15",
@@ -467,7 +469,7 @@
             ""
         ],
 
-        "035":
+        "0035":
         [
             "Sweet vermouth|Martini rosso|Red vermouth",
             "15",
@@ -479,115 +481,115 @@
             ""
         ],
 
-        "036":
+        "0036":
         [
             "Aperol",
             "11",
             "An Italian aperitif with a unique bittersweet taste.",
             "Liqueurs",
-            "037",
+            "0037",
             "",
             "https://en.wikipedia.org/wiki/Aperol",
             ""
         ],
 
-        "037":
+        "0037":
         [
             "Campari",
             "25",
             "An Italian bitter liqueur with a bright red color.",
             "Liqueurs",
-            "036",
+            "0036",
             "",
             "https://en.wikipedia.org/wiki/Campari",
             ""
         ],
 
-        "038":
+        "0038":
         [
             "Fernet|Branca",
             "39",
             "A bitter, aromatic spirit made from a variety of herbs and spices.",
             "Liqueurs",
-            "039",
+            "0039",
             "",
             "https://en.wikipedia.org/wiki/Fernet",
             ""
         ],
 
-        "039":
+        "0039":
         [
             "Jägermeister|jagermeister|jaegermeister",
             "35",
             "A German herbal liqueur made with 56 different herbs, fruits, roots, and spices.",
             "Liqueurs",
-            "038",
+            "0038",
             "",
             "https://en.wikipedia.org/wiki/J%C3%A4germeister",
             ""
         ],
 
-        "040":
+        "0040":
         [
             "Becherovka",
             "38",
             "A Czech herbal bitter liqueur.",
             "Liqueurs",
-            "030|074",
+            "0030|0074",
             "",
             "https://en.wikipedia.org/wiki/Becherovka",
             ""
         ],
 
-        "041":
+        "0041":
         [
             "Angostura bitters",
             "44.7",
             "A concentrated bitter with herbs and spices, used for flavoring.",
             "Common|Bitters",
-            "042",
+            "0042",
             "",
             "https://en.wikipedia.org/wiki/Angostura_bitters",
             ""
         ],
 
-        "042":
+        "0042":
         [
             "Orange bitters|Angostura",
             "28",
             "A bitter with a distinct orange flavor.",
             "Bitters",
-            "041",
+            "0041",
             "",
             "https://en.wikipedia.org/wiki/Orange_bitters",
             ""
         ],
 
-        "043":
+        "0043":
         [
             "Lemon juice|Citrus",
             "0",
             "A sour juice from lemons.",
             "Common|Juices",
-            "044|084",
+            "0044|0084",
             "",
             "https://en.wikipedia.org/wiki/Lemon",
-            "162"
+            "0162"
         ],
 
-        "044":
+        "0044":
         [
             "Lime juice|Citrus",
             "0",
             "A tangy juice from limes.",
             "Common|Juices",
-            "043|048",
+            "0043|0048",
             "",
             "https://en.wikipedia.org/wiki/Lime_(fruit)",
-            "163"
+            "0163"
         ],
 
-        "045":
+        "0045":
         [
             "Orange juice",
             "0",
@@ -596,10 +598,10 @@
             "",
             "",
             "https://en.wikipedia.org/wiki/Orange_juice",
-            "164"
+            "0164"
         ],
 
-        "046":
+        "0046":
         [
             "Pineapple juice",
             "0",
@@ -611,7 +613,7 @@
             ""
         ],
 
-        "047":
+        "0047":
         [
             "Tomato juice",
             "0",
@@ -623,31 +625,31 @@
             ""
         ],
 
-        "048":
+        "0048":
         [
             "Soda water|Club soda|Sparkling water|Carbonated water|Mineral water|Seltzer",
             "0",
             "Carbonated water with a neutral flavor.",
             "Sodas",
-            "049|052",
+            "0049|0052",
             "",
             "https://en.wikipedia.org/wiki/Carbonated_water",
             ""
         ],
 
-        "049":
+        "0049":
         [
             "Tonic water",
             "0",
             "A bitter soda with dissolved quinine.",
             "Common|Sodas",
-            "048|052",
+            "0048|0052",
             "",
             "https://en.wikipedia.org/wiki/Tonic_water",
             ""
         ],
 
-        "050":
+        "0050":
         [
             "Ginger beer|Ginger ale",
             "0",
@@ -659,7 +661,7 @@
             ""
         ],
 
-        "051":
+        "0051":
         [
             "Coke|Coca Cola|Pepsi|Soda",
             "0",
@@ -671,19 +673,19 @@
             ""
         ],
 
-        "052":
+        "0052":
         [
             "Sprite|Lemon lime soda",
             "0",
             "A lemon-lime flavored carbonated soft drink.",
             "Sodas",
-            "049",
+            "0049",
             "",
             "https://en.wikipedia.org/wiki/Sprite_(drink)",
             ""
         ],
 
-        "053":
+        "0053":
         [
             "Red Bull|Energy drink|Monster",
             "0",
@@ -695,43 +697,43 @@
             ""
         ],
 
-        "054":
+        "0054":
         [
             "Simple syrup|Sugar|Rich syrup",
             "0",
             "A basic syrup made from sugar dissolved in water.",
             "Common|Syrups|Homemade",
-            "055|056|075|076",
+            "0055|0056|0075|0076",
             "",
             "https://en.m.wikipedia.org/wiki/Syrup#Simple_syrup",
-            "076|062"
+            "0076|0062"
         ],
 
-        "055":
+        "0055":
         [
             "Honey syrup",
             "0",
             "A syrup made from 3 parts honey and 1 part water.",
             "Syrups|Homemade",
-            "054|056|075",
+            "0054|0056|0075",
             "",
             "https://en.wikipedia.org/wiki/Flavored_syrup",
-            "135|062"
+            "0135|0062"
         ],
 
-        "056":
+        "0056":
         [
             "Agave syrup",
             "0",
             "A sweetener made from the agave plant.",
             "Syrups",
-            "054|055|075",
+            "0054|0055|0075",
             "",
             "https://en.wikipedia.org/wiki/Agave_syrup",
             ""
         ],
 
-        "057":
+        "0057":
         [
             "Grenadine|Pommegranate syrup",
             "0",
@@ -743,19 +745,19 @@
             ""
         ],
 
-        "058":
+        "0058":
         [
             "Ginger syrup",
             "0",
             "A syrup made from ginger root, sugar, and water.",
             "Syrups|Homemade",
-            "073",
+            "0073",
             "",
             "https://en.wikipedia.org/wiki/Flavored_syrup",
-            "073|076|062"
+            "0073|0076|0062"
         ],
 
-        "059":
+        "0059":
         [
             "Orgeat|Almond syrup",
             "0",
@@ -767,7 +769,7 @@
             ""
         ],
 
-        "060":
+        "0060":
         [
             "Cinnamon syrup",
             "0",
@@ -776,10 +778,10 @@
             "",
             "",
             "https://en.wikipedia.org/wiki/Flavored_syrup",
-            "143|076|062"
+            "0143|0076|0062"
         ],
 
-        "061":
+        "0061":
         [
             "Egg|Egg white|Egg yolk|Eggs",
             "0",
@@ -791,7 +793,7 @@
             ""
         ],
 
-        "062":
+        "0062":
         [
             "Water",
             "0",
@@ -803,55 +805,55 @@
             ""
         ],
 
-        "063":
+        "0063":
         [
             "Milk",
             "0",
             "A dairy product used in some creamy cocktails.",
             "Pantry",
-            "064",
+            "0064",
             "",
             "https://en.wikipedia.org/wiki/Milk",
             ""
         ],
 
-        "064":
+        "0064":
         [
             "Cream|Half and half",
             "0",
             "A thick dairy product used for rich, creamy cocktails.",
             "Pantry",
-            "063",
+            "0063",
             "",
             "https://en.wikipedia.org/wiki/Cream",
             ""
         ],
 
-        "065":
+        "0065":
         [
             "Coffee|Espresso",
             "0",
             "A brewed beverage made from roasted coffee beans.",
             "Pantry",
-            "066",
+            "0066",
             "",
             "https://en.wikipedia.org/wiki/Coffee",
-            "066"
+            "0066"
         ],
 
-        "066":
+        "0066":
         [
             "Espresso|Coffee",
             "0",
             "A concentrated form of coffee brewed by forcing hot water through finely-ground coffee beans.",
             "Pantry",
-            "065",
+            "0065",
             "",
             "https://en.wikipedia.org/wiki/Espresso",
-            "065"
+            "0065"
         ],
 
-        "067":
+        "0067":
         [
             "Thai basil syrup",
             "0",
@@ -860,10 +862,10 @@
             "",
             "",
             "https://en.wikipedia.org/wiki/Flavored_syrup",
-            "093|076|062"
+            "0093|0076|0062"
         ],
 
-        "068":
+        "0068":
         [
             "Coconut cream|Coconut milk",
             "0",
@@ -875,19 +877,19 @@
             ""
         ],
 
-        "069":
+        "0069":
         [
             "Rye whiskey|Rye whisky",
             "40",
             "A type of whiskey made primarily from rye grain.",
             "Spirits",
-            "003|004|072",
+            "0003|0004|0072",
             "",
             "https://en.wikipedia.org/wiki/Rye_whiskey",
             ""
         ],
 
-        "070":
+        "0070":
         [
             "Mint|Mentha|Mint leaves|Mint leaf",
             "0",
@@ -899,79 +901,79 @@
             ""
         ],
 
-        "071":
+        "0071":
         [
             "Dark overproof rum|Dark rum|Dark rhum|Overproof rum|Overproof rhum",
             "60",
             "A high-proof dark rum for strong cocktails.",
             "Spirits",
-            "005|008",
+            "0005|0008",
             "",
             "https://en.wikipedia.org/wiki/Rum#Grades",
             ""
         ],
 
-        "072":
+        "0072":
         [
             "Scotch|Scottish whiskey|Scottish whisky",
             "40",
             "A malt or grain whisky made in Scotland.",
             "Spirits",
-            "003|004|069",
+            "0003|0004|0069",
             "",
             "https://en.wikipedia.org/wiki/Scotch_whisky",
             ""
         ],
 
-        "073":
+        "0073":
         [
             "Ginger",
             "0",
             "A spice used for its flavor and zing.",
             "Pantry|Fruits",
-            "058",
+            "0058",
             "",
             "https://en.wikipedia.org/wiki/Ginger",
             ""
         ],
 
-        "074":
+        "0074":
         [
             "Aquavit|Akvavit|Akvavhit",
             "40",
             "A Scandinavian spirit flavored with spices and herbs.",
             "Spirits",
-            "002|040",
+            "0002|0040",
             "",
             "https://en.wikipedia.org/wiki/Akvavit",
             ""
         ],
-        
-        "075":
+
+        "0075":
         [
             "Demerara syrup",
             "0",
             "A rich syrup made from Demerara sugar.",
             "Syrups",
-            "054|055|056",
+            "0054|0055|0056",
             "",
             "https://en.wikipedia.org/wiki/Syrup#:~:text=Demerara%20syrup",
             ""
         ],
-        
-        "076":
+
+        "0076":
         [
             "Sugar",
             "0",
             "A sweetener used in cocktails for balance.",
             "Pantry",
-            "054",
+            "0054",
             "",
             "https://en.wikipedia.org/wiki/Sugar",
             ""
         ],
 
-        "077":
+        "0077":
         [
             "Peychaud's bitters|Peychauds bitters",
             "35",
@@ -983,7 +985,7 @@
             ""
         ],
 
-        "078":
+        "0078":
         [
             "Grapefruit soda",
             "0",
@@ -995,7 +997,7 @@
             ""
         ],
 
-        "079":
+        "0079":
         [
             "Salt",
             "0",
@@ -1007,7 +1009,7 @@
             ""
         ],
 
-        "080":
+        "0080":
         [
             "Pisco|Brandy",
             "40",
@@ -1019,31 +1021,31 @@
             ""
         ],
 
-        "081":
+        "0081":
         [
             "Brown sugar",
             "0",
             "A type of sugar with a rich molasses flavor.",
             "Spices",
-            "075|076",
+            "0075|0076",
             "",
             "https://en.wikipedia.org/wiki/Brown_sugar",
             ""
         ],
 
-        "082":
+        "0082":
         [
             "Lillet Blanc",
             "17",
             "A French aromatized wine-based aperitif.",
             "Apertifs",
-            "033",
+            "0033",
             "",
             "https://en.wikipedia.org/wiki/Lillet",
             ""
         ],
 
-        "083":
+        "0083":
         [
             "Cherry syrup",
             "0",
@@ -1052,22 +1054,22 @@
             "",
             "",
             "https://en.wikipedia.org/wiki/Flavored_syrup",
-            "165|076|062"
+            "0165|0076|0062"
         ],
 
-        "084":
+        "0084":
         [
             "Apple (malic acid)|Apple acid",
             "0",
             "A tart and acidic juice made from apples.",
             "Juices",
-            "043|044",
+            "0043|0044",
             "",
             "https://en.wikipedia.org/wiki/Malic_acid",
             ""
         ],
 
-        "085":
+        "0085":
         [
             "Beer|Ale|Stout|IPA",
             "5",
@@ -1079,7 +1081,7 @@
             ""
         ],
 
-        "086":
+        "0086":
         [
             "Apple cider",
             "4.5",
@@ -1091,7 +1093,7 @@
             ""
         ],
 
-        "087":
+        "0087":
         [
             "Grapes",
             "0",
@@ -1103,19 +1105,19 @@
             ""
         ],
 
-        "088":
+        "0088":
         [
             "Alcohol free gin|0.0|0,0",
             "0",
             "A non-alcoholic alternative to gin",
             "Spirits",
-            "002",
+            "0002",
             "",
             "",
             ""
         ],
 
-        "089":
+        "0089":
         [
             "Grapefruit|Blood orange",
             "0",
@@ -1127,7 +1129,7 @@
             ""
         ],
 
-        "090":
+        "0090":
         [
             "Juniper berries",
             "0",
@@ -1139,7 +1141,7 @@
             ""
         ],
 
-        "091":
+        "0091":
         [
             "Rosemary",
             "0",
@@ -1151,7 +1153,7 @@
             ""
         ],
 
-        "092":
+        "0092":
         [
             "Crème de violette|Creme de violette|Violet liqueur",
             "20",
@@ -1163,7 +1165,7 @@
             ""
         ],
 
-        "093":
+        "0093":
         [
             "Basil|Basil leaves",
             "0",
@@ -1175,7 +1177,7 @@
             ""
         ],
 
-        "094":
+        "0094":
         [
             "Citric acid",
             "0",
@@ -1187,7 +1189,7 @@
             ""
         ],
 
-        "095":
+        "0095":
         [
             "Raspberry syrup",
             "0",
@@ -1196,10 +1198,10 @@
             "",
             "",
             "https://en.wikipedia.org/wiki/Flavored_syrup",
-            "099|076|062"
+            "0099|0076|0062"
         ],
 
-        "096":
+        "0096":
         [
             "Strawberries|Strawberry",
             "0",
@@ -1211,7 +1213,7 @@
             ""
         ],
 
-        "097":
+        "0097":
         [
             "Grapefruit juice",
             "0",
@@ -1220,22 +1222,22 @@
             "",
             "",
             "https://en.wikipedia.org/wiki/Grapefruit_juice",
-            "089"
+            "0089"
         ],
 
-        "098":
+        "0098":
         [
             "Pink gin",
             "40",
             "A pink gin with notes of raspberries.\nNot to be confused with the cocktail with the same name",
             "Spirits",
-            "002",
+            "0002",
             "",
             "",
             ""
         ],
 
-        "099":
+        "0099":
         [
             "Raspberries|Raspberry",
             "0",
@@ -1247,31 +1249,31 @@
             ""
         ],
 
-        "100":
+        "0100":
         [
             "Lemon cordial|Squash",
             "0",
             "A syrup made with lemon.\nNot to be confused with american liqueur.\n\nMade with eaqual parts lemon juice and sugar together with the zest from the lemon.\nStir and let sit for 24 hours before filtering.",
             "Pantry|Homemade|Syrups",
-            "101",
+            "0101",
             "",
             "https://en.wikipedia.org/wiki/Squash_(drink)",
-            "043|162|076"
+            "0043|0162|0076"
         ],
 
-        "101":
+        "0101":
         [
             "Lime cordial|Squash",
             "0",
             "A syrup made with lime.\nNot to be confused with american liqueur.\n\nMade with eaqual parts lime juice and sugar together with the zest from the lime.\nStir and let sit for 24 hours before filtering.",
             "Pantry|Homemade|Syrups",
-            "100",
+            "0100",
             "",
             "https://en.wikipedia.org/wiki/Squash_(drink)",
-            "044|163|076"
+            "0044|0163|0076"
         ],
 
-        "102":
+        "0102":
         [
             "Pepper|Black pepper",
             "0",
@@ -1283,7 +1285,7 @@
             ""
         ],
 
-        "103":
+        "0103":
         [
             "Bergamot marmalade",
             "0",
@@ -1295,7 +1297,7 @@
             ""
         ],
 
-        "104":
+        "0104":
         [
             "Cranberry juice",
             "0",
@@ -1306,8 +1308,8 @@
             "https://en.wikipedia.org/wiki/Cranberry_juice",
             ""
         ],
-    
-        "105":
+
+        "0105":
         [
             "Bénédictine|Benedictine DOM",
             "40",
@@ -1318,8 +1320,8 @@
             "https://en.wikipedia.org/wiki/B%C3%A9n%C3%A9dictine",
             ""
         ],
-    
-        "106":
+
+        "0106":
         [
             "Sloe gin",
             "26",
@@ -1330,8 +1332,8 @@
             "https://en.wikipedia.org/wiki/Sloe_gin",
             ""
         ],
-    
-        "107":
+
+        "0107":
         [
             "Blueberry drink",
             "0",
@@ -1342,8 +1344,8 @@
             "",
             ""
         ],
-    
-        "108":
+
+        "0108":
         [
             "Blueberry liqueur",
             "18",
@@ -1354,8 +1356,8 @@
             "",
             ""
         ],
-    
-        "109":
+
+        "0109":
         [
             "Blueberries|Blueberry",
             "0",
@@ -1366,32 +1368,32 @@
             "https://en.wikipedia.org/wiki/Bilberry",
             ""
         ],
-    
-        "110":
+
+        "0110":
         [
             "Alcohol free sparkling wine|0.0|0,0",
             "0",
             "A non-alcoholic alternative to sparkling wine.",
             "Wine",
-            "016",
+            "0016",
             "",
             "",
             ""
-        ] ,
-    
-        "111":
+        ],
+
+        "0111":
         [
             "Alcohol free rum|0.0|0,0|Alcohol free Rhum",
             "0",
             "A non-alcoholic alternative to rum",
             "Spirits",
-            "005",
+            "0005",
             "",
             "",
             ""
         ],
-    
-        "112":
+
+        "0112":
         [
             "Cherry Heering|Cherry liqueur|Peter Heering",
             "18",
@@ -1402,44 +1404,44 @@
             "https://en.wikipedia.org/wiki/Cherry_Heering",
             ""
         ],
-    
-        "113":
+
+        "0113":
         [
             "Flavored gin",
             "40",
             "Gin infused with additional flavors beyond juniper.",
             "Spirits",
-            "002",
+            "0002",
             "",
             "",
             ""
         ],
-    
-        "114":
+
+        "0114":
         [
             "Flavored vodka",
             "40",
             "Vodka infused with additional flavors.",
             "Spirits",
-            "001",
+            "0001",
             "",
             "",
             ""
         ],
-    
-        "115":
+
+        "0115":
         [
             "Flavored rum|Flavored rhum",
             "40",
             "Rum infused with additional flavors.",
             "Spirits",
-            "005",
+            "0005",
             "",
             "",
             ""
         ],
-    
-        "116":
+
+        "0116":
         [
             "Passion fruit|Passionfruit",
             "0",
@@ -1450,8 +1452,8 @@
             "https://en.wikipedia.org/wiki/Passion_fruit_(fruit)",
             ""
         ],
-    
-        "117":
+
+        "0117":
         [
             "Mango",
             "0",
@@ -1462,8 +1464,8 @@
             "https://en.wikipedia.org/wiki/Mango",
             ""
         ],
-    
-        "118":
+
+        "0118":
         [
             "Lingonberries|Lingonberry|Mountain cranberry",
             "0",
@@ -1474,8 +1476,8 @@
             "https://en.wikipedia.org/wiki/Vaccinium_vitis-idaea",
             ""
         ],
-    
-        "119":
+
+        "0119":
         [
             "Apple juice",
             "0",
@@ -1486,8 +1488,8 @@
             "https://en.wikipedia.org/wiki/Apple_juice",
             ""
         ],
-    
-        "120":
+
+        "0120":
         [
             "Lychee syrup",
             "0",
@@ -1498,8 +1500,8 @@
             "https://en.wikipedia.org/wiki/Flavored_syrup",
             ""
         ],
-    
-        "121":
+
+        "0121":
         [
             "Lychee liqueur",
             "15",
@@ -1510,8 +1512,8 @@
             "",
             ""
         ],
-    
-        "122":
+
+        "0122":
         [
             "Malibu|Coconut liqueur",
             "21",
@@ -1522,8 +1524,8 @@
             "https://en.wikipedia.org/wiki/Malibu_(rum)",
             ""
         ],
-    
-        "123":
+
+        "0123":
         [
             "Blackcurrant syrup|Cassis syrup",
             "0",
@@ -1534,8 +1536,8 @@
             "https://en.wikipedia.org/wiki/Flavored_syrup",
             ""
         ],
-    
-        "124":
+
+        "0124":
         [
             "Crème de cassis|Creme de cassis|Blackcurrant liqueur",
             "18",
@@ -1546,8 +1548,8 @@
             "https://en.wikipedia.org/wiki/Crème_de_cassis",
             ""
         ],
-    
-        "125":
+
+        "0125":
         [
             "Blackberries|Blackberry",
             "0",
@@ -1558,8 +1560,8 @@
             "https://en.wikipedia.org/wiki/Blackberry",
             ""
         ],
-    
-        "126":
+
+        "0126":
         [
             "Blackberry liqueur",
             "18",
@@ -1570,8 +1572,8 @@
             "",
             ""
         ],
-    
-        "127":
+
+        "0127":
         [
             "Pomegranate",
             "0",
@@ -1582,8 +1584,8 @@
             "https://en.wikipedia.org/wiki/Pomegranate",
             ""
         ],
-    
-        "128":
+
+        "0128":
         [
             "Peach",
             "0",
@@ -1594,8 +1596,8 @@
             "https://en.wikipedia.org/wiki/Peach",
             ""
         ],
-    
-        "129":
+
+        "0129":
         [
             "Peach liqueur|Peach schnapps",
             "18",
@@ -1606,8 +1608,8 @@
             "",
             ""
         ],
-    
-        "130":
+
+        "0130":
         [
             "Raspberry/blueberry jam|Mixed berry jam",
             "0",
@@ -1616,10 +1618,10 @@
             "",
             "",
             "",
-            "099|109|076"
+            "0099|0109|0076"
         ],
 
-        "131":
+        "0131":
         [
             "Coconut nectar|Neera",
             "0",
@@ -1630,8 +1632,8 @@
             "https://en.wikipedia.org/wiki/Neera",
             ""
         ],
-    
-        "132":
+
+        "0132":
         [
             "Chocolate syrup",
             "0",
@@ -1642,8 +1644,8 @@
             "https://en.wikipedia.org/wiki/Chocolate_syrup",
             ""
         ],
-    
-        "133":
+
+        "0133":
         [
             "Maple syrup",
             "0",
@@ -1654,8 +1656,8 @@
             "https://en.wikipedia.org/wiki/Maple_syrup",
             ""
         ],
-    
-        "134":
+
+        "0134":
         [
             "Rice syrup|Brown rice syrup|Rice malt",
             "0",
@@ -1666,8 +1668,8 @@
             "https://en.wikipedia.org/wiki/Brown_rice_syrup",
             ""
         ],
-    
-        "135":
+
+        "0135":
         [
             "Honey",
             "0",
@@ -1678,8 +1680,8 @@
             "https://en.wikipedia.org/wiki/Honey",
             ""
         ],
-    
-        "136":
+
+        "0136":
         [
             "Guava juice",
             "0",
@@ -1690,8 +1692,8 @@
             "https://en.wikipedia.org/wiki/Guava",
             ""
         ],
-    
-        "137":
+
+        "0137":
         [
             "Apricot brandy",
             "20",
@@ -1702,8 +1704,8 @@
             "https://en.wikipedia.org/wiki/Apricot_brandy",
             ""
         ],
-    
-        "138":
+
+        "0138":
         [
             "Frangelico|Hazelnut liqueur",
             "20",
@@ -1714,8 +1716,8 @@
             "https://en.wikipedia.org/wiki/Frangelico",
             ""
         ],
-    
-        "139":
+
+        "0139":
         [
             "Rose syrup",
             "0",
@@ -1726,8 +1728,8 @@
             "https://en.wikipedia.org/wiki/Flavored_syrup",
             ""
         ],
-    
-        "140":
+
+        "0140":
         [
             "Sake|Wine",
             "15",
@@ -1738,8 +1740,8 @@
             "https://en.wikipedia.org/wiki/Sake",
             ""
         ],
-    
-        "141":
+
+        "0141":
         [
             "Chili pepper|Jalapeno",
             "0",
@@ -1750,8 +1752,8 @@
             "https://en.wikipedia.org/wiki/Chili_pepper",
             ""
         ],
-    
-        "142":
+
+        "0142":
         [
             "Vanilla",
             "0",
@@ -1762,8 +1764,8 @@
             "https://en.wikipedia.org/wiki/Vanilla",
             ""
         ],
-    
-        "143":
+
+        "0143":
         [
             "Cinnamon",
             "0",
@@ -1774,8 +1776,8 @@
             "https://en.wikipedia.org/wiki/Cinnamon",
             ""
         ],
-    
-        "144":
+
+        "0144":
         [
             "Nutmeg",
             "0",
@@ -1786,8 +1788,8 @@
             "https://en.wikipedia.org/wiki/Nutmeg",
             ""
         ],
-    
-        "145":
+
+        "0145":
         [
             "Celery",
             "0",
@@ -1798,8 +1800,8 @@
             "https://en.wikipedia.org/wiki/Celery",
             ""
         ],
-    
-        "146":
+
+        "0146":
         [
             "Celery salt",
             "0",
@@ -1810,8 +1812,8 @@
             "https://en.wikipedia.org/wiki/Celery_salt",
             ""
         ],
-    
-        "147":
+
+        "0147":
         [
             "Cardamom",
             "0",
@@ -1822,8 +1824,8 @@
             "https://en.wikipedia.org/wiki/Cardamom",
             ""
         ],
-    
-        "148":
+
+        "0148":
         [
             "Clove",
             "0",
@@ -1834,8 +1836,8 @@
             "https://en.wikipedia.org/wiki/Clove",
             ""
         ],
-    
-        "149":
+
+        "0149":
         [
             "Muscovado sugar|Brown sugar",
             "0",
@@ -1846,8 +1848,8 @@
             "https://en.wikipedia.org/wiki/Muscovado",
             ""
         ],
-    
-        "150":
+
+        "0150":
         [
             "Sherry",
             "18",
@@ -1858,8 +1860,8 @@
             "https://en.wikipedia.org/wiki/Sherry",
             ""
         ],
-    
-        "151":
+
+        "0151":
         [
             "Tabasco|Hot sauce",
             "0",
@@ -1870,8 +1872,8 @@
             "https://en.wikipedia.org/wiki/Tabasco_sauce",
             ""
         ],
-    
-        "152":
+
+        "0152":
         [
             "Worcestershire sauce",
             "0",
@@ -1882,8 +1884,8 @@
             "https://en.wikipedia.org/wiki/Worcestershire_sauce",
             ""
         ],
-    
-        "153":
+
+        "0153":
         [
             "Ice cream",
             "0",
@@ -1894,8 +1896,8 @@
             "https://en.wikipedia.org/wiki/Ice_cream",
             ""
         ],
-    
-        "154":
+
+        "0154":
         [
             "Cocoa powder|Cacao|Chocolate powder",
             "0",
@@ -1906,8 +1908,8 @@
             "https://en.wikipedia.org/wiki/Cocoa_solids",
             ""
         ],
-    
-        "155":
+
+        "0155":
         [
             "Grappa|Brandy",
             "42",
@@ -1918,8 +1920,8 @@
             "https://en.wikipedia.org/wiki/Grappa",
             ""
         ],
-    
-        "156":
+
+        "0156":
         [
             "Hot chocolate|Hot cocoa|Chocolate",
             "0",
@@ -1930,8 +1932,8 @@
             "https://en.wikipedia.org/wiki/Hot_chocolate",
             ""
         ],
-    
-        "157":
+
+        "0157":
         [
             "Brandy",
             "40",
@@ -1942,8 +1944,8 @@
             "https://en.wikipedia.org/wiki/Brandy",
             ""
         ],
-    
-        "158":
+
+        "0158":
         [
             "Tea|Earl gray|Earl grey",
             "0",
@@ -1954,8 +1956,8 @@
             "https://en.wikipedia.org/wiki/Tea",
             ""
         ],
-    
-        "159":
+
+        "0159":
         [
             "Calvados|Brandy",
             "40",
@@ -1966,8 +1968,8 @@
             "https://en.wikipedia.org/wiki/Calvados",
             ""
         ],
-    
-        "160":
+
+        "0160":
         [
             "Black walnut bitters",
             "45",
@@ -1978,8 +1980,8 @@
             "",
             ""
         ],
-    
-        "161":
+
+        "0161":
         [
             "Orange marmalade",
             "0",
@@ -1990,32 +1992,32 @@
             "https://en.wikipedia.org/wiki/Marmalade",
             ""
         ],
-    
-        "162":
+
+        "0162":
         [
             "Lemons|Citrus",
             "0",
             "A citrus often used for its juice or as garnish.",
             "Pantry|Fruits",
-            "163",
+            "0163",
             "6",
             "https://en.wikipedia.org/wiki/Lemon",
             ""
         ],
-    
-        "163":
+
+        "0163":
         [
             "Limes|Citrus",
             "0",
             "A citrus often used for its juice or as garnish.",
             "Pantry|Fruits",
-            "162",
+            "0162",
             "4",
             "https://en.wikipedia.org/wiki/Lime_(fruit)",
             ""
         ],
-    
-        "164":
+
+        "0164":
         [
             "Orange",
             "0",
@@ -2026,8 +2028,8 @@
             "https://en.wikipedia.org/wiki/Orange_(fruit)",
             ""
         ],
-    
-        "165":
+
+        "0165":
         [
             "Cherries|Cherry",
             "0",
@@ -2038,8 +2040,8 @@
             "https://en.wikipedia.org/wiki/Cherry",
             ""
         ],
-    
-        "166":
+
+        "0166":
         [
             "Bitter orange",
             "0",
@@ -2050,8 +2052,8 @@
             "https://en.wikipedia.org/wiki/Bitter_orange",
             ""
         ],
-    
-        "167":
+
+        "0167":
         [
             "Pastis",
             "40",
@@ -2062,8 +2064,8 @@
             "https://en.wikipedia.org/wiki/Pastis",
             ""
         ],
-    
-        "168":
+
+        "0168":
         [
             "Punsch|Swedish punch|Arrack liqueur",
             "26",
@@ -2079,11 +2081,11 @@
 
     "Recipes":
     {
-        "0001":
+        "00001":
         [
             "Thai Basil",
             "Heat up the coconut cream and sugar until the sugar is disolved. Let it cool and store in a siphon over night.\nShake the rest of the ingredients and strain into a chilled glass with ice.\nTop with the coconut foam and a basil leaf.",
-            "03",
+            "003",
 
             "Shake",
             "On ice",
@@ -2094,19 +2096,19 @@
 
             "Thai Basil is a very famous cocktail from Asian Post Office in Stockholm.\nThis recipe is not the original secret recipe, it is a result of trial and error from Drinkoteket. The result is a cocktail where both the drink and the foam is almost identical to what you would get at Asian Post Office!",
 
-            "5|cl|002| ",
-            "3|cl|043| ",
-            "3|cl|067| ",
+            "5|cl|0002| ",
+            "3|cl|0043| ",
+            "3|cl|0067| ",
             "-div-Foam (12 servings)",
-            "4/12|dl|068| ",
-            "2/12|dl|076| "
+            "4/12|dl|0068| ",
+            "2/12|dl|0076| "
         ],
 
-        "0002":
+        "00002":
         [
             "Bees Knees",
             "Shake and strain into a chilled glass with ice.",
-            "04",
+            "004",
 
             "Shake",
             "Straight",
@@ -2117,16 +2119,16 @@
 
             "",
 
-            "5|cl|002| ",
-            "2|cl|043| ",
-            "2|cl|055| "
+            "5|cl|0002| ",
+            "2|cl|0043| ",
+            "2|cl|0055| "
         ],
 
-        "0003":
+        "00003":
         [
             "Gin & Tonic",
             "Pour the ingredients in a glass with ice and serve.",
-            "04",
+            "004",
 
             "Build",
             "On ice",
@@ -2137,15 +2139,15 @@
 
             "",
 
-            "6|cl|002| ",
-            "12|cl|049| "
+            "6|cl|0002| ",
+            "12|cl|0049| "
         ],
 
-        "0004":
+        "00004":
         [
             "Gin Sonic",
             "Pour the ingredients in a glass with ice and serve.",
-            "04",
+            "004",
 
             "Build",
             "On ice",
@@ -2156,16 +2158,16 @@
 
             "",
 
-            "4.5|cl|002| ",
-            "6.5|cl|048| ",
-            "6.5|cl|049| "
-        ], 
-        
-        "0005":
+            "4.5|cl|0002| ",
+            "6.5|cl|0048| ",
+            "6.5|cl|0049| "
+        ],
+
+        "00005":
         [
             "Whiskey Sour",
             "Shake without ice and bitters for about 10 seconds.\nAdd ice and shake again.\nstrain into a chilled glass with ice and top with Angostura.",
-            "04",
+            "004",
 
             "Shake",
             "On ice",
@@ -2176,18 +2178,18 @@
 
             "",
 
-            "6|cl|004| ",
-            "2|cl|054| ",
-            "2|cl|043| ",
-            "1| |061|Egg white",
-            "2|dash|041| "
-        ], 
-        
-        "0006":
+            "6|cl|0004| ",
+            "2|cl|0054| ",
+            "2|cl|0043| ",
+            "1| |0061|Egg white",
+            "2|dash|0041| "
+        ],
+
+        "00006":
         [
             "Gold Rush",
             "Shake and strain into a chilled glass with ice.",
-            "04",
+            "004",
 
             "Shake",
             "On ice",
@@ -2198,16 +2200,16 @@
 
             "",
 
-            "6|cl|004| ",
-            "2|cl|043| ",
-            "2|cl|055| "
-        ], 
-        
-        "0007":
+            "6|cl|0004| ",
+            "2|cl|0043| ",
+            "2|cl|0055| "
+        ],
+
+        "00007":
         [
             "Hugo Spritz",
             "Pour the liqueur and mint in a mixing glass and muddle.\nFill a glass with ice and pour over the mix and prosecco.\nStir it gently and garnish with mint.",
-            "04",
+            "004",
 
             "Build",
             "On ice",
@@ -2218,17 +2220,17 @@
 
             "",
 
-            "1.5|cl|033| ",
-            "12|cl|018| ",
-            "3|cl|048| ",
-            "4| |070|Mint leaves"
-        ], 
-        
-        "0008":
+            "1.5|cl|0033| ",
+            "12|cl|0018| ",
+            "3|cl|0048| ",
+            "4| |0070|Mint leaves"
+        ],
+
+        "00008":
         [
             "Penicillin",
             "Muddle or grate the ginger to get the juice out.\nThen shake and strain into a chilled glass with ice.",
-            "04",
+            "004",
 
             "Shake",
             "On ice",
@@ -2239,18 +2241,18 @@
 
             "",
 
-            "6|cl|072|Scotch, blended",
-            "2|cl|055| ",
-            "2|cl|043| ",
-            "0.75|cl|072|Scotch, single",
-            "0.5|cl|073|Ginger juice"
-        ], 
-        
-        "0009":
+            "6|cl|0072|Scotch, blended",
+            "2|cl|0055| ",
+            "2|cl|0043| ",
+            "0.75|cl|0072|Scotch, single",
+            "0.5|cl|0073|Ginger juice"
+        ],
+
+        "00009":
         [
             "Negroni",
             "Stir everything in a mixing glass until chilled.\nStrain into a glass with ice.\nGarnish with an orange zest.",
-            "04",
+            "004",
 
             "Stir",
             "On ice",
@@ -2261,16 +2263,16 @@
 
             "",
 
-            "3|cl|002| ",
-            "3|cl|035| ",
-            "3|cl|037| "
-        ], 
-        
-        "0010":
+            "3|cl|0002| ",
+            "3|cl|0035| ",
+            "3|cl|0037| "
+        ],
+
+        "00010":
         [
             "Sidecar",
             "Shake and strain into a chilled glass.",
-            "04",
+            "004",
 
             "Shake",
             "Straight",
@@ -2281,16 +2283,16 @@
 
             "",
 
-            "6|cl|012| ",
-            "3|cl|025| ",
-            "2|cl|043| "
-        ], 
-        
-        "0011":
+            "6|cl|0012| ",
+            "3|cl|0025| ",
+            "2|cl|0043| "
+        ],
+
+        "00011":
         [
             "Scandinavian Daiquiri",
             "Shake and strain into a chilled glass with ice.",
-            "04",
+            "004",
 
             "Shake",
             "On ice",
@@ -2301,16 +2303,16 @@
 
             "",
 
-            "6|cl|074| ",
-            "3|cl|044| ",
-            "2|cl|054| "
-        ], 
-        
-        "0012":
+            "6|cl|0074| ",
+            "3|cl|0044| ",
+            "2|cl|0054| "
+        ],
+
+        "00012":
         [
             "Manhattan",
             "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass",
-            "05",
+            "005",
 
             "Stir",
             "Straight",
@@ -2321,16 +2323,16 @@
 
             "",
 
-            "6|cl|069| ",
-            "3|cl|035| ",
-            "2|dash|041| "
-        ], 
-        
-        "0013":
+            "6|cl|0069| ",
+            "3|cl|0035| ",
+            "2|dash|0041| "
+        ],
+
+        "00013":
         [
             "Dry Martini, Traditional",
             "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass",
-            "05",
+            "005",
 
             "Stir",
             "Straight",
@@ -2341,16 +2343,16 @@
 
             "",
 
-            "7.5|cl|002| ",
-            "1.5|cl|034| ",
-            "1|dash|042| "
-        ], 
-        
-        "0014":
+            "7.5|cl|0002| ",
+            "1.5|cl|0034| ",
+            "1|dash|0042| "
+        ],
+
+        "00014":
         [
             "Daiquiri",
             "Shake and strain into a chilled glass.",
-            "05",
+            "005",
 
             "Shake",
             "Straight",
@@ -2361,16 +2363,16 @@
 
             "",
 
-            "6|cl|006| ",
-            "3|cl|044| ",
-            "2.25|cl|075| "
-        ], 
-        
-        "0015":
+            "6|cl|0006| ",
+            "3|cl|0044| ",
+            "2.25|cl|0075| "
+        ],
+
+        "00015":
         [
             "Old Fashioned",
             "Add the sugar, water and bitters to a mixing glass and stir until disolved.\nFill the mixing glass with ice and bourbon and stir.\nThen strain into a chilled glass with ice.",
-            "05",
+            "005",
 
             "Stir",
             "On ice",
@@ -2381,17 +2383,17 @@
 
             "",
 
-            "6|cl|003| ",
-            "1|barsp|076| ",
-            "3|dash|041| ",
-            "1|barsp|062| "
-        ], 
-        
-        "0016":
+            "6|cl|0003| ",
+            "1|barsp|0076| ",
+            "3|dash|0041| ",
+            "1|barsp|0062| "
+        ],
+
+        "00016":
         [
             "Tom Collins",
             "Pour the ingredients in a glass with ice and serve.",
-            "05",
+            "005",
 
             "Build",
             "On ice",
@@ -2402,17 +2404,17 @@
 
             "",
 
-            "6|cl|002| ",
-            "3|cl|043| ",
-            "1.5|cl|054| ",
-            "9|cl|048| "
-        ], 
-        
-        "0017":
+            "6|cl|0002| ",
+            "3|cl|0043| ",
+            "1.5|cl|0054| ",
+            "9|cl|0048| "
+        ],
+
+        "00017":
         [
             "Sazerac",
             "Rinse a glass and discard of the excess liquid.\nMuddle the sugar, water and bitters in a mixing glass.\nAdd the whiskey and stir until chilled, then strain into the glass.",
-            "05",
+            "005",
 
             "Stir",
             "Straight",
@@ -2423,18 +2425,18 @@
 
             "",
 
-            "0|rinse|020| ",
-            "1| |076|Sugar cube",
-            "1|barsp|062| ",
-            "4|dash|077| ",
-            "7.5|cl|069| "
-        ], 
-        
-        "0018":
+            "0|rinse|0020| ",
+            "1| |0076|Sugar cube",
+            "1|barsp|0062| ",
+            "4|dash|0077| ",
+            "7.5|cl|0069| "
+        ],
+
+        "00018":
         [
             "Paloma",
             "Pour everything except the soda into a glass and fill with ice.\nTop with the soda and serve.",
-            "05",
+            "005",
 
             "Build",
             "On ice",
@@ -2445,17 +2447,17 @@
 
             "",
 
-            "6|cl|010| ",
-            "3|cl|044| ",
-            "12|cl|078| ",
-            "1|pinch|079| "
-        ], 
-        
-        "0019":
+            "6|cl|0010| ",
+            "3|cl|0044| ",
+            "12|cl|0078| ",
+            "1|pinch|0079| "
+        ],
+
+        "00019":
         [
             "Moscow Mule",
             "Pour the ingredients in a glass with ice and serve.",
-            "05",
+            "005",
 
             "Build",
             "On ice",
@@ -2466,16 +2468,16 @@
 
             "",
 
-            "6|cl|001| ",
-            "1.5|cl|044| ",
-            "9|cl|050| "
-        ], 
-        
-        "0020":
+            "6|cl|0001| ",
+            "1.5|cl|0044| ",
+            "9|cl|0050| "
+        ],
+
+        "00020":
         [
             "Martinez",
             "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass",
-            "05",
+            "005",
 
             "Stir",
             "Straight",
@@ -2486,17 +2488,17 @@
 
             "",
 
-            "4.5|cl|002| ",
-            "4.5|cl|035| ",
-            "0.75|cl|026| ",
-            "2|dash|041| "
-        ], 
-        
-        "0021":
+            "4.5|cl|0002| ",
+            "4.5|cl|0035| ",
+            "0.75|cl|0026| ",
+            "2|dash|0041| "
+        ],
+
+        "00021":
         [
             "Pisco Sour",
             "Shake without ice and bitters for about 10 seconds.\nAdd ice and shake again.\nStrain into a chilled glass and top with Angostura.",
-            "05",
+            "005",
 
             "Shake",
             "Straight",
@@ -2507,18 +2509,18 @@
 
             "",
 
-            "6|cl|080| ",
-            "3|cl|044| ",
-            "1.5|cl|054| ",
-            "1| |061|Egg white",
-            "2|dash|041| "
-        ], 
-        
-        "0022":
+            "6|cl|0080| ",
+            "3|cl|0044| ",
+            "1.5|cl|0054| ",
+            "1| |0061|Egg white",
+            "2|dash|0041| "
+        ],
+
+        "00022":
         [
             "French 75",
             "Shake everything except the champagne and strain into a chilled glass.\nTop up with champagne and serve.",
-            "05",
+            "005",
 
             "Shake",
             "Straight",
@@ -2529,17 +2531,17 @@
 
             "",
 
-            "3|cl|002| ",
-            "1.5|cl|043| ",
-            "1.5|cl|054| ",
-            "9|cl|017| "
-        ], 
-        
-        "0023":
+            "3|cl|0002| ",
+            "1.5|cl|0043| ",
+            "1.5|cl|0054| ",
+            "9|cl|0017| "
+        ],
+
+        "00023":
         [
             "Mint Julep",
             "Muddle the mint leaves and syrup directly in the glass.\nAdd the bourbon and crushed ice and serve.",
-            "05",
+            "005",
 
             "Stir",
             "On ice",
@@ -2551,16 +2553,16 @@
             "",
 
             
-            "6|cl|004| ",
-            "0.75|cl|054| ",
-            "8| |070|Mint leaves"
-        ], 
-        
-        "0024":
+            "6|cl|0004| ",
+            "0.75|cl|0054| ",
+            "8| |0070|Mint leaves"
+        ],
+
+        "00024":
         [
             "Last Word",
             "Shake and strain into a chilled glass with ice.",
-            "05",
+            "005",
 
             "Shake",
             "Straight",
@@ -2571,17 +2573,17 @@
 
             "",
 
-            "2.25|cl|002| ",
-            "2.25|cl|030| ",
-            "2.25|cl|026| ",
-            "2.25|cl|044| "
-        ], 
-        
-        "0025":
+            "2.25|cl|0002| ",
+            "2.25|cl|0030| ",
+            "2.25|cl|0026| ",
+            "2.25|cl|0044| "
+        ],
+
+        "00025":
         [
             "Irish Coffee",
             "Fill the glass with hot water and let sit for about 2 minutes.\nDiscard the water and pour the ingredients into the glass.\nStir gently and top with the cream.",
-            "05",
+            "005",
 
             "Build",
             "Hot",
@@ -2592,17 +2594,17 @@
 
             "",
 
-            "4.5|cl|003|Irish whiskey",
-            "4|barsp|081| ",
-            "10|cl|065|Hot coffee",
-            "0| |064| "
-        ], 
-        
-        "0026":
+            "4.5|cl|0003|Irish whiskey",
+            "4|barsp|0081| ",
+            "10|cl|0065|Hot coffee",
+            "0| |0064| "
+        ],
+
+        "00026":
         [
             "Corpse Reviver no.2",
             "Rinse a glass and discard of the excess liquid.\nShake the rest of the ingredients and strain into the glass.",
-            "03",
+            "003",
 
             "Shake",
             "Straight",
@@ -2613,18 +2615,18 @@
 
             "",
 
-            "0|rinse|020| ",
-            "2|cl|002|London dry gin",
-            "2|cl|082| ",
-            "2|cl|025| ",
-            "2|cl|043| "
-        ], 
-        
-        "0027":
+            "0|rinse|0020| ",
+            "2|cl|0002|London dry gin",
+            "2|cl|0082| ",
+            "2|cl|0025| ",
+            "2|cl|0043| "
+        ],
+
+        "00027":
         [
             "Mojito",
             "Muddle the mint and simple syrup in a shaker.\nAdd rum, lime and ice and shake.\nStrain into a glass with ice and top with soda water.",
-            "05",
+            "005",
 
             "Shake",
             "On ice",
@@ -2635,18 +2637,18 @@
 
             "",
 
-            "3| |070|Mint leaves",
-            "1.5|cl|054| ",
-            "6|cl|006| ",
-            "2.25|cl|044| ",
-            "9|cl|048| "
-        ], 
-        
-        "0028":
+            "3| |0070|Mint leaves",
+            "1.5|cl|0054| ",
+            "6|cl|0006| ",
+            "2.25|cl|0044| ",
+            "9|cl|0048| "
+        ],
+
+        "00028":
         [
             "Gin Fizz",
             "Shake without ice and soda water for about 10 seconds.\nAdd ice and shake again.\nstrain into a glass with ice and top with soda water.",
-            "05",
+            "005",
 
             "Shake",
             "On ice",
@@ -2657,18 +2659,18 @@
 
             "",
 
-            "6|cl|002| ",
-            "3|cl|043| ",
-            "2|cl|054| ",
-            "1| |061|Egg white",
-            "3|cl|048| "
-        ], 
-        
-        "0029":
+            "6|cl|0002| ",
+            "3|cl|0043| ",
+            "2|cl|0054| ",
+            "1| |0061|Egg white",
+            "3|cl|0048| "
+        ],
+
+        "00029":
         [
             "Margarita",
             "Rim the glass with salt.\nShake everything and strain into the glass.",
-            "05",
+            "005",
 
             "Shake",
             "Straight",
@@ -2679,18 +2681,18 @@
 
             "",
 
-            "6|cl|010| ",
-            "1.5|cl|025| ",
-            "3|cl|044| ",
-            "1.5|cl|056| ",
-            "0|rim|079| "
-        ], 
-        
-        "0030":
+            "6|cl|0010| ",
+            "1.5|cl|0025| ",
+            "3|cl|0044| ",
+            "1.5|cl|0056| ",
+            "0|rim|0079| "
+        ],
+
+        "00030":
         [
             "Bicicletta",
             "Pour everything into a glass with ice and stir gently.",
-            "04",
+            "004",
 
             "Build",
             "On ice",
@@ -2701,16 +2703,16 @@
 
             "",
 
-            "6|cl|037| ",
-            "6|cl|014| ",
-            "3|cl|048| "
-        ], 
-        
-        "0031":
+            "6|cl|0037| ",
+            "6|cl|0014| ",
+            "3|cl|0048| "
+        ],
+
+        "00031":
         [
             "David's Beer Cocktail",
             "Shake everything except the beer and strain into a chilled glass, add the beer and serve.",
-            "06",
+            "006",
 
             "Shake",
             "Straight",
@@ -2721,17 +2723,17 @@
 
             "",
 
-            "5|cl|004| ",
-            "3|cl|084| ",
-            "2|cl|083| ",
-            "10|cl|085| "
-        ], 
-        
-        "0032":
+            "5|cl|0004| ",
+            "3|cl|0084| ",
+            "2|cl|0083| ",
+            "10|cl|0085| "
+        ],
+
+        "00032":
         [
             "Jungle Bird",
             "Shake everything and strain into a chilled glass.",
-            "06",
+            "006",
 
             "Shake",
             "Straight",
@@ -2742,18 +2744,18 @@
 
             "",
 
-            "4|cl|008| ",
-            "2|cl|037| ",
-            "4|cl|046| ",
-            "3|cl|044| ",
-            "2|cl|054| "
-        ], 
-        
-        "0033":
+            "4|cl|0008| ",
+            "2|cl|0037| ",
+            "4|cl|0046| ",
+            "3|cl|0044| ",
+            "2|cl|0054| "
+        ],
+
+        "00033":
         [
             "Enzoni",
             "Muddle the grapes in a shaker, add the other ingredients and shake.\nStrain into a chilled glass with ice.",
-            "06",
+            "006",
 
             "Shake",
             "On ice",
@@ -2764,18 +2766,18 @@
 
             "",
 
-            "4|cl|002| ",
-            "2|cl|037| ",
-            "3|cl|043| ",
-            "2|cl|054| ",
-            "5| |087| "
-        ], 
-        
-        "0034":
+            "4|cl|0002| ",
+            "2|cl|0037| ",
+            "3|cl|0043| ",
+            "2|cl|0054| ",
+            "5| |0087| "
+        ],
+
+        "00034":
         [
             "Mai Tai",
             "Shake everything and strain into a chilled glass with ice.",
-            "06",
+            "006",
 
             "Shake",
             "On ice",
@@ -2786,17 +2788,17 @@
 
             "",
 
-            "5|cl|008| ",
-            "1|cl|025| ",
-            "3|cl|044| ",
-            "2|cl|059| "
+            "5|cl|0008| ",
+            "1|cl|0025| ",
+            "3|cl|0044| ",
+            "2|cl|0059| "
         ],
 
-        "0035":
+        "00035":
         [
             "Grape Sour (alc. free)",
             "Mix the peels from a grapefruit with water and citric acid with a mixer. Strain it and store in a bottle.\nHeat up the sugar and water with the rosemary and juniper berries. Set aside and let it cool.\nShake the gin and egg white together with 3 cl of the grape water and 2 cl of the syrup without ice for about 10 seconds. Add ice and shake again. Strain into a chilled glass and serve.",
-            "06",
+            "006",
         
             "Shake",
             "Straight",
@@ -2807,24 +2809,24 @@
         
             "",
         
-            "5|cl|088| ",
-            "1| |061|Egg white",
+            "5|cl|0088| ",
+            "1| |0061|Egg white",
             "-div-Super juice (10 servings)",
-            "1/10| |089| ",
-            "4/10|barsp|094| ",
-            "3/10|dl|062| ",
+            "1/10| |0089| ",
+            "4/10|barsp|0094| ",
+            "3/10|dl|0062| ",
             "-div-Syrup (20 servings)",
-            "0| |090| ",
-            "1/10| |091|Rosemary sprig",
-            "2/20|dl|076| ",
-            "2/20|dl|062| "
+            "0| |0090| ",
+            "1/10| |0091|Rosemary sprig",
+            "2/20|dl|0076| ",
+            "2/20|dl|0062| "
         ],
 
-        "0036":
+        "00036":
         [
             "Aviation",
             "Shake everything and strain into a chilled glass. Garnish with a cherry",
-            "06",
+            "006",
         
             "Shake",
             "Straight",
@@ -2835,17 +2837,17 @@
         
             "",
         
-            "3|cl|002| ",
-            "2|cl|026| ",
-            "1|cl|092| ",
-            "2|cl|043| "
+            "3|cl|0002| ",
+            "2|cl|0026| ",
+            "1|cl|0092| ",
+            "2|cl|0043| "
         ],
 
-        "0037":
+        "00037":
         [
             "Drink With Jägermeister",
             "Fill a mug with crushed ice, pour in the ingredients and stir well. Top up with crushed ice and mint leaves.",
-            "06",
+            "006",
         
             "Build",
             "On ice",
@@ -2856,17 +2858,17 @@
         
             "The original recipe calls for \"Incredible sourmix\". If available, exchange acid and simple syrup with the mix.",
         
-            "4|cl|039| ",
-            "3|cl|084| ",
-            "2|cl|054| ",
-            "0.5|cl|073|Ginger juice"
+            "4|cl|0039| ",
+            "3|cl|0084| ",
+            "2|cl|0054| ",
+            "0.5|cl|0073|Ginger juice"
         ],
 
-        "0038":
+        "00038":
         [
             "David's Espresso Martini",
             "Shake everything and strain into a chilled glass. Garnish with coffee beans",
-            "06",
+            "006",
         
             "Shake",
             "Straight",
@@ -2877,16 +2879,16 @@
         
             "",
         
-            "3|cl|001| ",
-            "3|cl|054| ",
-            "12|cl|066| "
+            "3|cl|0001| ",
+            "3|cl|0054| ",
+            "12|cl|0066| "
         ],
 
-        "0039":
+        "00039":
         [
             "Gin Basil Smash",
             "Shake everything and strain into a glass with ice. Garnish with a basil leaf.",
-            "06",
+            "006",
         
             "Shake",
             "On ice",
@@ -2897,17 +2899,17 @@
         
             "",
         
-            "5|cl|002| ",
-            "3|cl|043| ",
-            "2|cl|054| ",
-            "10| |093|Basil leaves"
+            "5|cl|0002| ",
+            "3|cl|0043| ",
+            "2|cl|0054| ",
+            "10| |0093|Basil leaves"
         ],
 
-        "0040":
+        "00040":
         [
             "Gin Fizz",
             "Shake without ice for about 10 seconds.\nAdd ice and shake again.\nStrain into a chilled glass and top up with soda water.",
-            "06",
+            "006",
         
             "Shake",
             "Straight",
@@ -2918,18 +2920,18 @@
         
             "",
         
-            "5|cl|002| ",
-            "3|cl|043| ",
-            "2|cl|054| ",
-            "1| |061|Egg white",
-            "10|cl|048| "
+            "5|cl|0002| ",
+            "3|cl|0043| ",
+            "2|cl|0054| ",
+            "1| |0061|Egg white",
+            "10|cl|0048| "
         ],
 
-        "0041":
+        "00041":
         [
             "Clover Club",
             "Shake without ice for about 10 seconds.\nAdd ice and shake again.\nStrain into a chilled glass and serve.",
-            "06",
+            "006",
         
             "Shake",
             "Straight",
@@ -2940,17 +2942,17 @@
         
             "",
         
-            "5|cl|002| ",
-            "3|cl|043| ",
-            "2|cl|095| ",
-            "1| |061|Egg white"
+            "5|cl|0002| ",
+            "3|cl|0043| ",
+            "2|cl|0095| ",
+            "1| |0061|Egg white"
         ],
 
-        "0042":
+        "00042":
         [
             "David's Favorite Strawberry Cocktail",
             "Shake everything and strain into a chilled glass.",
-            "06",
+            "006",
         
             "Shake",
             "Straight",
@@ -2961,17 +2963,17 @@
         
             "",
         
-            "5|cl|074| ",
-            "3|cl|044| ",
-            "2|cl|054| ",
-            "1| |096| "
+            "5|cl|0074| ",
+            "3|cl|0044| ",
+            "2|cl|0054| ",
+            "1| |0096| "
         ],
 
-        "0043":
+        "00043":
         [
             "Kaffe Karlsson",
             "Fill the glass with hot water and let sit for about 2 minutes.\nDiscard the water and pour the ingredients into the glass.\nStir gently and top with lightly whipped cream.",
-            "06",
+            "006",
         
             "Build",
             "Hot",
@@ -2982,17 +2984,17 @@
         
             "",
         
-            "3|cl|025| ",
-            "3|cl|023| ",
-            "10|cl|065|Hot coffee",
-            "5|cl|064| "
+            "3|cl|0025| ",
+            "3|cl|0023| ",
+            "10|cl|0065|Hot coffee",
+            "5|cl|0064| "
         ],
 
-        "0044":
+        "00044":
         [
             "Limoncello Spritz",
             "Pour everything into a large glass with lots of ice and serve.",
-            "06",
+            "006",
         
             "Build",
             "On ice",
@@ -3003,16 +3005,16 @@
         
             "",
         
-            "4|cl|027| ",
-            "8|cl|016|Dry sparkling wine",
-            "2|cl|048| "
+            "4|cl|0027| ",
+            "8|cl|0016|Dry sparkling wine",
+            "2|cl|0048| "
         ],
 
-        "0045":
+        "00045":
         [
             "Piña Colada",
             "Heat up the coconut cream and sugar until the sugar is dissolved. Set aside and let cool.\nShake everything with 3 cl of the coconut syrup and strain in a glass with ice and serve.",
-            "06",
+            "006",
         
             "Shake",
             "On ice",
@@ -3023,19 +3025,19 @@
         
             "",
         
-            "5|cl|008| ",
-            "2|cl|044| ",
-            "4|cl|046| ",
+            "5|cl|0008| ",
+            "2|cl|0044| ",
+            "4|cl|0046| ",
             "-div-Coconut syrup",
-            "400/13|ml|068| ",
-            "400/26|ml|076| "
+            "400/13|ml|0068| ",
+            "400/26|ml|0076| "
         ],
 
-        "0046":
+        "00046":
         [
             "Pink Panther",
             "Shake everything and strain into a glass with ice.",
-            "06",
+            "006",
         
             "Shake",
             "On ice",
@@ -3046,16 +3048,16 @@
         
             "",
         
-            "5|cl|028| ",
-            "10|cl|063| ",
-            "1|cl|057| "
+            "5|cl|0028| ",
+            "10|cl|0063| ",
+            "1|cl|0057| "
         ],
 
-        "0047":
+        "00047":
         [
             "Raspberry Beret G&T",
             "Pour everything into a glass with ice and serve.",
-            "02",
+            "002",
         
             "Build",
             "On ice",
@@ -3066,17 +3068,17 @@
         
             "",
         
-            "5|cl|098| ",
-            "10|cl|049|Pink tonic",
-            "5| |099| ",
-            "0| |070| "
+            "5|cl|0098| ",
+            "10|cl|0049|Pink tonic",
+            "5| |0099| ",
+            "0| |0070| "
         ],
 
-        "0048":
+        "00048":
         [
             "Bajentown",
             "Shake everything except the soda water and strain into a glass with ice.\nTop up with the soda water and serve.",
-            "02",
+            "002",
         
             "Shake",
             "On ice",
@@ -3087,18 +3089,18 @@
         
             "",
         
-            "4|cl|002| ",
-            "4|cl|101| ",
-            "2|cl|069| ",
-            "1|cl|056| ",
-            "4|cl|048| "
+            "4|cl|0002| ",
+            "4|cl|0101| ",
+            "2|cl|0069| ",
+            "1|cl|0056| ",
+            "4|cl|0048| "
         ],
 
-        "0049":
+        "00049":
         [
             "Gin Gin Mule",
             "Muddle everything except the soda water in the shaker and shake.\nStrain into a glass with ice and top up with soda water.",
-            "02",
+            "002",
         
             "Shake",
             "On ice",
@@ -3109,18 +3111,18 @@
         
             "",
         
-            "5|cl|002| ",
-            "3|cl|044| ",
-            "2|cl|056| ",
-            "2|piece|073| ",
-            "5|cl|048| "
+            "5|cl|0002| ",
+            "3|cl|0044| ",
+            "2|cl|0056| ",
+            "2|piece|0073| ",
+            "5|cl|0048| "
         ],
 
-        "0050":
+        "00050":
         [
             "India-n-egroni",
             "put the cinnamon, cardamom and orange peel in the gin and let sit overnight\nStir 5 cl of the infused gin with the rest of the ingredients in a glass with ice. Drop the bitters over and serve.",
-            "02",
+            "002",
         
             "Stir",
             "On ice",
@@ -3131,21 +3133,21 @@
         
             "",
         
-            "4|cl|037| ",
-            "3|cl|035| ",
-            "1|dash|042| ",
+            "4|cl|0037| ",
+            "3|cl|0035| ",
+            "1|dash|0042| ",
             "-div-Infused gin (2 servings)",
-            "1/2|dl|002| ",
-            "1/2| |143|Cinnamon stick",
-            "4/2| |147|Cardamom pods",
-            "1/2|piece|166|Bitter orange peel"
+            "1/2|dl|0002| ",
+            "1/2| |0143|Cinnamon stick",
+            "4/2| |0147|Cardamom pods",
+            "1/2|piece|0166|Bitter orange peel"
         ],
 
-        "0051":
+        "00051":
         [
             "G&T Bergamot",
             "Pour Gin and marmalade into a glass with ice, give it a stir and top up with tonic. Garnish with peppercorns",
-            "02",
+            "002",
         
             "Build",
             "On ice",
@@ -3156,17 +3158,17 @@
         
             "",
         
-            "5|cl|002|London dry gin",
-            "1.5|barsp|103| ",
-            "10|cl|049|Pink tonic",
-            "0| |102|Pink peppercorns"
+            "5|cl|0002|London dry gin",
+            "1.5|barsp|0103| ",
+            "10|cl|0049|Pink tonic",
+            "0| |0102|Pink peppercorns"
         ],
 
-        "0052":
+        "00052":
         [
             "O.P. Martini",
             "Stir the aquavit with ice, strain out the water and aquavit before pouring in the gin and pastis and stirring again.\nStrain into a chilled glass and serve.",
-            "02",
+            "002",
         
             "Stir",
             "Straight",
@@ -3177,16 +3179,16 @@
         
             "The flavoured gin could be substituted with gin and aquavit.",
         
-            "6|cl|113|O.P. flavoured gin",
-            "1|cl|074| ",
-            "0.25|cl|167| "
+            "6|cl|0113|O.P. flavoured gin",
+            "1|cl|0074| ",
+            "0.25|cl|0167| "
         ],
 
-        "0053":
+        "00053":
         [
             "Gin Fatale",
             "Shake without ice for about 10 seconds.\nAdd ice and shake again.\nStrain into a chilled glass and top with bitters.",
-            "02",
+            "002",
         
             "Shake",
             "On ice",
@@ -3197,20 +3199,20 @@
         
             "",
         
-            "4|cl|002| ",
-            "1.5|cl|168| ",
-            "1|barsp|118|Lingonberry jam",
-            "1|cl|043| ",
-            "1|cl|104|Concentrated cranberry juice",
-            "1| |061|Egg white",
-            "1|dash|041| "
+            "4|cl|0002| ",
+            "1.5|cl|0168| ",
+            "1|barsp|0118|Lingonberry jam",
+            "1|cl|0043| ",
+            "1|cl|0104|Concentrated cranberry juice",
+            "1| |0061|Egg white",
+            "1|dash|0041| "
         ],
 
-        "0055":
+        "00055":
         [
             "Germain Invasion",
             "Shake everything except the tonic and strain into a glass with ice. Top up with the tonic and serve.",
-            "02",
+            "002",
         
             "Shake",
             "On ice",
@@ -3221,18 +3223,18 @@
         
             "The blackcurrant gin could be substituted for half the amount of Crème de cassis.",
         
-            "4|cl|113|Elderflower gin",
-            "1|cl|113|Blackcurrant gin",
-            "2|cl|033| ",
-            "2|cl|044| ",
-            "2|cl|049|Elderflower tonic"
+            "4|cl|0113|Elderflower gin",
+            "1|cl|0113|Blackcurrant gin",
+            "2|cl|0033| ",
+            "2|cl|0044| ",
+            "2|cl|0049|Elderflower tonic"
         ],
 
-        "0056":
+        "00056":
         [
             "Singapore sling",
             "Shake everything except the soda water and strain into a glass with ice.\nTop up with the soda water and serve.",
-            "02",
+            "002",
         
             "Shake",
             "On ice",
@@ -3243,21 +3245,21 @@
         
             "",
         
-            "4|cl|002| ",
-            "2|cl|043| ",
-            "1.5|cl|112| ",
-            "1|cl|105| ",
-            "1|cl|006| ",
-            "2|dash|042| ",
-            "2|dash|041| ",
-            "4|cl|048| "
+            "4|cl|0002| ",
+            "2|cl|0043| ",
+            "1.5|cl|0112| ",
+            "1|cl|0105| ",
+            "1|cl|0006| ",
+            "2|dash|0042| ",
+            "2|dash|0041| ",
+            "4|cl|0048| "
         ],
 
-        "0057":
+        "00057":
         [
             "Blue Gin",
             "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass",
-            "02",
+            "002",
         
             "Stir",
             "Straight",
@@ -3268,17 +3270,17 @@
         
             "",
         
-            "4|cl|002| ",
-            "4|cl|107| ",
-            "1|cl|106| ",
-            "1|cl|056| "
+            "4|cl|0002| ",
+            "4|cl|0107| ",
+            "1|cl|0106| ",
+            "1|cl|0056| "
         ],
 
-        "0058":
+        "00058":
         [
             "Martinez",
             "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass",
-            "02",
+            "002",
         
             "Stir",
             "Straight",
@@ -3289,18 +3291,18 @@
         
             "",
         
-            "4|cl|002| ",
-            "2|cl|035| ",
-            "1|cl|034| ",
-            "0.5|cl|026| ",
-            "2|dash|041| "
+            "4|cl|0002| ",
+            "2|cl|0035| ",
+            "1|cl|0034| ",
+            "0.5|cl|0026| ",
+            "2|dash|0041| "
         ],
 
-        "0059":
+        "00059":
         [
             "St. Tropez",
             "Shake everything except the soda water and strain into a glass with ice.\nTop up with the soda water and serve.",
-            "01",
+            "001",
         
             "Shake",
             "On ice",
@@ -3311,10 +3313,10 @@
         
             "",
         
-            "2.5|cl|114|Citrus vodka",
-            "2.5|cl|033| ",
-            "2|cl|043| ",
-            "6|cl|048| "
+            "2.5|cl|0114|Citrus vodka",
+            "2.5|cl|0033| ",
+            "2|cl|0043| ",
+            "6|cl|0048| "
         ]
     }
 }
