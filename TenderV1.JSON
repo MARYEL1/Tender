@@ -2719,7 +2719,7 @@
             "Highball",
 
             "Github",
-            "",
+            "The Image is from the video \"Blandar ÖL-DRINKAR med Edward Blom\" by David Kringlund on YouTube",
 
             "",
 
@@ -2854,7 +2854,7 @@
             "Mug",
         
             "Github",
-            "",
+            "The Image is from the video \"Godaste drinken med Jägermeister jag kan komma pả\" by David Kringlund on YouTube",
         
             "The original recipe calls for \"Incredible sourmix\". If available, exchange acid and simple syrup with the mix.",
         
@@ -2874,8 +2874,8 @@
             "Straight",
             "Nick & Nora",
         
-            "https://images.getrecipekit.com/20220913101634-dsc03762.jpg?aspect_ratio=16:9&quality=90&",
-            "",
+            "Github",
+            "Image by:\nTimothé Durand on Unsplash",
         
             "",
         
@@ -2894,8 +2894,8 @@
             "On ice",
             "Rocks",
         
-            "https://cdn.shopify.com/s/files/1/0506/5578/9253/files/LD-Export_2_480x480.jpg?v=1628539405",
-            "",
+            "Github",
+            "Image by:\nTimothé Durand on Unsplash",
         
             "",
         
@@ -2915,8 +2915,8 @@
             "Straight",
             "Highball",
         
-            "https://cdn.shopify.com/s/files/1/0506/5578/9253/files/Web_423b7431-79ce-4e27-8739-5557662886d5_480x480.jpg?v=1628538991",
-            "",
+            "Github",
+            "Image by:\nElla on flickr",
         
             "",
         
@@ -2938,7 +2938,7 @@
             "Nick & Nora",
         
             "Github",
-            "",
+            "Image by:\nTiago Morheto on Pexels",
         
             "",
         
@@ -2959,7 +2959,7 @@
             "Nick & Nora",
         
             "Github",
-            "",
+            "Image by:\nAgence Mald on Pexels",
         
             "",
         
@@ -2979,8 +2979,8 @@
             "Hot",
             "Coffee",
         
-            "https://images.getrecipekit.com/20221018201922-thumbnail.jpg?aspect_ratio=16:9&quality=90&",
-            "",
+            "Github",
+            "Image by:\nAnna Kumpan on Unsplash",
         
             "",
         
@@ -3000,8 +3000,8 @@
             "On ice",
             "Wine",
         
-            "https://images.getrecipekit.com/20230727151328-limoncello-20spritz.jpg?aspect_ratio=16:9&quality=90&",
-            "",
+            "Github",
+            "Image by:\nArina Krasnikova on Pexels",
         
             "",
         
@@ -3020,8 +3020,8 @@
             "On ice",
             "Highball",
         
-            "https://images.getrecipekit.com/20230809182428-pina-20colada.jpg?aspect_ratio=16:9&quality=90&",
-            "",
+            "Github",
+            "Image by:\nAlejandro Aznar on Pexels",
         
             "",
         
@@ -3043,8 +3043,8 @@
             "On ice",
             "Highball",
         
-            "https://images.getrecipekit.com/20230518172229-low-20res.jpeg?aspect_ratio=16:9&quality=90&",
-            "",
+            "Github",
+            "Image by:\nEsra Afsar on Unsplash",
         
             "",
         
@@ -3208,7 +3208,7 @@
             "1|dash|0041| "
         ],
 
-        "00055":
+        "00054":
         [
             "Germain Invasion",
             "Shake everything except the tonic and strain into a glass with ice. Top up with the tonic and serve.",
@@ -3230,7 +3230,7 @@
             "2|cl|0049|Elderflower tonic"
         ],
 
-        "00056":
+        "00055":
         [
             "Singapore sling",
             "Shake everything except the soda water and strain into a glass with ice.\nTop up with the soda water and serve.",
@@ -3255,7 +3255,7 @@
             "4|cl|0048| "
         ],
 
-        "00057":
+        "00056":
         [
             "Blue Gin",
             "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass",
@@ -3276,7 +3276,7 @@
             "1|cl|0056| "
         ],
 
-        "00058":
+        "00057":
         [
             "Martinez",
             "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass",
@@ -3298,7 +3298,7 @@
             "2|dash|0041| "
         ],
 
-        "00059":
+        "00058":
         [
             "St. Tropez",
             "Shake everything except the soda water and strain into a glass with ice.\nTop up with the soda water and serve.",
@@ -3317,6 +3317,112 @@
             "2.5|cl|0033| ",
             "2|cl|0043| ",
             "6|cl|0048| "
+        ],
+
+        "00059":
+        [
+            "Orange Negroni",
+            "Pour everything into a glass with ice and stir.",
+            "002",
+
+            "Stir",
+            "On ice",
+            "Rocks",
+
+            "Github",
+            "Image by:\nAllan Francis on Unsplash",
+
+            "",
+
+            "4|cl|0113|Marmalade gin",
+            "4|cl|0037| ",
+            "4|cl|0035| ",
+            "3|dash|0042| "
+        ],
+
+        "00060":
+        [
+            "Elderflower Porn",
+            "Pour everything into a glass with ice and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Rocks",
+
+            "Github",
+            "Image by:\nOTHR on Unsplash",
+
+            "",
+
+            "4|cl|0002| ",
+            "1|cl|0033| ",
+            "1|cl|0097| ",
+            "4|cl|0049|Lime tonic"
+        ],
+
+        "00061":
+        [
+            "Last Night In Sweden",
+            "Pour everything except the tonic and beer into a glass with ice. Pour over the tonic and wait for the purée to float, then top up with beer.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Wine",
+
+            "Github",
+            "Image by:\nLazarus Ziridis on Pexels",
+
+            "",
+
+            "5|cl|0002|Old Tom gin",
+            "1|cl|0117|Mango purée",
+            "1|cl|0116|Passionfruit purée",
+            "5|cl|0049|Hibiscus tonic",
+            "5|cl|0085|Fruity IPA"
+        ],
+
+        "00062":
+        [
+            "Limey Gimlet",
+            "Stir everything in a mixing glass until chilled.\nStrain into a glass packed with crushed ice.",
+            "002",
+
+            "Stir",
+            "On ice",
+            "Rocks",
+
+            "Github",
+            "Image by:\nAhtziri Lagarde on Unsplash",
+
+            "",
+
+            "4|cl|0002| ",
+            "4|cl|0101| ",
+            "1|cl|0044| ",
+            "1|cl|0006| "
+        ],
+
+        "00063":
+        [
+            "French 75",
+            "Shake everything except the champagne and strain into a glass.\nTop up with the champagne and serve.",
+            "002",
+
+            "Shake",
+            "Straight",
+            "Flute",
+
+            "Github",
+            "Image by:\nWoody Kelly on Unsplash",
+
+            "",
+
+            "4|cl|0002| ",
+            "1|cl|0043| ",
+            "1|cl|0054| ",
+            "4|cl|0017| "
         ]
     }
 }
