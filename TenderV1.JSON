@@ -55,7 +55,25 @@
             "Content creator",
             "YouTube|https://www.youtube.com/@DavidKringlund",
             "Blog|https://davidkringlund.se/blogs/recept",
-            "Instagram|https://www.instagram.com/davidkringlund/"
+            "Instagram|https://www.instagram.com/davidkringlund"
+        ],
+
+        "007":
+        [
+            "Ed Tales",
+            "Content creator",
+            "Instagram|https://www.instagram.com/ed_tales",
+            "TikTok|https://www.tiktok.com/@ed_tales",
+            "YouTube|http://www.youtube.com/@ed_tales"
+        ],
+
+        "008":
+        [
+            "Lucie Musilova",
+            "Content creator",
+            "Instagram|https://www.instagram.com/luccooks",
+            "TikTok|https://www.tiktok.com/@luccooks",
+            "YouTube|http://www.youtube.com/@LucCooks"
         ]
     },
 
@@ -1074,7 +1092,7 @@
             "Beer|Ale|Stout|IPA",
             "5",
             "A fermented beverage made from grains.",
-            "Beer & Cider",
+            "Fermented",
             "",
             "",
             "https://en.wikipedia.org/wiki/Beer",
@@ -1086,7 +1104,7 @@
             "Apple cider",
             "4.5",
             "A fermented drink made from apple juice.",
-            "Beer & Cider",
+            "Fermented",
             "",
             "",
             "https://en.wikipedia.org/wiki/Apple_cider",
@@ -2074,6 +2092,18 @@
             "",
             "",
             "https://en.wikipedia.org/wiki/Punsch",
+            ""
+        ],
+
+        "0169":
+        [
+            "Cucumber",
+            "0",
+            "A fresh vegetable made up from mostly water.",
+            "Pantry",
+            "",
+            "30",
+            "https://en.wikipedia.org/wiki/Cucumber",
             ""
         ]
     },
@@ -3423,6 +3453,52 @@
             "1|cl|0043| ",
             "1|cl|0054| ",
             "4|cl|0017| "
+        ],
+
+        "00064":
+        [
+            "Garden Collins",
+            "Muddle the cucumber and basil in the shaker, add remaining ingredients except soda water and shake.\nStrain into a glass with ice and top up with soda water.",
+            "007",
+
+            "Shake",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\nAnna Teodoro on Unsplash",
+
+            "",
+
+            "5|cl|0002| ",
+            "2|cl|0033| ",
+            "2|cl|0043| ",
+            "5|cl|0048| ",
+            "8| |0093|Basil leaves",
+            "6|cl|0169|Chopped cucumber"
+        ],
+
+        "00065":
+        [
+            "Lucky Hugo Tonic",
+            "Mix cucumber and water together and strain it.\nPour everything together with 4.5 cl of the cucumber water into a glass with ice and serve.",
+            "008",
+
+            "Build",
+            "On ice",
+            "Wine",
+
+            "Github",
+            "Image by\nPexels on Pixabay",
+
+            "",
+
+            "4.5|cl|0002| ",
+            "3|cl|0033| ",
+            "6|cl|0049| ",
+            "-div-Cucumber water (6 servings)",
+            "0.5| |0169| ",
+            "12|cl|0062| "
         ]
     }
 }
