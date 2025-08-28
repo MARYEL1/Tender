@@ -2105,6 +2105,53 @@
             "30",
             "https://en.wikipedia.org/wiki/Cucumber",
             ""
+        ],
+
+        "0172": [
+            "Wild cherry essence|Cherry essence",
+            "0",
+            "A concentrated cherry flavoring used in cocktails.",
+            "Syrups",
+            "",
+            "",
+            "",
+            ""
+        ],
+
+        "0173":
+        [
+            "Strawberry juice",
+            "0",
+            "Juice made from fresh strawberries.",
+            "Juices|Homemade",
+            "",
+            "",
+            "",
+            "0096"
+        ],
+
+        "0174":
+        [
+            "Flavored tequila|Mezcal",
+            "40",
+            "Tequila infused with additional flavors.",
+            "Spirits",
+            "0010|0011",
+            "",
+            "",
+            ""
+        ],
+
+        "0175":
+        [
+            "Galliano",
+            "42.3",
+            "An Italian herbal liqueur with vanilla and anise flavors.",
+            "Liqueurs",
+            "0029",
+            "",
+            "https://en.wikipedia.org/wiki/Galliano_(liqueur)",
+            ""
         ]
     },
 
@@ -2157,7 +2204,7 @@
         "00003":
         [
             "Gin & Tonic",
-            "Pour the ingredients in a glass with ice and serve.",
+            "Pour everything into a glass with ice and serve.",
             "004",
 
             "Build",
@@ -2176,7 +2223,7 @@
         "00004":
         [
             "Gin Sonic",
-            "Pour the ingredients in a glass with ice and serve.",
+            "Pour everything into a glass with ice and serve.",
             "004",
 
             "Build",
@@ -2422,7 +2469,7 @@
         "00016":
         [
             "Tom Collins",
-            "Pour the ingredients in a glass with ice and serve.",
+            "Pour everything into a glass with ice and serve.",
             "005",
 
             "Build",
@@ -2486,7 +2533,7 @@
         "00019":
         [
             "Moscow Mule",
-            "Pour the ingredients in a glass with ice and serve.",
+            "Pour everything into a glass with ice and serve.",
             "005",
 
             "Build",
@@ -3499,6 +3546,791 @@
             "-div-Cucumber water (6 servings)",
             "0.5/6| |0169| ",
             "12/6|cl|0062| "
+        ],
+
+        "00066":
+        [
+            "Currant Flight",
+            "Pour everything into a glass with ice and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Wine",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "5|cl|0002| ",
+            "2|cl|0124| ",
+            "1|cl|0026| ",
+            "1|cl|0043| ",
+            "10|cl|0049| "
+        ],
+
+        "00067":
+        [
+            "Last Word",
+            "Shake and strain into a chilled glass.",
+            "002",
+
+            "Shake",
+            "Straight",
+            "Cocktail",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0002| ",
+            "2|cl|0030| ",
+            "2|cl|0044| ",
+            "1|cl|0026| ",
+            "1|cl|0048| "
+        ],
+
+        "00068":
+        [
+            "Beach House G&T",
+            "Pour everything into a glass with ice and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "5|cl|0002|Brockmans Gin",
+            "12|cl|0049|Schweppes Pink Pepper"
+        ],
+
+        "00069":
+        [
+            "The White Horse",
+            "Pour everything except the soda into a glass with ice.\nTop up with soda and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "5|cl|0001|Belvedere vodka",
+            "1|cl|0120| ",
+            "1|cl|0140| ",
+            "1|cl|0116|Passion fruit puree",
+            "1|cl|0122| ",
+            "1.5|ml|0044| ",
+            "9|cl|0048| "
+        ],
+
+        "00070":
+        [
+            "Amarena Bramble",
+            "Shake everything except the cherry essence and strain into a glass with ice.\nTop with cherry essence and serve.",
+            "002",
+
+            "Shake",
+            "On ice",
+            "Rocks",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "5|cl|0002|Tanqueray 10",
+            "2.5|cl|0043| ",
+            "1|cl|0172| "
+        ],
+
+        "00071":
+        [
+            "Letincelle",
+            "Shake everything except the champagne and strain into a chilled glass.\nTop up with champagne and serve.",
+            "002",
+
+            "Shake",
+            "Straight",
+            "Wine",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0121|Soho lychee",
+            "2|cl|0123| ",
+            "6|cl|0173| ",
+            "8|cl|0017| "
+        ],
+
+        "00072":
+        [
+            "La Fleur Bleu",
+            "Shake without ice for about 10 seconds.\nAdd ice and shake again.\nStrain into a chilled glass and serve.",
+            "002",
+
+            "Shake",
+            "Straight",
+            "Coupe",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0010| ",
+            "2|cl|0024| ",
+            "2|cl|0139| ",
+            "2|cl|0044| ",
+            "1| |0061|Egg white"
+        ],
+
+        "00073":
+        [
+            "Capitaine Monkey",
+            "Shake and strain into a glass with ice.",
+            "002",
+
+            "Shake",
+            "On ice",
+            "Tiki",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0003|Monkey Shoulder whisky",
+            "1|cl|0021| ",
+            "1|cl|0032| ",
+            "3|cl|0117| ",
+            "4|cl|0046| ",
+            "1|cl|0044| "
+        ],
+
+        "00074":
+        [
+            "El Diablo",
+            "Shake everything except the ginger beer and strain into a glass with ice.\nTop up with ginger beer and serve.",
+            "002",
+
+            "Shake",
+            "On ice",
+            "Rocks",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0010|Chili ginger infused",
+            "2|cl|0124| ",
+            "2|cl|0044| ",
+            "9|cl|0050| "
+        ],
+
+        "00074":
+        [
+            "El Diablo",
+            "Shake everything except the ginger beer and strain into a glass with ice.\nTop up with ginger beer and serve.",
+            "002",
+
+            "Shake",
+            "On ice",
+            "Rocks",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0174|Chili ginger infused tequila",
+            "2|cl|0124| ",
+            "2|cl|0044| ",
+            "9|cl|0050| "
+        ],
+
+        "00075":
+        [
+            "Blackberry Daiquiri (alc. free)",
+            "Mix everything and pour into a chilled glass.",
+            "002",
+
+            "Mix",
+            "Straight",
+            "Coupe",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "10|cl|0125| ",
+            "2|cl|0123| ",
+            "2|cl|0043| ",
+            "2|cl|0054| "
+        ],
+
+        "00076":
+        [
+            "Raspberry Kiss (alc. free)",
+            "Pour everything into a glass and serve.",
+            "002",
+
+            "Build",
+            "Straight",
+            "Flute",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "2|cl|0095| ",
+            "16|cl|0110| "
+        ],
+
+        "00077":
+        [
+            "Shirley Temple (alc. free)",
+            "Pour everything into a glass with ice and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "2|cl|0057| ",
+            "9|cl|0052| ",
+            "9|cl|0050| "
+        ],
+
+        "00078":
+        [
+            "Lingonberry Caipirinha (alc. free)",
+            "Muddle the lingonberries in the glass, add remaining ingredients except soda water and stir.\nTop up with soda water and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Rocks",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "10|cl|0118| ",
+            "1|cl|0123| ",
+            "2|cl|0054| ",
+            "7|cl|0048| "
+        ],
+
+        "00079":
+        [
+            "Pomegranate Martini (alc. free)",
+            "Muddle the pomegranate in the shaker, add remaining ingredients and shake.\nStrain into a chilled glass and serve.",
+            "002",
+
+            "Shake",
+            "Straight",
+            "Cocktail",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "2|cl|0127| ",
+            "4|cl|0062|Still mineral water",
+            "1|cl|0095| ",
+            "1|cl|0054| "
+        ],
+
+        "00080":
+        [
+            "American Eggnog",
+            "Heat milk and cream with spices, take off when it starts boiling.\nWhisk eggs yolks and sugar, then slowly add hot milk mixture.\nCook until thickened (around 72-75°C). Then add bourbon and let it cool before bottling it. Leave the spices in for more flavor.\nServe chilled.",
+            "002",
+
+            "Batch",
+            "Straight",
+            "Bottle",
+
+            "Github",
+            "Image by:\n",
+
+            "The egg whites can be whipped and carefully added to the mixture after it has cooled down.",
+
+            "9|dl|0063| ",
+            "3|dl|0064| ",
+            "2| |0142|Vanilla sticks",
+            "4| |0143|Cinnamon sticks",
+            "1.5|tsp|0144| ",
+            "8| |0061|Egg yolks",
+            "3|dl|0004| "
+        ],
+
+        "00081":
+        [
+            "Apple Mojito",
+            "Muddle the lime, mint and simple syrup in the glass, add remaining ingredients except soda water and stir.\nTop up with soda water and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "6|cl|0115|Bacardi Apple",
+            "2|cl|0101| ",
+            "0.5| |0163| ",
+            "2|cl|0054| ",
+            "6| |0070|Mint leaves",
+            "9|cl|0048| "
+        ],
+
+        "00082":
+        [
+            "Bellini",
+            "Pour everything into a chilled glass and stir gently.",
+            "002",
+
+            "Build",
+            "Straight",
+            "Flute",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0128|Peach puree",
+            "14|cl|0018| "
+        ],
+
+        "00083":
+        [
+            "Between the Sheets",
+            "Shake and strain into a chilled glass.",
+            "002",
+
+            "Shake",
+            "Straight",
+            "Cocktail",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "3|cl|0012| ",
+            "1.5|cl|0006| ",
+            "1.5|cl|0025|Cointreau",
+            "1.5|cl|0043| "
+        ],
+
+        "00084":
+        [
+            "Blackcurrant Caipirinha",
+            "Muddle the lime wedges and simple syrup in the glass, add remaining ingredients and stir.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Rocks",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0009| ",
+            "2|cl|0124| ",
+            "5| |0163|Lime wedges",
+            "2|cl|0054| "
+        ],
+
+        "00085":
+        [
+            "Bloody Mary Cocktail",
+            "Rim the glass with pepper.\nStir everything in a mixing glass until chilled.\nStrain into a chilled glass.",
+            "002",
+
+            "Stir",
+            "Straight",
+            "Cocktail",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0001| ",
+            "2|cl|0150| ",
+            "2|cl|0043| ",
+            "3|dash|0151| ",
+            "2|dash|0152| ",
+            "6|cl|0047| ",
+            "1|pinch|0146| ",
+            " |rim|0102| "
+        ],
+
+        "00086":
+        [
+            "Blow Job",
+            "Layer the ingredients in this order:\nKahlúa\nBaileys\nCream\nServe immediately.",
+            "002",
+
+            "Build",
+            "Straight",
+            "Shot",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "2|cl|0022| ",
+            "4|cl|0023| ",
+            "1|cl|0064|Lightly whipped cream"
+        ],
+
+        "00087":
+        [
+            "Bourbon Milk Punch",
+            "Mix everything and pour into a chilled glass.",
+            "002",
+
+            "Mix",
+            "Frozen",
+            "Goblet",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "6|cl|0004| ",
+            "10|cl|0063| ",
+            "5|cl|0064| ",
+            "1|pinch|0144| ",
+            "1|pinch|0142|Vanilla extract",
+            "1.5|dl|0153|Vanilla ice cream",
+            "1|dl|0062|Ice"
+        ],
+
+        "00088":
+        [
+            "Bramble",
+            "Pour gin, lemon juice and simple syrup into a glass with ice and stir.\nSlowly drizzle the blackberry liqueur over the top and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Rocks",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0002| ",
+            "2|cl|0043| ",
+            "1|cl|0054| ",
+            "2|cl|0126| "
+        ],
+
+        "00089":
+        [
+            "Chocolate Martini",
+            "Dust a mixing glass with cocoa powder.\nStir everything in the mixing glass until chilled.\nStrain into a chilled glass and dust with cocoa powder.",
+            "002",
+
+            "Stir",
+            "Straight",
+            "Cocktail",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "0|dust|0154| ",
+            "2|cl|0001| ",
+            "2|cl|0021| ",
+            "2|cl|0138| "
+        ],
+
+        "00090":
+        [
+            "Collins",
+            "Pour everything except the soda water into a glass with ice and stir.\nTop up with soda water and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\n",
+
+            "A Collins can be made with a variety of spirits:\nOld Tom Gin - Tom Collins\nGenever or London Dry Gin - John Collins\nScotch or Applejack - Jack Collins\nCognac - Pierre Collins\nRum - Pedro Collins\nIrish Whiskey - Mike Collins\nBourbon - Colonel Collins\nCanadian Whiskey - Captain Collins\nVodka - Joe Collins\nTequila - Pepito Collins",
+
+            "6|cl|0002|Any base spirit",
+            "3|cl|0043| ",
+            "2|cl|0054| ",
+            "9|cl|0048| "
+        ],
+
+        "00091":
+        [
+            "Cosmopolitan",
+            "Shake and strain into a chilled glass.",
+            "002",
+
+            "Shake",
+            "Straight",
+            "Cocktail",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0114|Lemon vodka",
+            "2|cl|0025|Cointreau",
+            "6|cl|0104| ",
+            "1.5|cl|0044| "
+        ],
+
+        "00092":
+        [
+            "Cuba Libre",
+            "Pour everything into a glass with ice and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "6|cl|0006| ",
+            "2|cl|0044| ",
+            "12|cl|0051| "
+        ],
+
+        "00093":
+        [
+            "Dry Martini",
+            "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass and serve.",
+            "002",
+
+            "Stir",
+            "Straight",
+            "Cocktail",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "5|cl|0002| ",
+            "1|cl|0034| "
+        ],
+
+        "00094":
+        [
+            "Espresso Martini",
+            "Shake and strain into a chilled glass.",
+            "002",
+
+            "Shake",
+            "Straight",
+            "Cocktail",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "5|cl|0001| ",
+            "1|cl|0022|",
+            "2|cl|0054| ",
+            "6|cl|0066|Chilled espresso"
+        ],
+
+        "00095":
+        [
+            "Frozen Blueberry Daiquiri",
+            "Mix everything and pour into a chilled glass.",
+            "002",
+
+            "Mix",
+            "Frozen",
+            "Margarita",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "3|cl|0006| ",
+            "3|cl|0108| ",
+            "0.5|cl|0109| ",
+            "2|cl|0044| ",
+            "2|cl|0054| "
+        ],
+
+        "00096":
+        [
+            "Frozen Strawberry Margarita",
+            "Mix everything and pour into a chilled glass.",
+            "002",
+
+            "Mix",
+            "Frozen",
+            "Margarita",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0010| ",
+            "2|cl|0025|Cointreau",
+            "1.5|cl|0043| ",
+            "1.5|cl|0054| ",
+            "1.5|cl|0173| ",
+            "5.5|cl|0096| "
+        ],
+
+        "00097":
+        [
+            "Harvey Wallbanger",
+            "Pour vodka and orange juice into a glass with ice and stir.\nFloat Galliano on top and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4.5|cl|0001| ",
+            "10|cl|0045| ",
+            "1.5|cl|0029|"
+        ],
+
+        "00097":
+        [
+            "Harvey Wallbanger",
+            "Pour vodka and orange juice into a glass with ice and stir.\nFloat Galliano on top and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4.5|cl|0001| ",
+            "10|cl|0045| ",
+            "1.5|cl|0176| "
+        ],
+
+        "00098":
+        [
+            "Hemingway Daiquiri",
+            "Shake and strain into a chilled glass.",
+            "002",
+
+            "Shake",
+            "Straight",
+            "Coupe",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "6|cl|0006|Cuban rum",
+            "3|cl|0044| ",
+            "2|cl|0054| ",
+            "1| |0061|Egg white"
+        ],
+
+        "00099":
+        [
+            "Hemingway Special",
+            "Shake and strain into a glass with ice.",
+            "002",
+
+            "Shake",
+            "On ice",
+            "Rocks",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "6|cl|0006| ",
+            "2|cl|0097| ",
+            "5|dash|0026|Red maraschino",
+            "1|cl|0043| "
+        ],
+
+        "00100":
+        [
+            "Horse's Neck",
+            "Pour cognac into a glass with ice.\nTop up with ginger ale and add bitters.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0012| ",
+            "15|cl|0050| ",
+            "0.25|cl|0041| "
         ]
     }
 }
