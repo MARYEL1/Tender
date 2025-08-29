@@ -409,7 +409,7 @@
             "31",
             "A Spanish vanilla-flavored liqueur.",
             "Liqueurs",
-            "029",
+            "0029",
             "",
             "https://en.wikipedia.org/wiki/Licor_43",
             ""
@@ -465,7 +465,7 @@
 
         "0033":
         [
-            "St-Germain|Elderflower liqueur|St Germain",
+            "St-Germain|Elderflower liqueur|St Germain|St. Germain",
             "20",
             "A liqueur made from elderflower blossoms.",
             "Liqueurs",
@@ -671,7 +671,7 @@
         [
             "Ginger beer|Ginger ale",
             "0",
-            "A spicy and sweet carbonated drink made from ginger.",
+            "A spicy and sweet carbonated drink made from ginger.\n\nGinger beer is a fermented ginger beverage, while ginger ale is a carbonated soft drink flavored with ginger.",
             "Sodas",
             "",
             "",
@@ -1259,7 +1259,7 @@
         [
             "Raspberries|Raspberry",
             "0",
-            "A sweet red berry used fresh or as puree.",
+            "A sweet red berry used fresh or as purée.",
             "Pantry",
             "",
             "0.2",
@@ -1463,7 +1463,7 @@
         [
             "Passion fruit|Passionfruit",
             "0",
-            "A tropical fruit used fresh or as puree.",
+            "A tropical fruit used fresh or as purée.",
             "Pantry|Fruits",
             "",
             "2.5",
@@ -1475,7 +1475,7 @@
         [
             "Mango",
             "0",
-            "A tropical fruit used fresh or as puree.",
+            "A tropical fruit used fresh or as purée.",
             "Pantry|Fruits",
             "",
             "15",
@@ -1504,7 +1504,7 @@
             "",
             "",
             "https://en.wikipedia.org/wiki/Apple_juice",
-            ""
+            "0178"
         ],
 
         "0120":
@@ -1607,7 +1607,7 @@
         [
             "Peach",
             "0",
-            "A fruit used fresh or as puree.",
+            "A fruit used fresh or as purée.",
             "Pantry|Fruits",
             "",
             "10",
@@ -1845,7 +1845,7 @@
 
         "0148":
         [
-            "Clove",
+            "Cloves",
             "0",
             "A warm spice from dried flower buds.",
             "Spices",
@@ -2176,6 +2176,30 @@
             "",
             "",
             ""
+        ],
+
+        "0178":
+        [
+            "Apples",
+            "0",
+            "",
+            "Pantry|Fruits",
+            "",
+            "10",
+            "https://en.wikipedia.org/wiki/Apple",
+            ""
+        ],
+
+        "0179":
+        [
+            "Graham crackers",
+            "0",
+            "",
+            "Pantry",
+            "",
+            "",
+            "",
+            ""
         ]
     },
 
@@ -2346,7 +2370,7 @@
             "2|cl|0055| ",
             "2|cl|0043| ",
             "0.75|cl|0072|Scotch, single",
-            "0.5|cl|0073|Ginger juice"
+            "3|piece|0073| "
         ],
 
         "00009":
@@ -2385,7 +2409,7 @@
             "",
 
             "6|cl|0012| ",
-            "3|cl|0025| ",
+            "3|cl|0025|Cointreau",
             "2|cl|0043| "
         ],
 
@@ -2431,7 +2455,7 @@
 
         "00013":
         [
-            "Dry Martini, Traditional",
+            "Dry Martini",
             "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass",
             "005",
 
@@ -2484,7 +2508,7 @@
 
             "",
 
-            "6|cl|0003| ",
+            "6|cl|0004| ",
             "1|barsp|0076| ",
             "3|dash|0041| ",
             "1|barsp|0062| "
@@ -2505,10 +2529,10 @@
 
             "",
 
-            "6|cl|0002| ",
+            "6|cl|0002|London dry gin",
             "3|cl|0043| ",
             "1.5|cl|0054| ",
-            "9|cl|0048| "
+            "9|cl|0048|Club soda"
         ],
 
         "00017":
@@ -2591,7 +2615,7 @@
 
             "4.5|cl|0002| ",
             "4.5|cl|0035| ",
-            "0.75|cl|0026| ",
+            "0.75|cl|0026|Luxardo maraschino liqueur",
             "2|dash|0041| "
         ],
 
@@ -2698,7 +2722,7 @@
             "4.5|cl|0003|Irish whiskey",
             "4|barsp|0081| ",
             "10|cl|0065|Hot coffee",
-            "0| |0064| "
+            "0| |0064|Whipped cream"
         ],
 
         "00026":
@@ -2717,7 +2741,7 @@
             "",
 
             "0|rinse|0020| ",
-            "2|cl|0002|London dry gin",
+            "2|cl|0002| ",
             "2|cl|0082| ",
             "2|cl|0025| ",
             "2|cl|0043| "
@@ -2742,13 +2766,13 @@
             "1.5|cl|0054| ",
             "6|cl|0006| ",
             "2.25|cl|0044| ",
-            "9|cl|0048| "
+            "9|cl|0048|Club soda"
         ],
 
         "00028":
         [
             "Gin Fizz",
-            "Shake without ice and soda water for about 10 seconds.\nAdd ice and shake again.\nstrain into a glass with ice and top with soda water.",
+            "Shake without ice and soda water for about 10 seconds.\nAdd ice and shake again.\nstrain into a glass with ice and top with club soda.",
             "005",
 
             "Shake",
@@ -2764,7 +2788,7 @@
             "3|cl|0043| ",
             "2|cl|0054| ",
             "1| |0061|Egg white",
-            "3|cl|0048| "
+            "3|cl|0048|Club soda"
         ],
 
         "00029":
@@ -2805,7 +2829,7 @@
             "",
 
             "6|cl|0037| ",
-            "6|cl|0014| ",
+            "6|cl|0014|Dry white wine",
             "3|cl|0048| "
         ],
 
@@ -2889,7 +2913,7 @@
 
             "",
 
-            "5|cl|0008| ",
+            "5|cl|0008|Aged rum",
             "1|cl|0025| ",
             "3|cl|0044| ",
             "2|cl|0059| "
@@ -2940,7 +2964,7 @@
         
             "3|cl|0002| ",
             "2|cl|0026| ",
-            "1|cl|0092| ",
+            "1|cl|0092|The Bitter Truth violet liqueur",
             "2|cl|0043| "
         ],
 
@@ -2967,7 +2991,7 @@
 
         "00038":
         [
-            "David's Espresso Martini",
+            "Espresso Martini",
             "Shake everything and strain into a chilled glass. Garnish with coffee beans",
             "006",
         
@@ -3088,7 +3112,7 @@
             "3|cl|0025| ",
             "3|cl|0023| ",
             "10|cl|0065|Hot coffee",
-            "5|cl|0064| "
+            "5|cl|0064|Lightly whipped cream"
         ],
 
         "00044":
@@ -3126,7 +3150,7 @@
         
             "",
         
-            "5|cl|0008| ",
+            "5|cl|0008|Aged rum",
             "2|cl|0044| ",
             "4|cl|0046| ",
             "-div-Coconut syrup",
@@ -3167,10 +3191,10 @@
             "Github",
             "Image by:\nRodion Kutsaiev on Unsplash",
         
-            "",
+            "Hernö Pink BTL Gin can be substituted with 4 cl London dry gin and 1 cl strawberry flavored gin.\nHammars Pink tonic can be substituted with grapefruit flavored tonic.",
         
-            "5|cl|0098| ",
-            "10|cl|0049|Pink tonic",
+            "5|cl|0098|Hernö Pink BTL Gin",
+            "10|cl|0049|Hammars Pink tonic",
             "5| |0099| ",
             "0| |0070| "
         ],
@@ -3191,7 +3215,7 @@
             "",
         
             "4|cl|0002| ",
-            "4|cl|0101| ",
+            "4|cl|0101|Rose's lime",
             "2|cl|0069| ",
             "1|cl|0056| ",
             "4|cl|0048| "
@@ -3235,7 +3259,7 @@
             "",
         
             "4|cl|0037| ",
-            "3|cl|0035| ",
+            "3|cl|0035|Powerful red vermouth",
             "1|dash|0042| ",
             "-div-Infused gin (2 servings)",
             "1/2|dl|0002| ",
@@ -3257,11 +3281,11 @@
             "Github",
             "Image by:\nSandra Martins on Unsplash",
         
-            "",
+            "Purity Gin 34 can be substituted with a London dry gin with citrus tones.",
         
-            "5|cl|0002|London dry gin",
+            "5|cl|0002|Purity Gin 34",
             "1.5|barsp|0103| ",
-            "10|cl|0049|Pink tonic",
+            "10|cl|0049|Schweppes Premium Pink Pepper",
             "0| |0102|Pink peppercorns"
         ],
 
@@ -3280,9 +3304,9 @@
         
             "The flavoured gin could be substituted with gin and aquavit.",
         
-            "6|cl|0113|O.P. flavoured gin",
-            "1|cl|0074| ",
-            "0.25|cl|0167| "
+            "6|cl|0113|O.P. Andersson gin",
+            "1|cl|0074|Bäska Droppar",
+            "0.25|cl|0167|Henri bardouin Pastis"
         ],
 
         "00053":
@@ -3298,9 +3322,9 @@
             "Github",
             "Image by:\nyosoytex5 on Pixabay",
         
-            "",
+            "Juniperium Winter Gin can be substituted with any gin with juniper tones.",
         
-            "4|cl|0002| ",
+            "4|cl|0002|Juniperium Winter Gin",
             "1.5|cl|0168| ",
             "1|barsp|0118|Lingonberry jam",
             "1|cl|0043| ",
@@ -3322,10 +3346,10 @@
             "Github",
             "Image by:\nJakub Dziubak on Unsplash",
         
-            "The blackcurrant gin could be substituted for half the amount of Crème de cassis.",
+            "The blackcurrant gin could be substituted with half the amount of Crème de cassis.\nHellström gin can be substituted with any floral gin with elderflower tones.",
         
-            "4|cl|0113|Elderflower gin",
-            "1|cl|0113|Blackcurrant gin",
+            "4|cl|0113|Hellström gin",
+            "1|cl|0113|Hernö Blackcurrant gin",
             "2|cl|0033| ",
             "2|cl|0044| ",
             "2|cl|0049|Elderflower tonic"
@@ -3333,7 +3357,7 @@
 
         "00055":
         [
-            "Singapore sling",
+            "Singapore sling no.1",
             "Shake everything except the soda water and strain into a glass with ice.\nTop up with the soda water and serve.",
             "002",
         
@@ -3372,8 +3396,8 @@
             "",
         
             "4|cl|0002| ",
-            "4|cl|0107| ",
-            "1|cl|0106| ",
+            "4|cl|0107|Saxhyttegubbens Blåbär",
+            "1|cl|0106|Hernö Sloe Gin",
             "1|cl|0056| "
         ],
 
@@ -3392,10 +3416,10 @@
         
             "",
         
-            "4|cl|0002| ",
-            "2|cl|0035| ",
-            "1|cl|0034| ",
-            "0.5|cl|0026| ",
+            "4|cl|0002|Monkey 47",
+            "2|cl|0035|Antica Formula red vermouth",
+            "1|cl|0034|Noilly prat dry vermouth",
+            "0.5|cl|0026|White Maraschino",
             "2|dash|0041| "
         ],
 
@@ -3414,7 +3438,7 @@
         
             "",
         
-            "2.5|cl|0114|Citrus vodka",
+            "2.5|cl|0114|Absolut Citron",
             "2.5|cl|0033| ",
             "2|cl|0043| ",
             "6|cl|0048| "
@@ -3435,9 +3459,9 @@
 
             "",
 
-            "4|cl|0113|Marmalade gin",
+            "4|cl|0113|Manchester Marmalade Gin",
             "4|cl|0037| ",
-            "4|cl|0035| ",
+            "4|cl|0035|Antica Formula red vermouth",
             "3|dash|0042| "
         ],
 
@@ -3456,10 +3480,10 @@
 
             "",
 
-            "4|cl|0002| ",
+            "4|cl|0002|Ron Jeremy's Hedgehog gin",
             "1|cl|0033| ",
             "1|cl|0097| ",
-            "4|cl|0049|Lime tonic"
+            "4|cl|0049|Schweppes Twist of Lime tonic"
         ],
 
         "00061":
@@ -3477,10 +3501,10 @@
 
             "",
 
-            "5|cl|0002|Old Tom gin",
+            "5|cl|0002|Hernö Old Tom gin",
             "1|cl|0117|Mango purée",
             "1|cl|0116|Passionfruit purée",
-            "5|cl|0049|Hibiscus tonic",
+            "5|cl|0049|Schweppes Tonic & Hibiscus",
             "5|cl|0085|Fruity IPA"
         ],
 
@@ -3492,17 +3516,17 @@
 
             "Stir",
             "On ice",
-            "Rocks",
+            "Nick & Nora",
 
             "Github",
             "Image by:\nAhtziri Lagarde on Unsplash",
 
             "",
 
-            "4|cl|0002| ",
-            "4|cl|0101| ",
+            "4|cl|0002|Gun Room Gin",
+            "4|cl|0101|Rose's Lime",
             "1|cl|0044| ",
-            "1|cl|0006| "
+            "1|cl|0006|Facile Noble Selected Aged White Rum"
         ],
 
         "00063":
@@ -3520,7 +3544,7 @@
 
             "",
 
-            "4|cl|0002| ",
+            "4|cl|0002|Tanqueray gin",
             "1|cl|0043| ",
             "1|cl|0054| ",
             "4|cl|0017| "
@@ -3587,7 +3611,7 @@
 
             "",
 
-            "5|cl|0002| ",
+            "5|cl|0002|Stockholms Bränneri gin",
             "2|cl|0124| ",
             "1|cl|0026| ",
             "1|cl|0043| ",
@@ -3609,10 +3633,10 @@
 
             "",
 
-            "4|cl|0002| ",
+            "4|cl|0002|Hernö gin",
             "2|cl|0030| ",
             "2|cl|0044| ",
-            "1|cl|0026| ",
+            "1|cl|0026|Luxardo maraschino liqueur",
             "1|cl|0048| "
         ],
 
@@ -3638,7 +3662,7 @@
         "00069":
         [
             "The White Horse",
-            "Pour everything except the soda into a glass with ice.\nTop up with soda and serve.",
+            "Pour everything except the soda into a glass with ice.\nStir and top up with soda.",
             "002",
 
             "Build",
@@ -3653,7 +3677,7 @@
             "5|cl|0001|Belvedere vodka",
             "1|cl|0120| ",
             "1|cl|0140| ",
-            "1|cl|0116|Passion fruit puree",
+            "1|cl|0116|Passion fruit purée",
             "1|cl|0122| ",
             "1.5|ml|0044| ",
             "9|cl|0048| "
@@ -3681,13 +3705,13 @@
 
         "00071":
         [
-            "Letincelle",
+            "L'etincelle",
             "Shake everything except the champagne and strain into a chilled glass.\nTop up with champagne and serve.",
             "002",
 
             "Shake",
             "Straight",
-            "Wine",
+            "Nick & Nora",
 
             "Github",
             "Image by:\n",
@@ -3740,30 +3764,9 @@
             "4|cl|0003|Monkey Shoulder whisky",
             "1|cl|0021| ",
             "1|cl|0032| ",
-            "3|cl|0117| ",
+            "3|cl|0117|Mango purée",
             "4|cl|0046| ",
             "1|cl|0044| "
-        ],
-
-        "00074":
-        [
-            "El Diablo",
-            "Shake everything except the ginger beer and strain into a glass with ice.\nTop up with ginger beer and serve.",
-            "002",
-
-            "Shake",
-            "On ice",
-            "Rocks",
-
-            "Github",
-            "Image by:\n",
-
-            "",
-
-            "4|cl|0010|Chili ginger infused",
-            "2|cl|0124| ",
-            "2|cl|0044| ",
-            "9|cl|0050| "
         ],
 
         "00074":
@@ -3795,17 +3798,18 @@
 
             "Mix",
             "Straight",
-            "Coupe",
+            "Margarita",
 
             "Github",
             "Image by:\n",
 
             "",
 
-            "10|cl|0125| ",
+            "1|dl|0125| ",
             "2|cl|0123| ",
             "2|cl|0043| ",
-            "2|cl|0054| "
+            "2|cl|0054| ",
+            "1|dl|0062|Ice"
         ],
 
         "00076":
@@ -3844,13 +3848,13 @@
 
             "2|cl|0057| ",
             "9|cl|0052| ",
-            "9|cl|0050| "
+            "9|cl|0050|Ginger ale"
         ],
 
         "00078":
         [
             "Lingonberry Caipirinha (alc. free)",
-            "Muddle the lingonberries in the glass, add remaining ingredients except soda water and stir.\nTop up with soda water and serve.",
+            "Muddle the lingonberries in the glass, add all remaining ingredients except soda water and stir.\nTop up with crushed ice and soda water.",
             "002",
 
             "Build",
@@ -3862,7 +3866,7 @@
 
             "",
 
-            "10|cl|0118| ",
+            "1|dl|0118| ",
             "1|cl|0123| ",
             "2|cl|0054| ",
             "7|cl|0048| "
@@ -3871,7 +3875,7 @@
         "00079":
         [
             "Pomegranate Martini (alc. free)",
-            "Muddle the pomegranate in the shaker, add remaining ingredients and shake.\nStrain into a chilled glass and serve.",
+            "Muddle the pomegranate in the shaker, add remaining ingredients and shake with the crushed ice.\nStrain into a chilled glass and serve.",
             "002",
 
             "Shake",
@@ -3883,10 +3887,11 @@
 
             "",
 
-            "2|cl|0127| ",
+            "2|dl|0127|Pomegranate seeds",
             "4|cl|0062|Still mineral water",
             "1|cl|0095| ",
-            "1|cl|0054| "
+            "1|cl|0054| ",
+            "2|dl|0062|Crushed ice"
         ],
 
         "00080":
@@ -3951,7 +3956,7 @@
 
             "",
 
-            "4|cl|0128|Peach puree",
+            "4|cl|0128|Peach purée",
             "14|cl|0018| "
         ],
 
@@ -3979,7 +3984,7 @@
         "00084":
         [
             "Blackcurrant Caipirinha",
-            "Muddle the lime wedges and simple syrup in the glass, add remaining ingredients and stir.",
+            "Muddle the lime wedges and simple syrup in the glas. Add ice and the remaining ingredients and stir.",
             "002",
 
             "Build",
@@ -4000,7 +4005,7 @@
         "00085":
         [
             "Bloody Mary Cocktail",
-            "Rim the glass with pepper.\nStir everything in a mixing glass until chilled.\nStrain into a chilled glass.",
+            "Rim the glass with pepper.\nStir everything forcefully in a mixing glass until chilled.\nStrain into a chilled glass.",
             "002",
 
             "Stir",
@@ -4019,13 +4024,13 @@
             "2|dash|0152| ",
             "6|cl|0047| ",
             "1|pinch|0146| ",
-            " |rim|0102| "
+            "0|rim|0102| "
         ],
 
         "00086":
         [
             "Blow Job",
-            "Layer the ingredients in this order:\nKahlúa\nBaileys\nCream\nServe immediately.",
+            "Layer the ingredients in this order:\n\nKahlúa\nBaileys\nCream\n\nServe immediately.",
             "002",
 
             "Build",
@@ -4037,8 +4042,8 @@
 
             "",
 
-            "2|cl|0022| ",
-            "4|cl|0023| ",
+            "2|cl|0022|Kahlúa",
+            "4|cl|0023|Baileys",
             "1|cl|0064|Lightly whipped cream"
         ],
 
@@ -4090,7 +4095,7 @@
         "00089":
         [
             "Chocolate Martini",
-            "Dust a mixing glass with cocoa powder.\nStir everything in the mixing glass until chilled.\nStrain into a chilled glass and dust with cocoa powder.",
+            "Dust a frozen glass with cocoa powder.\nStir everything in a mixing glass until chilled and strain into the glass.\ntop with some more cocoa powder.",
             "002",
 
             "Stir",
@@ -4102,7 +4107,7 @@
 
             "",
 
-            "0|dust|0154| ",
+            "0|rinse|0154| ",
             "2|cl|0001| ",
             "2|cl|0021| ",
             "2|cl|0138| "
@@ -4121,7 +4126,7 @@
             "Github",
             "Image by:\n",
 
-            "A Collins can be made with a variety of spirits:\nOld Tom Gin - Tom Collins\nGenever or London Dry Gin - John Collins\nScotch or Applejack - Jack Collins\nCognac - Pierre Collins\nRum - Pedro Collins\nIrish Whiskey - Mike Collins\nBourbon - Colonel Collins\nCanadian Whiskey - Captain Collins\nVodka - Joe Collins\nTequila - Pepito Collins",
+            "A Collins can be made with a variety of spirits:\n\nOld Tom Gin - Tom Collins\nGenever or London Dry Gin - John Collins\nScotch or Applejack - Jack Collins\nCognac - Pierre Collins\nRum - Pedro Collins\nIrish Whiskey - Mike Collins\nBourbon - Colonel Collins\nCanadian Whiskey - Captain Collins\nVodka - Joe Collins\nTequila - Pepito Collins",
 
             "6|cl|0002|Any base spirit",
             "3|cl|0043| ",
@@ -4153,7 +4158,7 @@
         "00092":
         [
             "Cuba Libre",
-            "Pour everything into a glass with ice and serve.",
+            "Pour everything into a glass with ice.\nPress the limes, drop in the wedges and serve.",
             "002",
 
             "Build",
@@ -4166,14 +4171,14 @@
             "",
 
             "6|cl|0006| ",
-            "2|cl|0044| ",
-            "12|cl|0051| "
+            "12|cl|0051| ",
+            "2| |0163|Lime wedges"
         ],
 
         "00093":
         [
             "Dry Martini",
-            "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass and serve.",
+            "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass and serve with green olives.",
             "002",
 
             "Stir",
@@ -4185,7 +4190,7 @@
 
             "",
 
-            "5|cl|0002| ",
+            "5|cl|0002|Dry gin",
             "1|cl|0034| "
         ],
 
@@ -4205,7 +4210,7 @@
             "",
 
             "5|cl|0001| ",
-            "1|cl|0022|",
+            "1|cl|0022|Kahlúa",
             "2|cl|0054| ",
             "6|cl|0066|Chilled espresso"
         ],
@@ -4229,7 +4234,8 @@
             "3|cl|0108| ",
             "0.5|cl|0109| ",
             "2|cl|0044| ",
-            "2|cl|0054| "
+            "2|cl|0054| ",
+            "1|dl|0062|Ice"
         ],
 
         "00096":
@@ -4252,33 +4258,14 @@
             "1.5|cl|0043| ",
             "1.5|cl|0054| ",
             "1.5|cl|0173| ",
-            "5.5|cl|0096| "
+            "5| |0096| ",
+            "1|dl|0062|Ice"
         ],
 
         "00097":
         [
             "Harvey Wallbanger",
-            "Pour vodka and orange juice into a glass with ice and stir.\nFloat Galliano on top and serve.",
-            "002",
-
-            "Build",
-            "On ice",
-            "Highball",
-
-            "Github",
-            "Image by:\n",
-
-            "",
-
-            "4.5|cl|0001| ",
-            "10|cl|0045| ",
-            "1.5|cl|0029|"
-        ],
-
-        "00097":
-        [
-            "Harvey Wallbanger",
-            "Pour vodka and orange juice into a glass with ice and stir.\nFloat Galliano on top and serve.",
+            "Pour vodka and orange juice into a glass with ice and stir.\nTop with Galliano and serve.",
             "002",
 
             "Build",
@@ -4350,11 +4337,11 @@
             "Github",
             "Image by:\n",
 
-            "",
+            "There are other variants of this drink:\n\nBourbon - American / Stiff Horse's Neck\nScotch whiskey - Scotch Horse's Neck",
 
             "4|cl|0012| ",
-            "15|cl|0050| ",
-            "0.25|cl|0041| "
+            "12|cl|0050|Ginger ale",
+            "4|dash|0041| "
         ],
 
         "00101":
@@ -4375,7 +4362,7 @@
             "6|cl|0001| ",
             "1.5|cl|0043| ",
             "1.5|cl|0054| ",
-            "4|slice|0073| ",
+            "4|piece|0073| ",
             "2|dash|0041| ",
             "9|cl|0048| "
         ],
@@ -4383,7 +4370,7 @@
         "00102":
         [
             "Irish Coffee",
-            "Fill the glass with hot water and let sit for about 2 minutes.\nDiscard the water and pour the sugar and a little coffee into the glass.\nStir until dissolved, add whiskey and fill up with coffee.\nTop with lightly whipped cream.",
+            "Pour the sugar and a little coffee into the glass.\nStir until dissolved, add whiskey and fill up with coffee.\nTop with lightly whipped cream.",
             "002",
 
             "Build",
@@ -4396,7 +4383,7 @@
             "",
 
             "6|cl|0003|Irish whiskey",
-            "2|tsp|0081| ",
+            "2|barsp|0081| ",
             "10|cl|0065|Hot coffee",
             "0| |0064|Lightly whipped cream"
         ],
@@ -4404,12 +4391,12 @@
         "00103":
         [
             "Irish Stout Flip",
-            "Mix everything and serve.",
+            "Pour everything into a chilled glass and serve with ground nutmeg.",
             "002",
 
-            "Mix",
-            "Hot",
-            "Coffee",
+            "Build",
+            "Straight",
+            "Mug",
 
             "Github",
             "Image by:\n",
@@ -4419,7 +4406,8 @@
             "4|cl|0003|Irish whiskey",
             "6|cl|0085|Irish stout",
             "1| |0061| ",
-            "6|cl|0054| "
+            "0| |0144| ",
+
         ],
 
         "00104":
@@ -4445,7 +4433,7 @@
 
         "00105":
         [
-            "Limoncello Bowl",
+            "Limoncello Punch",
             "Muddle the mint lightly in the pitcher.\nAdd ice, vodka, limoncello and lemon slices.\nStir and top up with tonic.",
             "002",
 
@@ -4489,7 +4477,7 @@
         "00107":
         [
             "Mexican Iced Coffee",
-            "Shake and strain into a glass with ice.",
+            "Shake and strain into a glass with ice.\nTop with chocolate syrup and serve.",
             "002",
 
             "Shake",
@@ -4505,13 +4493,14 @@
             "2|cl|0114|Vanilla vodka",
             "2|cl|0022|Kahlúa",
             "6|cl|0066|Cold espresso",
-            "6|cl|0063| "
+            "6|cl|0063| ",
+            "0| |0132| "
         ],
 
         "00108":
         [
             "Mint Chocolate Coffee",
-            "Pour the liqueur into a heat-resistant glass.\nFill up with equal parts hot coffee and warm milk.\nTop with milk foam.",
+            "Pour the Baileys into a glass.\nFill up with equal parts hot coffee and warm milk.\nTop with milk foam and serve.",
             "002",
 
             "Build",
@@ -4524,7 +4513,7 @@
             "",
 
             "4|cl|0023|Baileys Mint Chocolate",
-            "8|cl|0065| ",
+            "6|cl|0065|Espresso",
             "8|cl|0063|Warm milk"
         ],
 
@@ -4534,9 +4523,9 @@
             "Muddle the mint leaves and simple syrup in the glass.\nAdd crushed ice and bourbon and stir.",
             "002",
 
-            "Stir",
+            "Build",
             "On ice",
-            "Flute",
+            "Highball",
 
             "Github",
             "Image by:\n",
@@ -4545,7 +4534,7 @@
 
             "6|cl|0004| ",
             "10| |0070|Mint leaves",
-            "2|cl|0054| "
+            "1.5|cl|0054| "
         ],
 
         "00110":
@@ -4594,7 +4583,7 @@
         "00112":
         [
             "Negroni Flip",
-            "Shake without ice for about 10 seconds.\nAdd ice and shake vigorously for 20-25 seconds.\nStrain into a chilled glass and serve.",
+            "Shake without ice for about 10 seconds.\nAdd ice and shake again.\nStrain into a chilled glass and serve.",
             "002",
 
             "Shake",
@@ -4616,7 +4605,7 @@
         "00113":
         [
             "Nordic Lingonberry Caipiroska",
-            "Pour lemon juice and simple syrup in the glass.\nFill with crushed ice and layer with lingonberries.\nAdd vodka and stir, then drop in grenadine.",
+            "Pour lemon juice and simple syrup in the glass.\nFill with crushed ice and layer with lingonberries.\nAdd vodka and stir./nTop with grenadine and serve.",
             "002",
 
             "Build",
@@ -4629,19 +4618,19 @@
             "",
 
             "6|cl|0114|Koskenkorva Lingonberry",
-            "5|cl|0043| ",
+            "1.5|cl|0043| ",
             "1.5|cl|0054| ",
-            "3|drop|0057| ",
-            "1|cl|0118| "
+            "3|dash|0057| ",
+            "0| |0118| "
         ],
 
         "00114":
         [
             "Old Fashioned",
-            "Add the sugar cube, bitters and a little soda water to the glass and muddle until dissolved.\nFill with ice, add whiskey and stir.",
+            "Add the sugar cube and bitters to a glass andwait for the sugar to absorb the bitters.\nThen add a little soda water and muddle until dissolved.\nFill with ice, add whiskey and stir.",
             "002",
 
-            "Stir",
+            "Build",
             "On ice",
             "Rocks",
 
@@ -4652,37 +4641,14 @@
 
             "6|cl|0004| ",
             "1| |0076|Sugar cube",
-            "5|drop|0041| ",
+            "5|dash|0041| ",
             "3|cl|0048| "
         ],
 
         "00115":
         [
             "Paradise Punch",
-            "Mix rum, coconut liqueur, juices, tea and simple syrup in a large pitcher or punch bowl.\nAdd ice and stir.",
-            "002",
-
-            "Batch",
-            "On ice",
-            "Punch",
-
-            "Github",
-            "Image by:\n",
-
-            "Serves 10-12 people. Adjust simple syrup to taste (10-20 cl).",
-
-            "30|cl|0006| ",
-            "30|cl|0122| ",
-            "60|cl|0046| ",
-            "50|cl|0158|Strong and chilled tea",
-            "15|cl|0044| ",
-            "15|cl|0054| "
-        ],
-
-        "00116":
-        [
-            "Pisco Punch",
-            "Muddle pineapple pieces in a large container.\nAdd remaining ingredients and stir well.\nServe over ice in punch glasses.",
+            "Pour everything in a large pitcher.\nAdd ice, strawberries, pineapple pieces and some mint leaves.",
             "002",
 
             "Batch",
@@ -4694,11 +4660,37 @@
 
             "Serves 10-12 people. Can be made ahead and chilled.",
 
+            "3|dl|0006| ",
+            "3|dl|0122| ",
+            "6|dl|0046| ",
+            "5|dl|0158|Strong and chilled Earl Grey tea",
+            "1.5|dl|0044| ",
+            "1.5|dl|0054| ",
+            "0| |0096| ",
+            "0| |0176| ",
+            "0| |0070|Mint leaves"
+        ],
+
+        "00116":
+        [
+            "Pisco Punch",
+            "Muddle pineapple pieces in a large container.\nAdd the pisco and let sit in the fridge overnight.\nThen pour everything in a large pitcher and serve.",
+            "002",
+
+            "Batch",
+            "Straight",
+            "Punch",
+
+            "Github",
+            "Image by:\n",
+
+            "Serves 10-12 people. Can be made ahead and chilled.",
+
             "1| |0176| ",
             "5|dl|0080|Peruvian pisco",
             "2|dl|0043| ",
             "2|dl|0062| ",
-            "2|dl|0076| ",
+            "2|dl|0046| ",
             "1.5|dl|0054| "
         ],
 
@@ -4719,7 +4711,8 @@
 
             "6|cl|0006| ",
             "6|cl|0068| ",
-            "12|cl|0046| "
+            "12|cl|0046| ",
+            "1|dl|0062|Ice"
         ],
 
         "00118":
@@ -4730,7 +4723,7 @@
 
             "Shake",
             "On ice",
-            "Highball",
+            "Goblet",
 
             "Github",
             "Image by:\n",
@@ -4762,14 +4755,14 @@
             "",
 
             "6|cl|0002| ",
-            "2|tbsp|0130| ",
+            "2|cl|0130| ",
             "12|cl|0052|Fruit soda"
         ],
 
         "00120":
         [
             "Raspberry Bellini",
-            "Pour the puree and liqueur into a chilled glass.\nTop up with sparkling wine and stir gently.",
+            "Pour the purée and liqueur into a chilled glass.\nTop up with sparkling wine and stir gently.",
             "002",
 
             "Build",
@@ -4781,9 +4774,9 @@
 
             "",
 
-            "4|cl|0099|Raspberry puree",
-            "4|cl|0178| ",
-            "10|cl|0016| "
+            "4|cl|0099|Raspberry purée",
+            "4|cl|0177| ",
+            "10|cl|0016|Dry sparkling wine"
         ],
 
         "00121":
@@ -4802,8 +4795,9 @@
             "",
 
             "3|cl|0021|White chocolate liqueur",
-            "3|cl|0178| ",
-            "6|cl|0064| "
+            "3|cl|0177| ",
+            "6|cl|0064| ",
+            "1|dl|0062|Ice"
         ],
 
         "00122":
@@ -4823,7 +4817,7 @@
 
             "6|cl|0115|Bacardi Razz",
             "0.5| |0163| ",
-            "2|cl|0054| ",
+            "1.5|cl|0054| ",
             "10| |0070| ",
             "8| |0099| ",
             "9|cl|0048| "
@@ -4905,10 +4899,10 @@
 
             "",
 
-            "2|cl|0023| ",
-            "2|cl|0022| ",
+            "2|cl|0023|Baileys",
+            "2|cl|0022|Kahlúa",
             "2|cl|0032| ",
-            "5|cl|0064| "
+            "3|cl|0064| "
         ],
 
         "00127":
@@ -4933,7 +4927,7 @@
 
         "00128":
         [
-            "Singapore Sling",
+            "Singapore Sling no.2",
             "Shake everything except the Bénédictine and strain into a glass with ice.\nTop with Bénédictine and serve.",
             "002",
 
@@ -4949,8 +4943,8 @@
             "3|cl|0002| ",
             "1.5|cl|0112| ",
             "0.75|cl|0025|Cointreau",
-            "12|cl|0046|Fresh pressed",
-            "1.5|cl|0044|Fresh pressed",
+            "12|cl|0046| ",
+            "1.5|cl|0044| ",
             "1|cl|0057| ",
             "1|dash|0041| ",
             "0.75|cl|0105| "
@@ -4959,25 +4953,28 @@
         "00129":
         [
             "Summer Sangria",
-            "Pour everything except the soda into a large pitcher and stir.\nAdd ice and top with soda to taste.",
+            "Pour everything except the soda into a large pitcher and stir.\nAdd ice, citruses and strawberries, top up with fruit soda and serve.",
             "002",
 
             "Batch",
             "On ice",
-            "Wine",
+            "Punch",
 
             "Github",
             "Image by:\n",
 
             "Serves 10-12 people. Can be made ahead and chilled.",
 
-            "150|cl|0013|Sweet Spanish red wine",
-            "15|cl|0025|Cointreau",
-            "15|cl|0157| ",
-            "15|cl|0045| ",
-            "15|cl|0043| ",
-            "15|cl|0054| ",
-            "20|cl|0052|Fruit soda"
+            "15|dl|0013|Sweet Spanish red wine",
+            "1.5|dl|0025|Cointreau",
+            "1.5|dl|0157| ",
+            "1.5|dl|0045| ",
+            "1.5|dl|0043| ",
+            "1.5|dl|0054| ",
+            "2|dl|0052|Fruit soda",
+            " | |0164|Orange slices",
+            " | |0162|Lemon slices",
+            " | |0096| "
         ],
 
         "00130":
@@ -4995,10 +4992,11 @@
 
             "",
 
-            "5|cl|0006| ",
+            "6|cl|0006| ",
             "7| |0096| ",
             "2|cl|0044| ",
-            "2|cl|0054| "
+            "2|cl|0054| ",
+            "1|dl|0062|Ice"
         ],
 
         "00131":
@@ -5038,7 +5036,7 @@
 
             "4|cl|0009| ",
             "2|cl|0032| ",
-            "0.5| |0163|Lime wedges",
+            "5| |0163|Lime wedges",
             "4|cl|0046| ",
             "4|cl|0136| "
         ],
@@ -5051,7 +5049,7 @@
 
             "Build",
             "On ice",
-            "Highball",
+            "Rocks",
 
             "Github",
             "Image by:\n",
@@ -5080,7 +5078,7 @@
             "",
 
             "4|cl|0114|Vanilla vodka",
-            "2|cl|0022| ",
+            "2|cl|0022|Kahlúa",
             "6|cl|0063| ",
             "2|cl|0064|Lightly whipped cream"
         ],
@@ -5108,7 +5106,7 @@
         "00136":
         [
             "Winter Apple",
-            "Pour everything into a glass with ice and stir.",
+            "Pour everything into a glass with ice and stir.\nTop with the cinnamon stick.",
             "002",
 
             "Build",
@@ -5123,18 +5121,20 @@
             "3|cl|0001| ",
             "3|cl|0159| ",
             "1.5|cl|0043| ",
-            "1.5|cl|0054| "
+            "1.5|cl|0054| ",
+            " | |0178|Apple pieces",
+            "1| |0143|Cinnamon stick"
         ],
 
         "00137":
         [
             "Apple Mulled Wine with Calvados",
-            "Heat apple juice with spices, lemon and ginger for 10 minutes.\nAdd calvados and let steep.\nStrain and serve hot in mugs.",
+            "Heat apple juice with the spices, ginger and the lemon for 10 minutes.\nHalf the lemon should be sliced and the other half juiced.\nAdd calvados and let sit in the fridge overnight.\nThen strain and serve hot.",
             "002",
 
             "Batch",
             "Hot",
-            "Mug",
+            "Bottle",
 
             "Github",
             "Image by:\n",
@@ -5145,11 +5145,12 @@
             "2| |0143|Cinnamon sticks",
             "6| |0147|Cardamom pods",
             "2| |0148| ",
-            "100|cl|0119| ",
+            "10|dl|0119| ",
             "1| |0162| ",
-            "3|cm|0073| ",
-            "2|tsp|0149| ",
-            "2|cl|0159| "
+            "1| |0164|Orange peel",
+            "3|piece|0073| ",
+            "2|barsp|0149| ",
+            "2|dl|0159| "
         ],
 
         "00138":
@@ -5167,7 +5168,7 @@
 
             "",
 
-            "5|cl|0004|Coffee infused bourbon",
+            "5|cl|0004|Coffee bean infused Knob Creek Bourbon",
             "1.5|cl|0022| ",
             "1|cl|0131| ",
             "4|cl|0066| "
@@ -5188,9 +5189,9 @@
 
             "",
 
-            "5|cl|0004|Cocoa infused bourbon",
+            "5|cl|0004|Cocoa bean infused Evan black label bourbon",
             "1|cl|0031| ",
-            "1.5|cl|0038| ",
+            "1.5|cl|0038|Fernet Branca",
             "1|dash|0160| "
         ],
 
@@ -5212,7 +5213,7 @@
             "5|cl|0004|Maker's 46 bourbon",
             "1.5|cl|0081| ",
             "6|cl|0066| ",
-            "3|cl|0064|Whipped"
+            "3|cl|0064|Whipped cream"
         ],
 
         "00141":
@@ -5223,23 +5224,23 @@
 
             "Shake",
             "On ice",
-            "Mug",
+            "Rocks",
 
             "Github",
             "Image by:\n",
 
-            "",
+            "Franklins & Sons ginger beer can be substituted with another high quality ginger beer.",
 
-            "4|cl|0004|Four Roses Small Batch",
+            "4|cl|0004|Four Roses Small Batch Bourbon",
             "2.5|cl|0135| ",
             "2.5|cl|0044| ",
-            "9|cl|0050| "
+            "9|cl|0050|Franklins & Sons ginger beer"
         ],
 
         "00142":
         [
             "Sweet Tennessee",
-            "Shake and strain into a chilled glass.",
+            "Rim the glass with chocolate syrup and crushed graham crackers.\nShake the rest of the ingredients, including the chocolate syrup, and strain into a chilled glass.",
             "002",
 
             "Shake",
@@ -5252,9 +5253,10 @@
             "",
 
             "5|cl|0003|Jack Daniels Honey",
-            "2|cl|0132| ",
+            "2.5|cl|0132| ",
             "2.5|cl|0023| ",
-            "1.5|cl|0022| "
+            "1.5|cl|0022| ",
+            "0|rim|0179| "
         ],
 
         "00143":
@@ -5270,13 +5272,13 @@
             "Github",
             "Image by:\n",
 
-            "",
+            "The Blue Moon can be substituted with any other wheat beer.",
 
             "5|cl|0004|Old Grand-dad bourbon",
             "1.5|cl|0043| ",
             "3|dash|0042| ",
             "2.5|cl|0134| ",
-            "3|cl|0161|Bitter orange marmalade",
+            "3|barsp|0161|Bitter orange marmalade",
             "8|cl|0085|Blue Moon wheat beer"
         ],
 
@@ -5295,11 +5297,144 @@
 
             "",
 
-            "4|cl|0004|Rock Town Single Barrel",
+            "4|cl|0004|Rock Town Single Barrel Bourbon",
             "1|cl|0025| ",
             "-div-Foam (12 servings)",
             "1/12|dl|0061|Egg white",
             "2/12|dl|0133| "
+        ],
+
+        "00145":
+        [
+            "Long Island Iced Tea",
+            "Pour everything except the cola into a glass with ice.\nTop up with cola and serve.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "2|cl|0001| ",
+            "2|cl|0002| ",
+            "2|cl|0006| ",
+            "2|cl|0010| ",
+            "2|cl|0025|Cointreau",
+            "2|cl|0043| ",
+            "8|cl|0051| "
+        ],
+
+        "00146":
+        [
+            "Lumumba",
+            "Pour cognac into a glass.\nFill up with hot chocolate and top with lightly whipped cream.",
+            "002",
+
+            "Build",
+            "Hot",
+            "Coffee",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "6|cl|0012| ",
+            "14|cl|0156| ",
+            "4|cl|0064|Lightly whipped cream"
+        ],
+
+        "00147":
+        [
+            "Lynchburg Lemonade",
+            "Shake everything except the soda and strain into a glass with ice.\nTop up with soda and serve.",
+            "002",
+
+            "Shake",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "3|cl|0003|Jack Daniel's",
+            "3|cl|0025| ",
+            "3|cl|0043| ",
+            "20|cl|0052|Fruit soda"
+        ],
+
+        "00148":
+        [
+            "Mai Tai",
+            "Pour everything into a glass with ice and stir.",
+            "002",
+
+            "Build",
+            "On ice",
+            "Hurricane",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "2|cl|0006| ",
+            "2|cl|0008| ",
+            "1.5|cl|0025| ",
+            "1.5|cl|0059| ",
+            "1|cl|0057| ",
+            "4|cl|0045| ",
+            "4|cl|0046| ",
+            "2|cl|0044| "
+        ],
+
+        "00149":
+        [
+            "Mango Sling",
+            "Mix everything with ice until half-frozen consistency and pour into a glass.",
+            "002",
+
+            "Mix",
+            "Frozen",
+            "Hurricane",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0114|Absolut Apeach",
+            "2|cl|0129| ",
+            "2|cl|0043| ",
+            "2|cl|0054| ",
+            "1| |0117|Chopped mango",
+            "1|dl|0062|Ice"
+        ],
+
+        "00150":
+        [
+            "Manhattan",
+            "Stir everything in a mixing glass until chilled.\nStrain into a chilled glass and serve.",
+            "002",
+
+            "Stir",
+            "Straight",
+            "Cocktail",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "4|cl|0003|Canadian whisky",
+            "2|cl|0035| ",
+            "3|dash|0041| "
         ]
     }
 }
