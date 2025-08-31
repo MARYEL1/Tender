@@ -2263,7 +2263,7 @@
             "-div-Foam (12 servings)",
             "4/12|dl|0068| ",
             "2/12|dl|0076| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0093|Basil leaf"
         ],
 
@@ -2285,7 +2285,7 @@
             "5|cl|0002| ",
             "2|cl|0043| ",
             "2|cl|0055| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0162|Lemon twist"
         ],
 
@@ -2306,7 +2306,7 @@
 
             "6|cl|0002| ",
             "12|cl|0049| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0163|Slice of lime"
         ],
 
@@ -2328,7 +2328,7 @@
             "4.5|cl|0002| ",
             "6.5|cl|0048| ",
             "6.5|cl|0049| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0162|Lemon twist"
         ],
 
@@ -2352,7 +2352,7 @@
             "2|cl|0043| ",
             "1| |0061|Egg white",
             "2|dash|0041| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0164|Slice of orange",
             "-gar-|0180|Maraschino cherry"
         ],
@@ -2375,7 +2375,7 @@
             "6|cl|0004| ",
             "2|cl|0043| ",
             "2|cl|0055| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0162|Lemon twist"
         ],
 
@@ -2398,7 +2398,7 @@
             "12|cl|0018| ",
             "3|cl|0048| ",
             "4| |0070|Mint leaves",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0070|Mint sprig",
             "-gar-|0162|Slice of lemon"
         ],
@@ -2423,7 +2423,7 @@
             "2|cl|0043| ",
             "0.75|cl|0072|Scotch, single",
             "3|piece|0073| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0073|Candied ginger"
         ],
 
@@ -2445,7 +2445,7 @@
             "3|cl|0002| ",
             "3|cl|0035| ",
             "3|cl|0037| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0164|Orange twist"
         ],
 
@@ -2487,7 +2487,7 @@
             "6|cl|0074| ",
             "3|cl|0044| ",
             "2|cl|0054| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0163|Lime twist"
         ],
 
@@ -2509,7 +2509,7 @@
             "6|cl|0069| ",
             "3|cl|0035| ",
             "2|dash|0041| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0180|Brandied cherry"
         ],
 
@@ -2531,7 +2531,7 @@
             "7.5|cl|0002| ",
             "1.5|cl|0034| ",
             "1|dash|0042| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0162|Lemon twist"
         ],
 
@@ -2553,7 +2553,7 @@
             "6|cl|0006| ",
             "3|cl|0044| ",
             "2.25|cl|0075| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0163|Lime twist"
         ],
 
@@ -2576,7 +2576,7 @@
             "1|barsp|0076| ",
             "3|dash|0041| ",
             "1|barsp|0062| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0164|Orange twist"
         ],
 
@@ -2599,7 +2599,7 @@
             "3|cl|0043| ",
             "1.5|cl|0054| ",
             "9|cl|0048|Club soda",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0162|Slice of lemon",
             "-gar-|0180|Maraschino cherry"
         ],
@@ -2624,7 +2624,7 @@
             "1|barsp|0062| ",
             "4|dash|0077| ",
             "7.5|cl|0069| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0162|Lemon twist"
         ],
 
@@ -2647,7 +2647,7 @@
             "3|cl|0044| ",
             "12|cl|0078| ",
             "1|pinch|0079| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0163|Slice of lime"
         ],
 
@@ -2669,7 +2669,7 @@
             "6|cl|0001| ",
             "1.5|cl|0044| ",
             "9|cl|0050| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0163|Lime twist"
         ],
 
@@ -2692,7 +2692,7 @@
             "4.5|cl|0035| ",
             "0.75|cl|0026|Luxardo maraschino liqueur",
             "2|dash|0041| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0164|Orange twist"
         ],
 
@@ -2737,7 +2737,7 @@
             "1.5|cl|0043| ",
             "1.5|cl|0054| ",
             "9|cl|0017| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0162|Lemon twist"
         ],
 
@@ -2761,7 +2761,7 @@
             "0.75|cl|0054| ",
             "8| |0070|Mint leaves",
             "2|dash|0041| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0070|Mint sprig"
         ],
 
@@ -2784,7 +2784,7 @@
             "2.25|cl|0030| ",
             "2.25|cl|0026| ",
             "2.25|cl|0044| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0180|Brandied cherry"
         ],
 
@@ -2829,7 +2829,7 @@
             "2|cl|0082| ",
             "2|cl|0025| ",
             "2|cl|0043| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0162|Lemon twist"
         ],
 
@@ -2853,7 +2853,7 @@
             "6|cl|0006| ",
             "2.25|cl|0044| ",
             "9|cl|0048|Club soda",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0070|Mint sprig",
             "-gar-|0163|Slice of lime"
         ],
@@ -2900,7 +2900,7 @@
             "3|cl|0044| ",
             "1.5|cl|0056| ",
             "0|rim|0079|kosher salt",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0163|Slice of lime"
         ],
 
@@ -2922,7 +2922,7 @@
             "6|cl|0037| ",
             "6|cl|0014|Dry white wine",
             "3|cl|0048| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0164|Slice of orange"
         ],
 
@@ -2967,7 +2967,7 @@
             "4|cl|0046| ",
             "3|cl|0044| ",
             "2|cl|0054| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0176|Pineapple leaves",
             "-gar-|0180|Maraschino cherry"
         ],
@@ -2992,7 +2992,7 @@
             "3|cl|0043| ",
             "2|cl|0054| ",
             "5| |0087| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0087|Grape cluster"
         ],
 
@@ -3015,7 +3015,7 @@
             "1|cl|0025| ",
             "3|cl|0044| ",
             "2|cl|0059| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0070|Mint sprig",
             "-gar-|0163|Slice of lime",
             "-gar-|0180|Maraschino cherry"
@@ -3047,7 +3047,7 @@
             "1/10| |0091|Rosemary sprig",
             "2/20|dl|0076| ",
             "2/20|dl|0062| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0089|Dried grapefruit"
         ],
 
@@ -3070,7 +3070,7 @@
             "2|cl|0026| ",
             "1|cl|0092|The Bitter Truth violet liqueur",
             "2|cl|0043| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0180|Maraschino cherry"
         ],
 
@@ -3093,7 +3093,7 @@
             "3|cl|0084| ",
             "2|cl|0054| ",
             "0.5|cl|0073|Ginger juice",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0070|Mint sprig"
         ],
 
@@ -3115,7 +3115,7 @@
             "3|cl|0001| ",
             "3|cl|0054| ",
             "12|cl|0066| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0181| "
         ],
 
@@ -3138,7 +3138,7 @@
             "3|cl|0043| ",
             "2|cl|0054| ",
             "10| |0093|Basil leaves",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0093|Basil sprig"
         ],
 
@@ -3183,7 +3183,7 @@
             "3|cl|0043| ",
             "2|cl|0095| ",
             "1| |0061|Egg white",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0099| "
         ],
 
@@ -3206,7 +3206,7 @@
             "3|cl|0044| ",
             "2|cl|0054| ",
             "1| |0096| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0096|Strawberry"
         ],
 
@@ -3229,7 +3229,7 @@
             "3|cl|0023| ",
             "10|cl|0065|Hot coffee",
             "5|cl|0064|Lightly whipped cream",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0182|Grated chocolate"
         ],
 
@@ -3251,7 +3251,7 @@
             "4|cl|0027| ",
             "8|cl|0016|Dry sparkling wine",
             "2|cl|0048| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0162|Slices of lemon"
         ],
 
@@ -3276,7 +3276,7 @@
             "-div-Coconut syrup",
             "400/13|ml|0068| ",
             "400/26|ml|0076| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0176|Pineapple leaves",
             "-gar-|0180|Maraschino cherry"
         ],
@@ -3299,7 +3299,7 @@
             "5|cl|0028| ",
             "10|cl|0063| ",
             "1|cl|0057| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0165|Cherry"
         ],
 
@@ -3567,7 +3567,7 @@
             "2.5|cl|0033| ",
             "2|cl|0043| ",
             "6|cl|0048| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0162|Slice of lemon"
         ],
 
@@ -3698,7 +3698,7 @@
             "5|cl|0048| ",
             "8| |0093|Basil leaves",
             "6|cl|0169|Chopped cucumber",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0169|Cucumber ribbon",
             "-gar-|0162|Lemon twist"
         ],
@@ -3724,7 +3724,7 @@
             "-div-Cucumber water (6 servings)",
             "0.5/6| |0169| ",
             "12/6|cl|0062| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0169|Cucumber rislices",
             "-gar-|0070|Mint sprig"
         ],
@@ -5588,7 +5588,7 @@
             "4.5|cl|0001| ",
             "4.5|cl|0097| ",
             "12|cl|0104| ",
-            "-div-Garnish",
+            "-div-",
             "-gar-|0089|Grapefruit wedge"
         ]
     }
