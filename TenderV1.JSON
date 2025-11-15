@@ -5590,6 +5590,29 @@
             "12|cl|0104| ",
             "-div-Garnish",
             "-gar-|0089|Grapefruit wedge"
+        ],
+
+        "00152":
+        [
+            "Bloody Mary Cocktail",
+            "Rim the glass with pepper.\nShake everything until chilled.\nStrain into a chilled glass with ice and garnish with celery.",
+            "006",
+
+            "Shake",
+            "On ice",
+            "Highball",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "5|cl|0001| ",
+            "6|cl|0047| ",
+            "0.25|barsp|0102| ",
+            "0.25|barsp|0146| ",
+            "5|dash|0151| ",
+            "0.5|barsp|0152| "
         ]
     }
 }
