@@ -5594,8 +5594,8 @@
 
         "00152":
         [
-            "Bloody Mary Cocktail",
-            "Rim the glass with pepper.\nShake everything until chilled.\nStrain into a chilled glass with ice and garnish with celery.",
+            "Bloody Mary",
+            "Rim the glass with celery salt.\nShake everything until chilled.\nStrain into a chilled glass with ice and garnish with celery and cucumber.",
             "006",
 
             "Shake",
@@ -5612,7 +5612,30 @@
             "0.25|barsp|0102| ",
             "0.25|barsp|0146| ",
             "5|dash|0151| ",
-            "0.5|barsp|0152| "
+            "0.5|barsp|0152| ",
+            "0|rim|0146| ",
+            "-gar-|0145|Celery stalk",
+            "-gar-|0169|Cucumber ribbon"
+        ],
+
+        "00153":
+        [
+            "Mimosa",
+            "Pour everything into a chilled glass and stir gently. Garnish with the orange slice and serve.",
+            "006",
+
+            "Build",
+            "Straight",
+            "Flute",
+
+            "Github",
+            "Image by:\n",
+
+            "",
+
+            "8|cl|0018| ",
+            "8|cl|0045| ",
+            "-gar-|0164|Orange slice"
         ]
     }
 }
